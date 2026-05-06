@@ -21,6 +21,15 @@ Use this file to understand:
 - how to avoid common mistakes,
 - and how to apply the framework in a useful way.
 
+The goal is to help an AI system understand the repository without confusing:
+
+- canonical terms with human-facing terms,
+- structural layers with registers,
+- registers with Bridges,
+- Bridges with Expression Formats,
+- diagnostic distortions with the well-formed condition,
+- speculative resonances with proven equivalences.
+
 ---
 
 ## 2. Read order
@@ -35,9 +44,10 @@ Read the repository in this order:
 6. `framework/layer-1-mechanical-layer.md`
 7. `framework/layer-2-human-registers.md`
 8. Relevant files in `registers/`
-9. Relevant files in `expression-formats/`
+9. `bridges/README.md`
+10. Relevant files in `expression-formats/`
 
-Do not begin by reading proposed or exploratory files unless the user specifically asks about them.
+Do not begin by reading proposed, exploratory, archived, or future files unless the user specifically asks about them.
 
 ---
 
@@ -50,12 +60,17 @@ When files conflict, use this order of authority:
 3. `QUICK-REFERENCE.md`
 4. `framework/` files
 5. `registers/` files
-6. `expression-formats/` files
-7. proposed, archived, or exploratory files
+6. `bridges/` files
+7. `expression-formats/` files
+8. proposed, archived, or exploratory files
 
 `CONVENTIONS.md` is the main authority for naming, notation, and usage.
 
 Registers are translation layers. They should not override canonical structure.
+
+Bridges are comparative translation documents. They should not override canonical structure.
+
+Expression Formats describe forms the framework can take. They should not redefine the framework.
 
 ---
 
@@ -100,11 +115,26 @@ Do not present the framework as:
 - a universal explanation,
 - or a replacement for human judgment.
 
-The framework is a developing tool for reflection, diagnosis, translation, and practical reasoning.
+The framework is a developing tool for reflection, diagnosis, translation, comparison, and practical reasoning.
 
 ---
 
-## 6. Core architecture
+## 6. Core repository categories
+
+The repository uses four major conceptual categories:
+
+```text
+Framework = the core structure itself.
+Human Registers = how the framework speaks.
+Bridges = how the framework compares and translates across external systems.
+Expression Formats = how the framework appears, circulates, and operates.
+```
+
+Do not collapse these categories into each other.
+
+---
+
+## 7. Core architecture
 
 ### Layer 0: The Structural Layer
 
@@ -167,7 +197,7 @@ They are ways of speaking the same underlying structure.
 
 ---
 
-## 7. Do not confuse Forces and Pulls
+## 8. Do not confuse Forces and Pulls
 
 This is one of the most important distinctions in the repository.
 
@@ -204,7 +234,7 @@ Use **The Three Pulls** for human-facing practical reflection.
 
 ---
 
-## 8. Diagnostic overlays
+## 9. Diagnostic overlays
 
 The framework uses three diagnostic distortions:
 
@@ -231,7 +261,49 @@ Do not treat Coherent Formation as a fourth distortion.
 
 ---
 
-## 9. Expression Formats
+## 10. Bridges
+
+Bridges are comparative translation documents.
+
+They connect The Triadic Integrity Framework with external frameworks, theories, traditions, modalities, or vocabularies.
+
+A Bridge asks:
+
+```text
+How does The Triadic Integrity Framework relate to another system?
+```
+
+Bridges are not Human Registers.
+
+A Human Register translates the framework into usable language for a domain, audience, or situation.
+
+A Bridge compares the framework with an external system and identifies:
+
+- useful resonances,
+- possible translations,
+- mismatches,
+- limits,
+- and cautions against overclaiming.
+
+Possible future Bridges include:
+
+- Peirce Bridge,
+- Active Inference Bridge,
+- 4E Cognition Bridge,
+- ACT Bridge,
+- IFS Bridge,
+- Self-Determination Theory Bridge,
+- Relevance Realization Bridge.
+
+Bridge work should clarify comparison.
+
+Do not treat Bridges as proof that two systems are the same.
+
+Do not claim direct derivation, equivalence, validation, or expert scholarship unless the repository explicitly supports it.
+
+---
+
+## 11. Expression Formats
 
 Expression Formats are the forms the framework can take so it can be stored, displayed, taught, reused, navigated, or executed.
 
@@ -250,6 +322,7 @@ Key distinction:
 
 ```text
 Human Registers = how the framework speaks.
+Bridges = how the framework compares and translates across systems.
 Expression Formats = how the framework appears, circulates, and operates.
 ```
 
@@ -259,7 +332,7 @@ It is not the framework itself.
 
 ---
 
-## 10. How to apply the framework
+## 12. How to apply the framework
 
 When asked to apply the framework to a situation, prefer this sequence:
 
@@ -284,7 +357,29 @@ Use the framework to clarify the situation, not to bury it in notation.
 
 ---
 
-## 11. Default output shape
+## 13. How to compare the framework with an external system
+
+When asked to compare the framework with an external system, treat that as Bridge work.
+
+Prefer this sequence:
+
+```text
+1. Name the external system being compared.
+2. Give a brief, careful description of that system.
+3. Identify useful resonances.
+4. Identify possible translations.
+5. Identify mismatches and limits.
+6. State what should not be claimed.
+7. Explain what the comparison helps clarify.
+```
+
+Do not turn an external system into a Human Register unless it is actually being used as practical human-facing language.
+
+Do not use Bridge work to make the framework seem more authoritative than it is.
+
+---
+
+## 14. Default output shape
 
 When giving a practical framework-based response, use this shape:
 
@@ -314,7 +409,42 @@ The framework should reduce confusion, not add cognitive load.
 
 ---
 
-## 12. How to use symbols
+## 15. Default Bridge output shape
+
+When giving a Bridge-style comparison, use this shape:
+
+```markdown
+## Comparison target
+
+Name the external system, theory, modality, or vocabulary.
+
+## Useful resonances
+
+Where the comparison seems helpful.
+
+## Translation table
+
+| External system term | Triadic Integrity term | Notes |
+|---|---|---|
+
+## Mismatches and limits
+
+Where the comparison breaks or should not be overclaimed.
+
+## What this helps clarify
+
+What becomes clearer because of the comparison.
+
+## What not to claim
+
+Explicit boundaries.
+```
+
+For quick comparisons, use a shorter version.
+
+---
+
+## 16. How to use symbols
 
 Symbols are useful for precision, tables, and lookup.
 
@@ -340,7 +470,7 @@ Plain language usually comes first.
 
 ---
 
-## 13. Claim boundaries
+## 17. Claim boundaries
 
 Be careful with external intellectual comparisons.
 
@@ -352,7 +482,9 @@ Do not claim:
 - scientific validation,
 - equivalence,
 - proof,
-- or expert-level scholarship.
+- expert-level scholarship,
+- clinical authority,
+- or spiritual authority.
 
 Acceptable wording:
 
@@ -361,6 +493,7 @@ This has some loose resonance with...
 This may be usefully compared to...
 This resembles...
 This could be tested against...
+This suggests a possible translation...
 ```
 
 Avoid wording such as:
@@ -376,7 +509,7 @@ The framework should be tested through use, examples, and external critique.
 
 ---
 
-## 14. Agent-readable writing
+## 18. Agent-readable writing
 
 When writing or revising files in this repository, prefer Markdown that is:
 
@@ -400,7 +533,7 @@ Use headings, short paragraphs, lists, and tables where useful.
 
 ---
 
-## 15. How to improve the repository
+## 19. How to improve the repository
 
 When evaluating or improving the repository, prioritize:
 
@@ -410,7 +543,9 @@ When evaluating or improving the repository, prioritize:
 4. adding worked examples,
 5. deepening one register before adding more,
 6. reducing symbol overload in human-facing files,
-7. clarifying what is canonical vs exploratory.
+7. clarifying what is canonical vs exploratory,
+8. keeping Bridges separate from Human Registers,
+9. keeping Expression Formats separate from both.
 
 Do not grow the framework horizontally too quickly.
 
@@ -425,7 +560,7 @@ better tests.
 
 ---
 
-## 16. Minimum viable agent behavior
+## 20. Minimum viable agent behavior
 
 A useful agent working with this repository should be able to:
 
@@ -433,13 +568,16 @@ A useful agent working with this repository should be able to:
 - distinguish Forces from Pulls,
 - explain Slack, Tight, Misdirected, and Coherent Formation,
 - choose an appropriate Human Register,
-- avoid overclaiming philosophical or scientific authority,
+- distinguish Human Registers from Bridges,
+- distinguish Bridges from Expression Formats,
+- avoid overclaiming philosophical, scientific, clinical, or spiritual authority,
 - generate practical next moves from a diagnosis,
+- compare the framework with external systems cautiously when asked,
 - and keep notation light unless precision is needed.
 
 ---
 
-## 17. Working rule
+## 21. Working rule
 
 The central working rule is:
 
@@ -454,3 +592,5 @@ If the symbols add friction, use plain language.
 If the diagnosis is uncertain, say so.
 
 If a practical next move is available, name it.
+
+If a comparison is being made, state the limits.
