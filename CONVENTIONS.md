@@ -16,6 +16,8 @@ Use it as the authority for:
 - core terminology,
 - symbol usage,
 - register usage,
+- Bridge usage,
+- Expression Format usage,
 - diagnostic language,
 - file naming,
 - and Markdown formatting.
@@ -28,9 +30,16 @@ When another file conflicts with this one, assume this file is more current unle
 
 Use this description when a short explanation is needed:
 
-> The Triadic Integrity Framework is a working grammar for noticing what is happening, understanding stuckness, and choosing a better next move. It organizes experience through three layers: structural primitives, mechanical systems, and human-facing registers. The repository is written so that both humans and AI agents can read, test, and apply the framework.
+> The Triadic Integrity Framework is a working grammar for noticing what is happening, understanding stuckness, and choosing a better next move. It organizes experience through structural primitives, mechanical systems, and human-facing registers. The repository is written so that both humans and AI agents can read, test, and apply the framework.
 
-Avoid describing the framework as a finished theory, clinical tool, spiritual system, or universal explanation.
+Avoid describing the framework as:
+
+- a finished theory,
+- a clinical tool,
+- a spiritual system,
+- a scientific model,
+- a universal explanation,
+- or a formal interpretation of Peirce.
 
 ---
 
@@ -62,7 +71,22 @@ In the current architecture:
 
 ---
 
-## 4. The Three Articulation Layers
+## 4. Core repository categories
+
+The repository uses four major conceptual categories.
+
+```text
+Framework = the core structure itself.
+Human Registers = how the framework speaks.
+Bridges = how the framework compares and translates across external systems.
+Expression Formats = how the framework appears, circulates, and operates.
+```
+
+These categories should not be collapsed into each other.
+
+---
+
+## 5. The Three Articulation Layers
 
 The framework is organized into three articulation layers.
 
@@ -97,11 +121,11 @@ Layer 1 is the main diagnostic layer.
 
 Layer 2 translates the framework into human-facing language for specific domains, audiences, or use cases.
 
-Registers are translations, not separate frameworks.
+Human Registers are translations, not separate frameworks.
 
 ---
 
-## 5. Layer 0 terminology
+## 6. Layer 0 terminology
 
 Use these Layer 0 terms consistently.
 
@@ -121,9 +145,11 @@ The three Layer 0 dyads are:
 
 Triadic Integration is not a fourth primitive.
 
+Use **dyadic**, not **diadic**.
+
 ---
 
-## 6. Layer 1 systems
+## 7. Layer 1 systems
 
 Use these as the canonical Layer 1 system names.
 
@@ -139,7 +165,7 @@ Preferred summary:
 
 ---
 
-## 7. Layer 1 component structure
+## 8. Layer 1 component structure
 
 Each Layer 1 system contains seven components:
 
@@ -159,7 +185,7 @@ The older term **Emergent Triangle** may still appear in human-facing material, 
 
 ---
 
-## 8. Canonical Layer 1 names
+## 9. Canonical Layer 1 names
 
 ### The Three Forces
 
@@ -199,6 +225,15 @@ Emergent formation:
 
 - **Capacity Formation**
 
+Human-facing phrases may include:
+
+- Co-Regulated Support
+- Legible Structure
+- Embodied Integrity
+- Held Capacity
+
+These phrases should not replace the canonical Layer 1 terms in framework files.
+
 ---
 
 ### The Three Operations
@@ -219,9 +254,18 @@ Emergent formation:
 
 - **Operation Formation**
 
+Human-facing phrases may include:
+
+- Test in Contact
+- Integrated Alignment
+- Disciplined Experimentation
+- Adaptive Practice
+
+These phrases should not replace the canonical Layer 1 terms in framework files.
+
 ---
 
-## 9. Diagnostic language
+## 10. Diagnostic language
 
 The framework uses three diagnostic distortions and one well-formed condition.
 
@@ -245,7 +289,125 @@ In canonical files, prefer **Coherent Formation**.
 
 ---
 
-## 10. Symbol usage
+## 11. Human Register conventions
+
+A Human Register is a Layer 2 translation of the framework into usable language for a particular audience, domain, or situation.
+
+Current working Human Registers:
+
+- **The Three Pulls Register**
+- **The Working Register**
+- **The Embodied Register**
+- **The Kid Register**
+- **Proposed Registers**
+
+Human Registers are not separate frameworks.
+
+They should remain traceable back to Layer 1 and Layer 0.
+
+Each full Human Register should include:
+
+- purpose,
+- best use cases,
+- core translation table,
+- register vocabulary,
+- diagnostic translation,
+- examples,
+- traceability note,
+- and working rule.
+
+---
+
+## 12. The Three Pulls Register
+
+The Three Pulls Register preserves the original formative language of the framework.
+
+Use this mapping:
+
+| Canonical Layer 1 | Three Pulls Register |
+|---|---|
+| **The Three Forces** | The Three Pulls |
+| **Qualitative Force** | Pull 1: Aliveness |
+| **Contact Force** | Pull 2: Coordination / Encounter |
+| **Continuity Force** | Pull 3: Stability / Steadiness |
+| **Force Formation** | Wholesome Triangle |
+
+Use **The Three Forces** for canonical structure.
+
+Use **The Three Pulls** for human-facing practical reflection.
+
+---
+
+## 13. Bridge conventions
+
+**Bridges** are comparative translation documents.
+
+They connect The Triadic Integrity Framework with external frameworks, theories, traditions, modalities, or vocabularies.
+
+A Bridge asks:
+
+```text
+How does The Triadic Integrity Framework relate to another system?
+```
+
+Bridges are not Human Registers.
+
+A Human Register translates the framework into usable language for a domain or audience.
+
+A Bridge compares the framework with an external system and identifies:
+
+- useful resonances,
+- possible translations,
+- mismatches,
+- limits,
+- and cautions against overclaiming.
+
+Possible future Bridges include:
+
+- Peirce Bridge
+- Active Inference Bridge
+- 4E Cognition Bridge
+- ACT Bridge
+- IFS Bridge
+- Self-Determination Theory Bridge
+- Relevance Realization Bridge
+
+Bridge files should not be created casually.
+
+They require careful comparison, explicit limits, and clear warnings against overclaiming.
+
+---
+
+## 14. Expression Format conventions
+
+Expression Formats are the forms the framework takes so it can be stored, displayed, taught, navigated, reused, or executed.
+
+Examples:
+
+- GitHub Markdown repository
+- printable PDF
+- diagram
+- structured data file
+- public website
+- AI agent prompt
+- physical model
+- table or grid
+
+Key distinction:
+
+```text
+Human Registers = how the framework speaks.
+Bridges = how the framework compares and translates across systems.
+Expression Formats = how the framework appears, circulates, and operates.
+```
+
+Expression Formats are not new layers of the framework.
+
+They are ways the framework takes form.
+
+---
+
+## 15. Symbol usage
 
 Symbols are useful for precision, but they should not become a barrier.
 
@@ -269,7 +431,7 @@ Plain language is preferred when clarity matters more than precision.
 
 ---
 
-## 11. Core symbols
+## 16. Core symbols
 
 Layer 0 symbols:
 
@@ -308,7 +470,7 @@ These are internal framework symbols. Do not imply that they are standard outsid
 
 ---
 
-## 12. Icon-first convention
+## 17. Icon-first convention
 
 When using symbols in canonical files, put the symbol first.
 
@@ -338,7 +500,7 @@ In human-facing files, it is acceptable to omit symbols for readability.
 
 ---
 
-## 13. Dense notation
+## 18. Dense notation
 
 Use compact notation only where it helps.
 
@@ -370,76 +532,7 @@ The notation should support thought, not replace it.
 
 ---
 
-## 14. Human Register conventions
-
-A Human Register is a Layer 2 translation of the framework.
-
-Each register should make clear:
-
-- what domain it serves,
-- what audience or use case it is for,
-- how it translates Forces,
-- how it translates Capacities,
-- how it translates Operations,
-- and what kinds of situations it helps interpret.
-
-Current or emerging registers include:
-
-- **The Three Pulls Register**
-- **The Working Register**
-- **The Embodied Register**
-- **The Kid Register**
-- **Proposed Registers**
-
-Registers should preserve the underlying Layer 1 structure, but they do not need to show full symbolic notation in every section.
-
----
-
-## 15. The Three Pulls Register
-
-The Three Pulls Register preserves the original formative language of the framework.
-
-Use this mapping:
-
-| Canonical Layer 1 | Three Pulls Register |
-|---|---|
-| **The Three Forces** | The Three Pulls |
-| **Qualitative Force** | Pull 1: Aliveness |
-| **Contact Force** | Pull 2: Coordination / Encounter |
-| **Continuity Force** | Pull 3: Stability / Steadiness |
-| **Force Formation** | Wholesome Triangle |
-
-Use **The Three Forces** for canonical structure.
-
-Use **The Three Pulls** for human-facing practical reflection.
-
----
-
-## 16. Expression Formats
-
-Expression Formats are the forms the framework takes so it can be stored, displayed, taught, navigated, reused, or executed.
-
-Examples:
-
-- GitHub Markdown repository
-- printable PDF
-- diagram
-- structured data file
-- public website
-- AI agent prompt
-- physical model
-- table or grid
-
-Key distinction:
-
-```text
-Human Registers = how the framework speaks.
-Expression Formats = how the framework appears, circulates, and operates.
-```
-
----
-
-## 17. Agent-readable writing
+## 19. Agent-readable writing
 
 This repository is intended to be readable by both humans and AI agents.
 
@@ -465,7 +558,8 @@ Avoid:
 - long tangled paragraphs,
 - unexplained notation,
 - inconsistent names,
-- and excessive conceptual sprawl.
+- excessive conceptual sprawl,
+- and creating new terms when existing terms are enough.
 
 Use caution with the phrase **AI-native**.
 
@@ -483,7 +577,7 @@ structured so that both humans and AI agents can read, test, and apply the frame
 
 ---
 
-## 18. Peirce references
+## 20. Peirce references
 
 Peirce may be mentioned as background resonance, especially around Quality, Contact, and Continuity.
 
@@ -501,13 +595,16 @@ Avoid:
 This is a Peircean system.
 The framework is derived from Peirce.
 The framework is Peircean in structure.
+The framework proves Peirce’s categories.
 ```
 
 This repository is not a Peirce scholarship project.
 
+More detailed Peirce comparison should be treated as future Bridge work, not as core framework authority.
+
 ---
 
-## 19. Markdown style
+## 21. Markdown style
 
 Use clean Markdown with real line breaks.
 
@@ -531,7 +628,7 @@ Tables should be readable in raw Markdown.
 
 ---
 
-## 20. File naming
+## 22. File naming
 
 Use lowercase kebab-case for file names.
 
@@ -541,6 +638,8 @@ Preferred:
 layer-0-structural-layer.md
 working-register.md
 worked-case-template.md
+peirce-bridge.md
+github-markdown.md
 ```
 
 Avoid:
@@ -549,11 +648,35 @@ Avoid:
 Layer0StructuralLayer.md
 Working Register.md
 worked_case_template.md
+PeirceBridge.md
 ```
 
 ---
 
-## 21. Canon vs experiment
+## 23. Suggested directory roles
+
+Use the current repository structure this way:
+
+```text
+framework/             = the framework itself
+registers/             = Human Registers
+bridges/               = comparative translation documents
+expression-formats/    = ways the framework appears and operates
+agents/                = future AI-agent materials
+data/                  = future machine-readable canon
+archive/               = retired or historical material
+examples/              = future worked examples
+```
+
+Not all future directories need to exist yet.
+
+Do not create directories just because they are listed here.
+
+Create them when there is useful content to hold.
+
+---
+
+## 24. Canon vs experiment
 
 Use clear status labels where helpful.
 
@@ -561,21 +684,77 @@ Suggested labels:
 
 ```text
 Canonical working draft
-Exploratory
+Working draft
+Experimental
 Proposed
+Stub
 Archived
 Deprecated
+Retired
 ```
 
 Canonical files may still change, but they should be treated as the current working reference.
 
-Exploratory files may contain experiments, unresolved possibilities, or alternate language.
+Experimental files may contain unresolved possibilities or alternate language.
 
 Deprecated material should be preserved only when historically useful.
 
 ---
 
-## 22. Development principle
+## 25. Public-facing caution
+
+This is a public-facing repository.
+
+Avoid including:
+
+- private group names,
+- private participant names,
+- private conversations,
+- identifiable internal dynamics,
+- unnecessary personal disclosure.
+
+The public repository should be understandable without private context.
+
+Use general language such as:
+
+- collaborators,
+- AI agents,
+- development conversations,
+- private working group.
+
+The framework can have a private development history without exposing that history in public files.
+
+---
+
+## 26. Claim boundaries
+
+Avoid overclaiming.
+
+Do not claim that the framework is:
+
+- clinically validated,
+- scientifically proven,
+- equivalent to an external theory,
+- derived from Peirce,
+- a replacement for therapy,
+- a replacement for religion,
+- a complete theory of human life.
+
+Prefer careful language:
+
+```text
+This may help clarify...
+This may be useful for noticing...
+This loosely resonates with...
+This can be compared with...
+This suggests a possible translation...
+```
+
+The framework should be judged by use.
+
+---
+
+## 27. Development principle
 
 The framework should grow vertically before it grows horizontally.
 
@@ -584,10 +763,29 @@ This means:
 - deepen one register before adding many more,
 - add worked examples before adding more abstract elaboration,
 - test distinctions before multiplying terms,
+- keep Bridge work separate from Register work,
+- keep Expression Formats separate from both,
 - prefer demonstrated usefulness over conceptual elegance.
 
 The central question is:
 
 ```text
 Does this help someone see and respond more clearly?
+```
+
+---
+
+## 28. Working rule
+
+When adding or revising repository material, ask:
+
+```text
+What category does this belong to?
+Is it Framework, Human Register, Bridge, Expression Format, Example, Agent material, Data, or Archive?
+Does it use current naming conventions?
+Does it preserve the distinction between Forces and Pulls?
+Does it avoid overclaiming?
+Can a human reader follow it?
+Can an AI agent use it?
+Does it make the framework clearer rather than merely bigger?
 ```
