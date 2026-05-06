@@ -52,6 +52,7 @@ The Triadic Integrity Framework is meant to help with:
 - mapping self-help, therapeutic, philosophical, and practical frameworks by function,
 - creating clearer prompts for AI-assisted reflection,
 - building human-facing registers that translate the same deep structure into different domains,
+- creating bridge documents that compare the framework with external systems,
 - and testing whether a simple triadic grammar can support practical insight.
 
 It is not a clinical tool, a spiritual doctrine, a personality system, a scientific theory, or a replacement for existing human expertise.
@@ -128,15 +129,51 @@ Current and emerging registers include:
 - **The Working Register** — for work, projects, effort, burnout, and practical prioritization.
 - **The Embodied Register** — for felt experience, self-regulation, affect, and bodily awareness.
 - **The Kid Register** — for child-friendly emotional and practical language.
-- Additional proposed registers for relational, narrative, cognitive, creative, spiritual, caregiving, family-system, and other domains.
+- **Additional proposed registers** — for relational, narrative, cognitive, creative, spiritual, caregiving, family-system, and other domains.
 
 Registers are translations, not separate frameworks.
 
 ---
 
-## Expression formats
+## Bridges
 
-Expression formats are the forms the framework can take so it can be stored, displayed, taught, navigated, reused, or executed.
+Bridges are comparative translation documents.
+
+They connect The Triadic Integrity Framework with external frameworks, theories, traditions, modalities, or vocabularies.
+
+A Bridge asks:
+
+```text
+How does The Triadic Integrity Framework relate to another system?
+```
+
+Bridges are not Human Registers.
+
+Human Registers translate the framework into usable language for a domain, audience, or situation.
+
+Bridges compare the framework with an external system and identify:
+
+- useful resonances,
+- possible translations,
+- mismatches,
+- limits,
+- and cautions against overclaiming.
+
+Possible future Bridges include:
+
+- Peirce
+- active inference
+- 4E cognition
+- ACT
+- IFS
+- Self-Determination Theory
+- relevance realization
+
+---
+
+## Expression Formats
+
+Expression Formats are the forms the framework can take so it can be stored, displayed, taught, navigated, reused, or executed.
 
 Examples include:
 
@@ -149,9 +186,13 @@ Examples include:
 - interactive tools,
 - and physical models.
 
-Layer 2 registers describe how the framework speaks.
+Key distinction:
 
-Expression formats describe how the framework appears, circulates, and operates.
+```text
+Human Registers = how the framework speaks.
+Bridges = how the framework compares and translates across systems.
+Expression Formats = how the framework appears, circulates, and operates.
+```
 
 ---
 
@@ -176,8 +217,12 @@ registers/
   kid-register.md
   proposed-registers.md
 
+bridges/
+  README.md
+
 expression-formats/
-  expression-formats.md
+  README.md
+  github-markdown.md
 ```
 
 ---
@@ -197,6 +242,7 @@ data/
   layer-0.json
   layer-1.json
   registers.json
+  bridges.json
 
 archive/
   earlier-drafts/
@@ -215,6 +261,8 @@ For a human reader:
 3. Read `framework/layer-0-structural-layer.md`.
 4. Read `framework/layer-1-mechanical-layer.md`.
 5. Read one register, probably `registers/three-pulls-register.md` or `registers/working-register.md`.
+6. Read `bridges/README.md` if interested in how the framework may compare with external systems.
+7. Read `expression-formats/README.md` if interested in the forms the framework may take.
 
 For an AI agent:
 
@@ -223,19 +271,21 @@ For an AI agent:
 3. Use `GLOSSARY.md` for term definitions.
 4. Use the framework files as the canonical structure.
 5. Treat register files as translation layers.
+6. Treat Bridge files as comparative translation documents.
+7. Treat Expression Format files as documentation of the forms the framework can take.
 
 ---
 
 ## Development priorities
 
-The next priority is not to add many more registers.
+The next priority is not to add many more registers or bridges.
 
 The next priority is to make the existing framework easier to test.
 
 Near-term priorities:
 
 1. Clean and stabilize the core terminology.
-2. Add and maintain a concise glossary.
+2. Maintain a concise glossary.
 3. Add worked examples.
 4. Demonstrate the diagnostic layer with real cases.
 5. Develop one human-facing register more deeply.
@@ -253,6 +303,7 @@ This project should avoid:
 - excessive symbol density in human-facing materials,
 - premature claims of scientific or philosophical authority,
 - adding more registers before existing ones are tested,
+- adding bridge documents before there is enough care to compare honestly,
 - treating AI-generated coherence as proof of usefulness,
 - and mistaking elegant structure for demonstrated value.
 
