@@ -1,20 +1,46 @@
 # Layer 1: The Mechanical Layer
 
-**Status:** Working Draft  
+**Status:** Canonical working draft  
 **Canon:** Layer 1 Canon v1.0  
 **Framework:** The Triadic Integrity Framework  
-**Also known as:** Tri Everything  
-**Author:** Gwendolyn Huot with ChatGPT
+**Author:** Gwendolyn Huot with ChatGPT  
 
 ---
 
-## 1. Extended description
+## 1. Purpose
 
-**Layer 1: The Mechanical Layer** translates the structural grammar of Layer 0 into a working model.
+Layer 1 is the mechanical layer of The Triadic Integrity Framework.
 
-Where **Layer 0: The Structural Layer** names the basic metaphysical primitives — **★ Quality**, **● Contact**, and **■ Continuity** — Layer 1 asks how those primitives behave as a system.
+It translates the structural grammar of Layer 0 into a working model.
 
-Layer 1 is called “mechanical” because it describes forces, capacities, operations, relations, distortions, and formations. This does not mean the framework treats human experience as a literal machine. It means the framework uses mechanical language to make patterns visible, traceable, and usable.
+Layer 0 asks:
+
+```text
+What are the basic structural ingredients?
+```
+
+Layer 1 asks:
+
+```text
+How do those ingredients behave as a working system?
+```
+
+Layer 1 is called “mechanical” because it describes:
+
+- forces
+- capacities
+- operations
+- relations
+- distortions
+- formations
+
+This does not mean the framework treats human experience as a literal machine.
+
+It means the framework uses mechanical language to make patterns visible, traceable, and usable.
+
+---
+
+## 2. Core summary
 
 Layer 1 contains three mechanical systems:
 
@@ -22,52 +48,17 @@ Layer 1 contains three mechanical systems:
 - **⬡ The Three Capacities**
 - **↻ The Three Operations**
 
-The basic summary is:
+Preferred summary:
 
 > **⟶ Forces generate movement. ⬡ Capacities determine what the system can bear. ↻ Operations tune the system toward responsive integrity.**
 
-Each Layer 1 system contains seven components:
-
-- three **○ Elements**
-- three **⟷ Relations**
-- one **△ Emergent Formation**
-
-The compact grammar is:
+At a practical level, Layer 1 asks:
 
 ```text
-○ element → ⟷ relation → △ emergent formation
+What is trying to happen?          → Forces
+What can the system actually hold? → Capacities
+What move is available?            → Operations
 ```
-
-Layer 1 is where the framework becomes operational. It makes it possible to ask:
-
-- What force is active?
-- What can the system bear?
-- What operation is needed?
-- Which relation is weak, over-tightened, or misdirected?
-- What would **✓ Coherent Formation** look like here?
-
-Layer 1 is the main bridge between the metaphysical structure of Layer 0 and the human-facing language of Layer 2.
-
----
-
-## 2. Purpose
-
-Layer 1 exists to make the framework usable as a model.
-
-It turns the underlying triadic structure into a grammar for:
-
-- describing experience
-- diagnosing stuck patterns
-- locating distortions
-- choosing next moves
-- building human registers
-- designing AI agents
-- comparing practices, methods, and frameworks
-- creating diagrams, prompts, tables, and decision tools
-
-Layer 1 is not a clinical diagnostic system. It does not diagnose medical or psychological conditions.
-
-It is a practical grammar for noticing system patterns.
 
 ---
 
@@ -83,39 +74,47 @@ Layer 1 translates those primitives into mechanical behavior.
 
 | Layer 0 primitive | Layer 1 mechanical expression |
 |---|---|
-| **★ Quality** | qualitative force, salience, intensity, felt charge |
-| **● Contact** | contact force, encounter, resistance, relation, actuality |
-| **■ Continuity** | continuity force, pattern, persistence, form, stabilization |
-
-Layer 0 asks:
-
-> What are the basic structural ingredients?
-
-Layer 1 asks:
-
-> How do those ingredients behave in a working system?
+| **★ Quality** | qualitative force, salience, felt charge, intensity, regulatory capacity, exploration |
+| **● Contact** | contact force, encounter, resistance, relation, structural capacity, coordination |
+| **■ Continuity** | continuity force, pattern, persistence, form, integrity capacity, stabilization |
 
 Layer 1 should always remain traceable back to Layer 0.
 
 ---
 
-## 4. The three Layer 1 systems
+## 4. Component grammar
 
-Layer 1 contains three mechanical systems.
-
-| Symbol | System | Function |
-|---|---|---|
-| **⟶** | **The Three Forces** | What generates movement. |
-| **⬡** | **The Three Capacities** | What determines what the system can bear. |
-| **↻** | **The Three Operations** | What tunes the system toward responsive integrity. |
-
-Each system has the same internal structure:
+Each Layer 1 system contains seven components:
 
 ```text
-3 elements + 3 relations + 1 emergent formation = 7 components
+3 elements + 3 relations + 1 emergent formation
 ```
 
-Across the three systems, Layer 1 contains:
+The component types are:
+
+| Symbol | Component type | Meaning |
+|---|---|---|
+| **○** | **Element** | A basic point, force, capacity, or operation inside a system. |
+| **⟷** | **Relation** | A two-part relation between elements. |
+| **△** | **Emergent Formation** | The formed whole that emerges when the elements and relations cohere. |
+
+Compact grammar:
+
+```text
+○ element → ⟷ relation → △ emergent formation
+```
+
+The elements are not isolated units.
+
+The relations are not optional extras.
+
+The emergent formation is not a fourth element. It is the formed whole generated by the relations among the components.
+
+---
+
+## 5. The 21 Layer 1 components
+
+Layer 1 contains:
 
 ```text
 3 systems × 7 components = 21 Layer 1 components
@@ -123,56 +122,42 @@ Across the three systems, Layer 1 contains:
 
 These 21 components form the basis for the Layer 1 diagnostic matrix.
 
----
-
-## 5. Component grammar
-
-Each Layer 1 system contains three component types.
-
-| Symbol | Component type | Description |
-|---|---|---|
-| **○** | **Element** | A basic point, force, capacity, or operation inside a system. |
-| **⟷** | **Relation** | A two-part relation between elements. |
-| **△** | **Emergent Formation** | The system-level formation that emerges when the three elements and three relations cohere. |
-
-Use the compact grammar:
-
-```text
-○ element → ⟷ relation → △ emergent formation
-```
-
-The **○ Elements** are not isolated units.
-
-The **⟷ Relations** are not optional extras.
-
-The **△ Emergent Formation** is not a fourth element. It is the formed whole generated by the relations among the components.
+| System | Elements | Relations | Emergent formation |
+|---|---|---|---|
+| **⟶ The Three Forces** | **⟶○★ Qualitative Force**<br>**⟶○● Contact Force**<br>**⟶○■ Continuity Force** | **⟶⟷★● Quality–Contact Force Relation**<br>**⟶⟷●■ Contact–Continuity Force Relation**<br>**⟶⟷★■ Quality–Continuity Force Relation** | **⟶△ Force Formation** |
+| **⬡ The Three Capacities** | **⬡○★ Bodily/Regulatory Capacity**<br>**⬡○● Social/Structural Capacity**<br>**⬡○■ Form/Integrity Capacity** | **⬡⟷★● Bodily/Regulatory–Social/Structural Capacity Relation**<br>**⬡⟷●■ Social/Structural–Form/Integrity Capacity Relation**<br>**⬡⟷★■ Bodily/Regulatory–Form/Integrity Capacity Relation** | **⬡△ Capacity Formation** |
+| **↻ The Three Operations** | **↻○★ Explore Operation**<br>**↻○● Coordinate Operation**<br>**↻○■ Stabilize Operation** | **↻⟷★● Explore–Coordinate Operation Relation**<br>**↻⟷●■ Coordinate–Stabilize Operation Relation**<br>**↻⟷★■ Explore–Stabilize Operation Relation** | **↻△ Operation Formation** |
 
 ---
 
 ## 6. Important terminology note
 
-In earlier and more human-facing versions of the framework, System 1 was called **The Three Pulls**, and its emergent formation was called the **Wholesome Triangle**.
+In earlier and more human-facing versions of the framework, Layer 1 System 1 was called **The Three Pulls**, and its emergent formation was called the **Wholesome Triangle**.
 
-In this repository architecture, that language belongs to **Layer 2: The Human Registers Layer**.
+In the current architecture, that language belongs to **Layer 2: Human Registers**.
 
 Canonical Layer 1 language uses:
 
-- **⟶ The Three Forces**, not “The Three Pulls”
-- **⟶△ Force Formation**, not “Wholesome Triangle”
+- **⟶ The Three Forces**, not **The Three Pulls**
+- **⟶△ Force Formation**, not **Wholesome Triangle**
 
-The Three Pulls language may still be useful as a public-facing or practical human register, but it is not the objective mechanical terminology for Layer 1.
+The Three Pulls language remains useful as a practical human-facing register, but it is not the canonical mechanical terminology for Layer 1.
 
 ---
 
-## 7. ⟶ The Three Forces
+# System 1: ⟶ The Three Forces
+
+## 7. Overview
 
 **⟶ The Three Forces** describe what generates movement.
 
 They are the system’s active directional tendencies.
 
-The Forces answer:
+They answer:
 
-> What is exerting force here?
+```text
+What is trying to happen?
+```
 
 The three Force elements are:
 
@@ -244,9 +229,9 @@ The three Forces generate three relations.
 
 | ID | Component | Relation | Short definition |
 |---|---|---|---|
-| **⟶⟷★●** | **Quality–Contact Force Relation** | **⟶○★ + ⟶○●** | Qualitative force meeting encounter. |
-| **⟶⟷●■** | **Contact–Continuity Force Relation** | **⟶○● + ⟶○■** | Contact force becoming patterned over time. |
-| **⟶⟷★■** | **Quality–Continuity Force Relation** | **⟶○★ + ⟶○■** | Qualitative force persisting as recognizable form. |
+| **⟶⟷★●** | **Quality–Contact Force Relation** | **⟶○★ + ⟶○●** | Qualitative Force meeting Contact Force. |
+| **⟶⟷●■** | **Contact–Continuity Force Relation** | **⟶○● + ⟶○■** | Contact Force becoming patterned over time. |
+| **⟶⟷★■** | **Quality–Continuity Force Relation** | **⟶○★ + ⟶○■** | Qualitative Force persisting as recognizable form. |
 
 ---
 
@@ -337,17 +322,27 @@ A formed Force system has:
 - enough contact to stay real
 - enough continuity to hold form over time
 
+In the Three Pulls Register, this may be translated as:
+
+```text
+Wholesome Triangle
+```
+
 ---
 
-## 16. ⬡ The Three Capacities
+# System 2: ⬡ The Three Capacities
+
+## 16. Overview
 
 **⬡ The Three Capacities** describe what the system can bear.
 
 They are the supports, bounds, containers, and load-bearing conditions that allow Forces to function without collapse, overstrain, or distortion.
 
-The Capacities answer:
+They answer:
 
-> What can this system hold?
+```text
+What can this system actually hold?
+```
 
 The three Capacity elements are:
 
@@ -413,15 +408,15 @@ The three Capacities generate three relations.
 
 | ID | Component | Relation | Short definition |
 |---|---|---|---|
-| **⬡⟷★●** | **Regulatory–Structural Capacity Relation** | **⬡○★ + ⬡○●** | Bodily regulation supported by social or structural conditions. |
-| **⬡⟷●■** | **Structural–Integrity Capacity Relation** | **⬡○● + ⬡○■** | External support organized into coherent form. |
-| **⬡⟷★■** | **Regulatory–Integrity Capacity Relation** | **⬡○★ + ⬡○■** | Inner regulation aligned with coherent form. |
+| **⬡⟷★●** | **Bodily/Regulatory–Social/Structural Capacity Relation** | **⬡○★ + ⬡○●** | Bodily regulation supported by social or structural conditions. |
+| **⬡⟷●■** | **Social/Structural–Form/Integrity Capacity Relation** | **⬡○● + ⬡○■** | External support organized into coherent form. |
+| **⬡⟷★■** | **Bodily/Regulatory–Form/Integrity Capacity Relation** | **⬡○★ + ⬡○■** | Inner regulation aligned with coherent form. |
 
 ---
 
-## 21. ⬡⟷★● Regulatory–Structural Capacity Relation
+## 21. ⬡⟷★● Bodily/Regulatory–Social/Structural Capacity Relation
 
-**⬡⟷★● Regulatory–Structural Capacity Relation** is the relation between bodily regulation and social or structural support.
+**⬡⟷★● Bodily/Regulatory–Social/Structural Capacity Relation** is the relation between bodily regulation and social or structural support.
 
 It describes how a person or system becomes more able to bear intensity when the surrounding conditions help regulate the load.
 
@@ -432,17 +427,17 @@ Examples:
 - a supportive room making a hard conversation possible
 - a tool or checklist lowering cognitive burden
 
-### Human-register phrase
+Human-register phrase:
 
-A more human-facing Layer 2 phrase for this relation is:
-
-> Co-Regulated Support
+```text
+Co-Regulated Support
+```
 
 ---
 
-## 22. ⬡⟷●■ Structural–Integrity Capacity Relation
+## 22. ⬡⟷●■ Social/Structural–Form/Integrity Capacity Relation
 
-**⬡⟷●■ Structural–Integrity Capacity Relation** is the relation between external support and coherent form.
+**⬡⟷●■ Social/Structural–Form/Integrity Capacity Relation** is the relation between external support and coherent form.
 
 It describes how social, environmental, or structural conditions become organized into something understandable and usable.
 
@@ -453,17 +448,17 @@ Examples:
 - a shared agreement creating stability
 - a workflow making responsibilities legible
 
-### Human-register phrase
+Human-register phrase:
 
-A more human-facing Layer 2 phrase for this relation is:
-
-> Legible Structure
+```text
+Legible Structure
+```
 
 ---
 
-## 23. ⬡⟷★■ Regulatory–Integrity Capacity Relation
+## 23. ⬡⟷★■ Bodily/Regulatory–Form/Integrity Capacity Relation
 
-**⬡⟷★■ Regulatory–Integrity Capacity Relation** is the relation between internal regulation and coherent form.
+**⬡⟷★■ Bodily/Regulatory–Form/Integrity Capacity Relation** is the relation between internal regulation and coherent form.
 
 It describes how a form can be held in a way that remains embodied, regulated, and alive rather than brittle or dissociated.
 
@@ -474,11 +469,11 @@ Examples:
 - sustaining a practice without overstraining
 - keeping standards without becoming rigid
 
-### Human-register phrase
+Human-register phrase:
 
-A more human-facing Layer 2 phrase for this relation is:
-
-> Embodied Integrity
+```text
+Embodied Integrity
+```
 
 ---
 
@@ -503,23 +498,29 @@ A formed Capacity system has:
 - enough support to stay in contact
 - enough form to remain coherent
 
-### Human-register phrase
+Human-register phrase:
 
-A more human-facing Layer 2 phrase for this formation is:
-
-> Held Capacity
+```text
+Held Capacity
+```
 
 ---
 
-## 25. ↻ The Three Operations
+# System 3: ↻ The Three Operations
+
+## 25. Overview
 
 **↻ The Three Operations** describe what the system can do to tune itself.
 
-They are adaptive moves. They help bring Forces and Capacities into better relation.
+They are adaptive moves.
 
-The Operations answer:
+They help bring Forces and Capacities into better relation.
 
-> What move is needed now?
+They answer:
+
+```text
+What move is available?
+```
 
 The three Operation elements are:
 
@@ -604,11 +605,11 @@ Examples:
 - asking whether a plan works for another person
 - trying the thing instead of only imagining it
 
-### Human-register phrase
+Human-register phrase:
 
-A more human-facing Layer 2 phrase for this relation is:
-
-> Test in Contact
+```text
+Test in Contact
+```
 
 ---
 
@@ -625,11 +626,11 @@ Examples:
 - turning a conflict into a clearer boundary
 - turning a recurring issue into a routine or system
 
-### Human-register phrase
+Human-register phrase:
 
-A more human-facing Layer 2 phrase for this relation is:
-
-> Integrated Alignment
+```text
+Integrated Alignment
+```
 
 ---
 
@@ -646,11 +647,11 @@ Examples:
 - trying variations while preserving the core form
 - giving curiosity a repeatable practice
 
-### Human-register phrase
+Human-register phrase:
 
-A more human-facing Layer 2 phrase for this relation is:
-
-> Disciplined Experimentation
+```text
+Disciplined Experimentation
+```
 
 ---
 
@@ -675,27 +676,17 @@ A formed Operation system has:
 - enough coordination to stay in contact
 - enough stabilization to retain what works
 
-### Human-register phrase
+Human-register phrase:
 
-A more human-facing Layer 2 phrase for this formation is:
-
-> Adaptive Practice
-
----
-
-## 34. The 21 Layer 1 components
-
-Layer 1 contains 21 components.
-
-| System | Elements | Relations | Emergent formation |
-|---|---|---|---|
-| **⟶ The Three Forces** | **⟶○★ Qualitative Force**<br>**⟶○● Contact Force**<br>**⟶○■ Continuity Force** | **⟶⟷★● Quality–Contact Force Relation**<br>**⟶⟷●■ Contact–Continuity Force Relation**<br>**⟶⟷★■ Quality–Continuity Force Relation** | **⟶△ Force Formation** |
-| **⬡ The Three Capacities** | **⬡○★ Bodily/Regulatory Capacity**<br>**⬡○● Social/Structural Capacity**<br>**⬡○■ Form/Integrity Capacity** | **⬡⟷★● Regulatory–Structural Capacity Relation**<br>**⬡⟷●■ Structural–Integrity Capacity Relation**<br>**⬡⟷★■ Regulatory–Integrity Capacity Relation** | **⬡△ Capacity Formation** |
-| **↻ The Three Operations** | **↻○★ Explore Operation**<br>**↻○● Coordinate Operation**<br>**↻○■ Stabilize Operation** | **↻⟷★● Explore–Coordinate Operation Relation**<br>**↻⟷●■ Coordinate–Stabilize Operation Relation**<br>**↻⟷★■ Explore–Stabilize Operation Relation** | **↻△ Operation Formation** |
+```text
+Adaptive Practice
+```
 
 ---
 
-## 35. Diagnostic overlays
+# Diagnostic Overlay
+
+## 34. Overview
 
 Layer 1 is the main home of the diagnostic overlay.
 
@@ -722,9 +713,9 @@ It is the condition in which a component, relation, or system is formed coherent
 
 ---
 
-## 36. ∿ Slack
+## 35. ∿ Slack
 
-**∿ Slack** describes insufficient activation, support, force, relation, or form.
+**∿ Slack** describes insufficient activation, support, force, relation, structure, or form.
 
 A Slack pattern may appear as:
 
@@ -740,18 +731,15 @@ A Slack pattern may appear as:
 
 Examples:
 
-- **⟶○★ Qualitative Force — ∿ Slack**  
-  Not enough felt energy, vividness, salience, or qualitative charge.
-
-- **⬡○● Social/Structural Capacity — ∿ Slack**  
-  Not enough support, structure, agreement, or external scaffolding.
-
-- **↻○■ Stabilize Operation — ∿ Slack**  
-  Not enough follow-through, continuity, routine, or form.
+| Component | Slack pattern |
+|---|---|
+| **⟶○★ Qualitative Force** | Not enough felt energy, vividness, salience, or qualitative charge. |
+| **⬡○● Social/Structural Capacity** | Not enough support, structure, agreement, or external scaffolding. |
+| **↻○■ Stabilize Operation** | Not enough follow-through, continuity, routine, or form. |
 
 ---
 
-## 37. ≡ Tight
+## 36. ≡ Tight
 
 **≡ Tight** describes excessive activation, pressure, rigidity, force, constraint, or over-control.
 
@@ -770,18 +758,15 @@ A Tight pattern may appear as:
 
 Examples:
 
-- **⟶○■ Continuity Force — ≡ Tight**  
-  Too much insistence on control, sameness, predictability, or fixed form.
-
-- **⬡○★ Bodily/Regulatory Capacity — ≡ Tight**  
-  The body is over-braced, over-controlled, or unable to relax.
-
-- **↻○● Coordinate Operation — ≡ Tight**  
-  Too much managing, checking, negotiating, or forcing alignment.
+| Component | Tight pattern |
+|---|---|
+| **⟶○■ Continuity Force** | Too much insistence on control, sameness, predictability, or fixed form. |
+| **⬡○★ Bodily/Regulatory Capacity** | The body is over-braced, over-controlled, or unable to relax. |
+| **↻○● Coordinate Operation** | Too much managing, checking, negotiating, or forcing alignment. |
 
 ---
 
-## 38. ↯ Misdirected
+## 37. ↯ Misdirected
 
 **↯ Misdirected** describes skewed, misaligned, misplaced, confused, or wrongly aimed force, support, relation, or operation.
 
@@ -798,18 +783,15 @@ A Misdirected pattern may appear as:
 
 Examples:
 
-- **⟶○★ Qualitative Force — ↯ Misdirected**  
-  Energy or interest is real, but aimed at the wrong object.
-
-- **⬡○■ Form/Integrity Capacity — ↯ Misdirected**  
-  The form is coherent in itself but wrong for the situation.
-
-- **↻○★ Explore Operation — ↯ Misdirected**  
-  Exploration becomes novelty-chasing or avoidance of the real issue.
+| Component | Misdirected pattern |
+|---|---|
+| **⟶○★ Qualitative Force** | Energy or interest is real, but aimed at the wrong object. |
+| **⬡○■ Form/Integrity Capacity** | The form is coherent in itself but wrong for the situation. |
+| **↻○★ Explore Operation** | Exploration becomes novelty-chasing or avoidance of the real issue. |
 
 ---
 
-## 39. ✓ Coherent Formation
+## 38. ✓ Coherent Formation
 
 **✓ Coherent Formation** is the well-formed condition of a component, relation, or system.
 
@@ -832,348 +814,190 @@ A pattern of **✓ Coherent Formation** may appear as:
 
 Examples:
 
-- **⟶△ Force Formation — ✓ Coherent Formation**  
-  The Forces are charged, contacted, and continuous enough to generate movement with integrity.
-
-- **⬡△ Capacity Formation — ✓ Coherent Formation**  
-  The system can bear the forces moving through it.
-
-- **↻△ Operation Formation — ✓ Coherent Formation**  
-  The system can explore, coordinate, and stabilize in a continuing cycle of adjustment.
+| Component | Coherent Formation pattern |
+|---|---|
+| **⟶△ Force Formation** | The Forces are charged, contacted, and continuous enough to generate movement with integrity. |
+| **⬡△ Capacity Formation** | The system can bear the forces moving through it. |
+| **↻△ Operation Formation** | The system can explore, coordinate, and stabilize in a continuing cycle of adjustment. |
 
 ---
 
-## 40. The Layer 1 diagnostic matrix
+## 39. Applying Layer 1
 
-The Layer 1 diagnostic matrix crosses:
-
-```text
-21 Layer 1 components × 3 diagnostic distortions = 63 diagnostic rows
-```
-
-The diagnostic distortions are:
-
-- **∿ Slack**
-- **≡ Tight**
-- **↯ Misdirected**
-
-The 63-row matrix does not include **✓ Coherent Formation** as a fourth diagnostic distortion.
-
-Instead, **✓ Coherent Formation** is the well-formed condition that can be described for any component, relation, or system.
-
-The diagnostic matrix belongs in a separate file:
+When applying Layer 1 to a situation, use this sequence:
 
 ```text
-framework/diagnostic-matrix.md
+1. What is trying to happen?          → Forces
+2. What can the system actually hold? → Capacities
+3. What move is available?            → Operations
+4. Is the pattern Slack, Tight, or Misdirected?
+5. What would Coherent Formation require?
 ```
 
-This Layer 1 file defines the components that the matrix uses.
+Layer 1 should help locate the main pattern of stuckness.
+
+It should not create unnecessary complexity.
+
+If a practical answer becomes overloaded with symbols, return to plain language.
 
 ---
 
-## 41. Practical use
+## 40. Relationship to Layer 2
 
-Layer 1 can be used as a practical decision-making grammar.
-
-A simple Layer 1 check-in asks:
-
-```text
-1. ⟶ What force is active?
-2. ⬡ What can the system bear?
-3. ↻ What operation is needed?
-```
-
-A fuller version asks:
-
-```text
-1. ⟶ Which Force is active?
-2. ⬡ Which Capacity is sufficient or insufficient?
-3. ↻ Which Operation would help?
-4. ∿ Is anything Slack?
-5. ≡ Is anything Tight?
-6. ↯ Is anything Misdirected?
-7. ✓ What would Coherent Formation look like?
-```
-
-Layer 1 is useful when a person or AI system needs to move from vague reflection into a clearer next step.
-
----
-
-## 42. Relationship to Layer 2
-
-Layer 2 translates Layer 1 into human registers.
-
-Layer 1 provides the mechanical structure.
-
-Layer 2 provides domain-specific, audience-specific, or practice-specific language.
+Layer 2 translates Layer 1 into Human Registers.
 
 Examples:
 
-| Layer 1 structure | Possible Layer 2 translation |
+| Layer 1 system | Possible Layer 2 translation |
 |---|---|
-| **⟶ The Three Forces** | pulls, drives, motivations, tugs, demands, energies |
-| **⬡ The Three Capacities** | bandwidth, support, room, holding, container |
-| **↻ The Three Operations** | moves, practices, adjustments, revisions |
-| **∿ Slack** | not enough, underpowered, unsupported |
-| **≡ Tight** | too much, over-controlled, pressured |
-| **↯ Misdirected** | aimed wrong, misread, out of alignment |
-| **✓ Coherent Formation** | working well enough, integrated, held, responsive |
+| **The Three Forces** | Pulls, Tugs, Demands, Currents, Tensions |
+| **The Three Capacities** | Hold, Room, Bandwidth, Holding, Container |
+| **The Three Operations** | Moves, Adjustments, Revisions, Practices, Inside Moves |
 
-Human Registers should remain traceable back to the Layer 1 structure.
+Layer 2 language should remain traceable back to Layer 1.
 
-They should not become separate frameworks.
+Human Registers are allowed to be more intuitive, emotional, practical, poetic, child-friendly, spiritual, or domain-specific.
+
+But they should not override the canonical Layer 1 structure.
 
 ---
 
-## 43. The Three Pulls as a Layer 2 register
+## 41. Relationship to Expression Formats
 
-The human-facing language of **The Three Pulls** can be treated as a Layer 2 register that translates **⟶ The Three Forces** into more intuitive experiential terms.
+Layer 1 can be expressed in many formats, including:
 
-Possible mapping:
+- Markdown documentation
+- quick reference tables
+- diagnostic matrices
+- printable PDFs
+- diagrams
+- agent prompts
+- structured data files
+- physical models
+- websites
 
-| Layer 1 mechanical term | Layer 2 Three Pulls Register |
-|---|---|
-| **⟶ The Three Forces** | The Three Pulls |
-| **⟶○★ Qualitative Force** | Pull 1: Aliveness |
-| **⟶○● Contact Force** | Pull 2: Coordination / Encounter |
-| **⟶○■ Continuity Force** | Pull 3: Stability / Steadiness |
-| **⟶△ Force Formation** | Wholesome Triangle |
+These are Expression Formats.
 
-This keeps Layer 1 objective while preserving the usefulness of the Three Pulls language for practical, human-facing work.
+Expression Formats are not new layers.
 
----
-
-## 44. AI-native use
-
-Layer 1 is especially important for AI-native use because it provides a compact diagnostic and decision-making grammar.
-
-An AI system can use Layer 1 to parse a situation by asking:
-
-```text
-What Force is active?
-What Capacity is bearing or failing to bear the load?
-What Operation is needed?
-Is the pattern Slack, Tight, or Misdirected?
-What would Coherent Formation look like?
-```
-
-This can support:
-
-- reflective coaching
-- practical decision-making
-- diagnostic routing
-- agent behavior
-- prompt design
-- self-help framework mapping
-- intervention classification
-- project planning
-- emotional pattern analysis
-- creative practice support
-
-Layer 1 does not replace judgment.
-
-It provides a structured way to reason.
+They are ways the framework appears, circulates, or operates.
 
 ---
 
-## 45. Machine-readable summary
+## 42. Structured summary
 
 ```yaml
 layer: 1
 canonical_name: "Layer 1: The Mechanical Layer"
 canon_version: "Layer 1 Canon v1.0"
 framework: "The Triadic Integrity Framework"
-nickname: "Tri Everything"
 orientation:
   - mechanical
-  - practical
   - diagnostic
-  - recursive
-  - ai-native
+  - practical
   - traceable_to_layer_0
+  - translatable_to_layer_2
+
 systems:
   - id: forces
     symbol: "⟶"
     name: "The Three Forces"
-    function: "Generate movement."
-    summary: "Forces generate movement."
-    components:
-      elements:
-        - id: qualitative_force
-          symbol: "⟶○★"
-          name: "Qualitative Force"
-          layer_0_root: "★ Quality"
-          short_definition: "The force of felt salience, vividness, intensity, or qualitative charge."
-        - id: contact_force
-          symbol: "⟶○●"
-          name: "Contact Force"
-          layer_0_root: "● Contact"
-          short_definition: "The force of encounter, resistance, friction, relation, or actuality."
-        - id: continuity_force
-          symbol: "⟶○■"
-          name: "Continuity Force"
-          layer_0_root: "■ Continuity"
-          short_definition: "The force of pattern, persistence, repetition, stabilization, or continuing form."
-      relations:
-        - id: quality_contact_force_relation
-          symbol: "⟶⟷★●"
-          name: "Quality–Contact Force Relation"
-          short_definition: "Qualitative force meeting encounter."
-        - id: contact_continuity_force_relation
-          symbol: "⟶⟷●■"
-          name: "Contact–Continuity Force Relation"
-          short_definition: "Contact force becoming patterned over time."
-        - id: quality_continuity_force_relation
-          symbol: "⟶⟷★■"
-          name: "Quality–Continuity Force Relation"
-          short_definition: "Qualitative force persisting as recognizable form."
-      emergent_formation:
-        id: force_formation
-        symbol: "⟶△"
-        name: "Force Formation"
-        short_definition: "The formed Forces system: charged, contacted, and continuous enough to generate movement with integrity."
+    core_question: "What is trying to happen?"
+    elements:
+      - id: qualitative_force
+        symbol: "⟶○★"
+        name: "Qualitative Force"
+        layer_0_root: "★ Quality"
+      - id: contact_force
+        symbol: "⟶○●"
+        name: "Contact Force"
+        layer_0_root: "● Contact"
+      - id: continuity_force
+        symbol: "⟶○■"
+        name: "Continuity Force"
+        layer_0_root: "■ Continuity"
+    emergent_formation:
+      id: force_formation
+      symbol: "⟶△"
+      name: "Force Formation"
+
   - id: capacities
     symbol: "⬡"
     name: "The Three Capacities"
-    function: "Determine what the system can bear."
-    summary: "Capacities determine what the system can bear."
-    components:
-      elements:
-        - id: bodily_regulatory_capacity
-          symbol: "⬡○★"
-          name: "Bodily/Regulatory Capacity"
-          layer_0_root: "★ Quality"
-          short_definition: "The capacity to regulate intensity, sensation, affect, energy, and bodily state."
-        - id: social_structural_capacity
-          symbol: "⬡○●"
-          name: "Social/Structural Capacity"
-          layer_0_root: "● Contact"
-          short_definition: "The capacity provided by relational, social, environmental, and structural support."
-        - id: form_integrity_capacity
-          symbol: "⬡○■"
-          name: "Form/Integrity Capacity"
-          layer_0_root: "■ Continuity"
-          short_definition: "The capacity of a form to hold together, remain legible, and preserve integrity."
-      relations:
-        - id: regulatory_structural_capacity_relation
-          symbol: "⬡⟷★●"
-          name: "Regulatory–Structural Capacity Relation"
-          short_definition: "Bodily regulation supported by social or structural conditions."
-        - id: structural_integrity_capacity_relation
-          symbol: "⬡⟷●■"
-          name: "Structural–Integrity Capacity Relation"
-          short_definition: "External support organized into coherent form."
-        - id: regulatory_integrity_capacity_relation
-          symbol: "⬡⟷★■"
-          name: "Regulatory–Integrity Capacity Relation"
-          short_definition: "Inner regulation aligned with coherent form."
-      emergent_formation:
-        id: capacity_formation
-        symbol: "⬡△"
-        name: "Capacity Formation"
-        short_definition: "The formed Capacities system: able to bear the forces moving through it."
+    core_question: "What can the system actually hold?"
+    elements:
+      - id: bodily_regulatory_capacity
+        symbol: "⬡○★"
+        name: "Bodily/Regulatory Capacity"
+        layer_0_root: "★ Quality"
+      - id: social_structural_capacity
+        symbol: "⬡○●"
+        name: "Social/Structural Capacity"
+        layer_0_root: "● Contact"
+      - id: form_integrity_capacity
+        symbol: "⬡○■"
+        name: "Form/Integrity Capacity"
+        layer_0_root: "■ Continuity"
+    emergent_formation:
+      id: capacity_formation
+      symbol: "⬡△"
+      name: "Capacity Formation"
+
   - id: operations
     symbol: "↻"
     name: "The Three Operations"
-    function: "Tune the system toward responsive integrity."
-    summary: "Operations tune the system toward responsive integrity."
-    components:
-      elements:
-        - id: explore_operation
-          symbol: "↻○★"
-          name: "Explore Operation"
-          layer_0_root: "★ Quality"
-          short_definition: "Follow, test, or increase salience and possibility."
-        - id: coordinate_operation
-          symbol: "↻○●"
-          name: "Coordinate Operation"
-          layer_0_root: "● Contact"
-          short_definition: "Bring the system into better contact, relation, feedback, or alignment."
-        - id: stabilize_operation
-          symbol: "↻○■"
-          name: "Stabilize Operation"
-          layer_0_root: "■ Continuity"
-          short_definition: "Create, maintain, or restore continuity and form."
-      relations:
-        - id: explore_coordinate_operation_relation
-          symbol: "↻⟷★●"
-          name: "Explore–Coordinate Operation Relation"
-          short_definition: "Explore by bringing possibility into contact with reality."
-        - id: coordinate_stabilize_operation_relation
-          symbol: "↻⟷●■"
-          name: "Coordinate–Stabilize Operation Relation"
-          short_definition: "Coordinate in a way that stabilizes into reliable form."
-        - id: explore_stabilize_operation_relation
-          symbol: "↻⟷★■"
-          name: "Explore–Stabilize Operation Relation"
-          short_definition: "Explore within enough structure to learn and retain value."
-      emergent_formation:
-        id: operation_formation
-        symbol: "↻△"
-        name: "Operation Formation"
-        short_definition: "The formed Operations system: able to keep tuning itself."
-diagnostic_overlays:
+    core_question: "What move is available?"
+    elements:
+      - id: explore_operation
+        symbol: "↻○★"
+        name: "Explore Operation"
+        layer_0_root: "★ Quality"
+      - id: coordinate_operation
+        symbol: "↻○●"
+        name: "Coordinate Operation"
+        layer_0_root: "● Contact"
+      - id: stabilize_operation
+        symbol: "↻○■"
+        name: "Stabilize Operation"
+        layer_0_root: "■ Continuity"
+    emergent_formation:
+      id: operation_formation
+      symbol: "↻△"
+      name: "Operation Formation"
+
+diagnostic_overlay:
   distortions:
     - symbol: "∿"
       name: "Slack"
-      short_definition: "Insufficient activation, support, force, relation, or form."
     - symbol: "≡"
       name: "Tight"
-      short_definition: "Excessive activation, pressure, rigidity, force, constraint, or over-control."
     - symbol: "↯"
       name: "Misdirected"
-      short_definition: "Skewed, misaligned, misplaced, confused, or wrongly aimed force, support, relation, or operation."
   well_formed_condition:
     symbol: "✓"
     name: "Coherent Formation"
-    short_definition: "The well-formed condition of a component, relation, or system."
-layer_2_register_note:
-  three_pulls_register:
-    layer_1_source: "⟶ The Three Forces"
-    human_register_name: "The Three Pulls"
-    mappings:
-      qualitative_force: "Pull 1: Aliveness"
-      contact_force: "Pull 2: Coordination / Encounter"
-      continuity_force: "Pull 3: Stability / Steadiness"
-      force_formation: "Wholesome Triangle"
 ```
 
 ---
 
-## 46. Minimum viable definition
+## 43. Minimum viable definition
 
 The shortest useful definition of Layer 1 is:
 
-> **Layer 1: The Mechanical Layer** translates **★ Quality**, **● Contact**, and **■ Continuity** into three working systems: **⟶ The Three Forces**, **⬡ The Three Capacities**, and **↻ The Three Operations**. Together, these systems describe what generates movement, what can bear that movement, and what adaptive move is needed to support **✓ Coherent Formation**.
+> Layer 1: The Mechanical Layer translates **★ Quality**, **● Contact**, and **■ Continuity** into three working systems: **⟶ The Three Forces**, **⬡ The Three Capacities**, and **↻ The Three Operations**. These systems make it possible to diagnose patterns of **∿ Slack**, **≡ Tight**, and **↯ Misdirected**, and to look for **✓ Coherent Formation**.
 
 ---
 
-## 47. Current open questions
+## 44. Working rule
 
-Layer 1 Canon v1.0 is stable enough to use as a reference point, but still open to refinement.
-
-Current open questions include:
-
-- Is **⟶ The Three Forces** the best objective name for System 1?
-- Should the System 1 emergent formation be called **⟶△ Force Formation** or **⟶△ Force Configuration**?
-- Should **⟷ Relations** replace **⟷ Alliances** throughout canonical Layer 1?
-- How should the 21 components be diagrammed visually?
-- How should the full 63-row diagnostic matrix be organized for readability?
-- How should Layer 1 be translated into different Layer 2 Human Registers?
-- How should AI agents use Layer 1 without sounding overly schematic?
-
----
-
-## 48. Working rule
-
-When using Layer 1, ask:
+When developing or applying Layer 1, ask:
 
 ```text
-What force is active?         → ⟶ The Three Forces
-What can the system bear?     → ⬡ The Three Capacities
-What move is needed?          → ↻ The Three Operations
-What is distorted?            → ∿ Slack / ≡ Tight / ↯ Misdirected
-What would formation require? → ✓ Coherent Formation
+What is trying to happen?
+What can the system actually hold?
+What move is available?
+Is the pattern Slack, Tight, or Misdirected?
+What would Coherent Formation require?
 ```
 
-If an interpretation cannot identify a Force, a Capacity, an Operation, or a diagnostic pattern, it may still be useful, but it may not yet be using Layer 1 clearly.
+If Layer 1 does not make the situation clearer, simplify the language and return to the practical case.
