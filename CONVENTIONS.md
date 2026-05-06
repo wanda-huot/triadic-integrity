@@ -1,608 +1,537 @@
-# CONVENTIONS.md
+# Conventions
 
-This file defines the naming, notation, formatting, and stability conventions for the `triadic-integrity` repository.
-
-The goal is to keep the framework coherent as it grows.
-
----
-
-## 1. Project Names
-
-### Official framework name
-
-Use:
-
-**The Triadic Integrity Framework**
-
-This is the formal name of the framework.
-
-### Repository name
-
-Use:
-
-**triadic-integrity**
-
-This is the GitHub repository name.
-
-### Informal nickname
-
-Use:
-
-**Tri Everything**
-
-This is the casual nickname for the framework. It can be used in conversational writing, but formal documentation should default to **The Triadic Integrity Framework**.
-
-### Umbrella project
-
-Use:
-
-**Framecraft**
-
-Framecraft is the broader umbrella for Gwendolyn’s work on building conceptual frames, models, grammars, and practical abstraction systems.
+**Status:** Working draft  
+**Purpose:** Naming, notation, formatting, and usage conventions for The Triadic Integrity Framework.
 
 ---
 
-## 2. Short Description
+## 1. Purpose of this file
 
-Preferred repository description:
+This file defines the current conventions for the `triadic-integrity` repository.
 
-> The Triadic Integrity Framework (aka Tri Everything) is an AI-native, recursive micro-grammar of experience, inspired by Peirce’s Firstness, Secondness, and Thirdness. It offers a simple metaphysical and mechanical pattern for noticing what is happening, understanding stuckness, and choosing a better next move. Made by Gwendolyn Huot with ChatGPT.
+Use it as the authority for:
+
+- project names,
+- layer names,
+- core terminology,
+- symbol usage,
+- register usage,
+- diagnostic language,
+- file naming,
+- and Markdown formatting.
+
+When another file conflicts with this one, assume this file is more current unless explicitly noted otherwise.
 
 ---
 
-## 3. Core Orientation
+## 2. Preferred repository description
 
-The Triadic Integrity Framework is:
+Use this description when a short explanation is needed:
 
-- a recursive micro-grammar of experience
-- a practical metaphysical and mechanical framework
-- inspired by Peirce’s Firstness, Secondness, and Thirdness
-- intended for both human use and AI-assisted reasoning
-- useful for describing experience, diagnosing stuck patterns, and choosing next moves
+> The Triadic Integrity Framework is a working grammar for noticing what is happening, understanding stuckness, and choosing a better next move. It organizes experience through three layers: structural primitives, mechanical systems, and human-facing registers. The repository is written so that both humans and AI agents can read, test, and apply the framework.
 
-It is not presented as:
+Avoid describing the framework as a finished theory, clinical tool, spiritual system, or universal explanation.
 
-- a clinical system
-- a finished philosophy
-- a substitute for therapy, medicine, religion, or expert judgment
-- a strict scholarly interpretation of Peirce
+---
 
-Use careful language such as:
+## 3. Project names
 
-- “inspired by Peirce”
-- “resonates with Peirce”
-- “Peircean in structure”
-- “a practical metaphysical grammar”
-- “a recursive micro-grammar of experience”
+### Framecraft
 
-Avoid overclaiming.
+**Framecraft** is the broader umbrella project for building, testing, and expressing conceptual frameworks.
+
+### The Triadic Integrity Framework
+
+**The Triadic Integrity Framework** is the formal name of the framework in this repository.
+
+### Tri Everything
+
+**Tri Everything** is an informal nickname.
+
+Use it sparingly in canonical files.
+
+### The Three Pulls
+
+**The Three Pulls** was the early/original/formative language of the project.
+
+In the current architecture:
+
+- The whole framework is **The Triadic Integrity Framework**.
+- The canonical Layer 1 System 1 is **The Three Forces**.
+- **The Three Pulls** is treated as a Layer 2 Human Register.
 
 ---
 
 ## 4. The Three Articulation Layers
 
-Use the term:
+The framework is organized into three articulation layers.
 
-**The Three Articulation Layers**
+```text
+Layer 0 → Layer 1 → Layer 2
+structure → mechanism → human language
+```
 
-The framework is organized into three layers:
+### Layer 0: The Structural Layer
 
-1. **Layer 0: The Structural Layer**
-2. **Layer 1: The Mechanical Layer**
-3. **Layer 2: The Human Registers Layer**
+Layer 0 names the basic structural primitives:
 
-Use “layers” as the casual shorthand.
+- **Quality**
+- **Contact**
+- **Continuity**
 
-Avoid treating the layers as separate frameworks. They are three articulations of one underlying triadic structure.
+Layer 0 also includes the dyads and Triadic Integration.
 
----
+Layer 0 is abstract, descriptive, and non-diagnostic.
 
-## 5. Layer 0: The Structural Layer
+### Layer 1: The Mechanical Layer
 
-Layer 0 is the base metaphysical structure.
+Layer 1 translates the structural primitives into mechanical systems:
 
-It uses three primitives:
+- **The Three Forces**
+- **The Three Capacities**
+- **The Three Operations**
 
-- **★ Quality**
-- **● Contact**
-- **■ Continuity**
+Layer 1 is the main diagnostic layer.
 
-These generate three dyads:
+### Layer 2: Human Registers
 
-- **★–● Quality–Contact**
-- **●–■ Contact–Continuity**
-- **★–■ Quality–Continuity**
+Layer 2 translates the framework into human-facing language for specific domains, audiences, or use cases.
 
-The three dyads generate:
-
-- **★–●–■ Triadic Integration**
-
-Layer 0 should remain:
-
-- structural
-- descriptive
-- metaphysical
-- non-diagnostic
-- non-clinical
-- non-moralizing
-
-Use **dyadic**, not **diadic**.
+Registers are translations, not separate frameworks.
 
 ---
 
-## 6. Layer 1: The Mechanical Layer
+## 5. Layer 0 terminology
 
-Layer 1 expresses the structure as mechanical systems.
+Use these Layer 0 terms consistently.
 
-The three canonical Layer 1 systems are:
+| Term | Meaning |
+|---|---|
+| **Quality** | Felt salience, tone, vividness, character, or intensity. |
+| **Contact** | Encounter, friction, relation, reality, or actual meeting. |
+| **Continuity** | Pattern, persistence, memory, recognizability, stability, or form. |
 
-- **⟶ The Three Forces**
-- **⬡ The Three Capacities**
-- **↻ The Three Operations**
+The three Layer 0 dyads are:
+
+- **Quality–Contact**
+- **Contact–Continuity**
+- **Quality–Continuity**
+
+**Triadic Integration** is the emergent coherence produced when Quality, Contact, and Continuity are mutually related.
+
+Triadic Integration is not a fourth primitive.
+
+---
+
+## 6. Layer 1 systems
+
+Use these as the canonical Layer 1 system names.
+
+| System | Core question |
+|---|---|
+| **The Three Forces** | What is trying to happen? |
+| **The Three Capacities** | What can the system actually hold? |
+| **The Three Operations** | What move is available? |
 
 Preferred summary:
 
-> **⟶ Forces generate movement. ⬡ Capacities determine what the system can bear. ↻ Operations tune the system toward responsive integrity.**
+> Forces generate movement. Capacities determine what the system can bear. Operations tune the system toward responsive integrity.
+
+---
+
+## 7. Layer 1 component structure
 
 Each Layer 1 system contains seven components:
 
-- three **○ Elements**
-- three **⟷ Relations**
-- one **△ Emergent Formation**
-
-Use the compact grammar:
-
 ```text
-○ element → ⟷ relation → △ emergent formation
+3 elements + 3 relations + 1 emergent formation
 ```
 
-### Important terminology change
+Use the following terms in canonical Layer 1 files:
 
-Do not use **The Three Pulls** as the canonical name for Layer 1 System 1.
+- **Element**
+- **Relation**
+- **Emergent Formation**
 
-Use:
+The older term **Alliance** may still appear in historical or human-facing material, but in canonical Layer 1 contexts prefer **Relation**.
 
-- **⟶ The Three Forces** for canonical Layer 1 mechanical language
-- **The Three Pulls** only as Layer 2 human-register language
-
-Do not use **Wholesome Triangle** as the canonical name for the Layer 1 System 1 formation.
-
-Use:
-
-- **⟶△ Force Formation** for canonical Layer 1 mechanical language
-- **Wholesome Triangle** only as Layer 2 human-register language
+The older term **Emergent Triangle** may still appear in human-facing material, but in canonical Layer 1 contexts prefer **Emergent Formation**.
 
 ---
 
-## 7. Canonical Layer 1 System 1: ⟶ The Three Forces
+## 8. Canonical Layer 1 names
 
-Use:
+### The Three Forces
 
-**⟶ The Three Forces**
+Elements:
 
-The three Force elements are:
+- **Qualitative Force**
+- **Contact Force**
+- **Continuity Force**
 
-- **⟶○★ Qualitative Force**
-- **⟶○● Contact Force**
-- **⟶○■ Continuity Force**
+Relations:
 
-The three Force relations are:
+- **Quality–Contact Force Relation**
+- **Contact–Continuity Force Relation**
+- **Quality–Continuity Force Relation**
 
-- **⟶⟷★● Quality–Contact Force Relation**
-- **⟶⟷●■ Contact–Continuity Force Relation**
-- **⟶⟷★■ Quality–Continuity Force Relation**
+Emergent formation:
 
-The emergent Force formation is:
-
-- **⟶△ Force Formation**
-
-Use this language in canonical Layer 1 files, diagnostic matrices, data files, and AI-ingestible materials.
+- **Force Formation**
 
 ---
 
-## 8. Canonical Layer 1 System 2: ⬡ The Three Capacities
+### The Three Capacities
 
-Use:
+Elements:
 
-**⬡ The Three Capacities**
+- **Bodily/Regulatory Capacity**
+- **Social/Structural Capacity**
+- **Form/Integrity Capacity**
 
-The three Capacity elements are:
+Relations:
 
-- **⬡○★ Bodily/Regulatory Capacity**
-- **⬡○● Social/Structural Capacity**
-- **⬡○■ Form/Integrity Capacity**
+- **Bodily/Regulatory–Social/Structural Capacity Relation**
+- **Social/Structural–Form/Integrity Capacity Relation**
+- **Bodily/Regulatory–Form/Integrity Capacity Relation**
 
-The three Capacity relations are:
+Emergent formation:
 
-- **⬡⟷★● Regulatory–Structural Capacity Relation**
-- **⬡⟷●■ Structural–Integrity Capacity Relation**
-- **⬡⟷★■ Regulatory–Integrity Capacity Relation**
-
-The emergent Capacity formation is:
-
-- **⬡△ Capacity Formation**
-
-The following human-facing phrases may be used in Layer 2 registers, but should not replace the canonical Layer 1 terms:
-
-- **Co-Regulated Support**
-- **Legible Structure**
-- **Embodied Integrity**
-- **Held Capacity**
+- **Capacity Formation**
 
 ---
 
-## 9. Canonical Layer 1 System 3: ↻ The Three Operations
+### The Three Operations
 
-Use:
+Elements:
 
-**↻ The Three Operations**
+- **Explore Operation**
+- **Coordinate Operation**
+- **Stabilize Operation**
 
-The three Operation elements are:
+Relations:
 
-- **↻○★ Explore Operation**
-- **↻○● Coordinate Operation**
-- **↻○■ Stabilize Operation**
+- **Explore–Coordinate Operation Relation**
+- **Coordinate–Stabilize Operation Relation**
+- **Explore–Stabilize Operation Relation**
 
-The three Operation relations are:
+Emergent formation:
 
-- **↻⟷★● Explore–Coordinate Operation Relation**
-- **↻⟷●■ Coordinate–Stabilize Operation Relation**
-- **↻⟷★■ Explore–Stabilize Operation Relation**
-
-The emergent Operation formation is:
-
-- **↻△ Operation Formation**
-
-The following human-facing phrases may be used in Layer 2 registers, but should not replace the canonical Layer 1 terms:
-
-- **Test in Contact**
-- **Integrated Alignment**
-- **Disciplined Experimentation**
-- **Adaptive Practice**
+- **Operation Formation**
 
 ---
 
-## 10. Layer 2: The Human Registers Layer
+## 9. Diagnostic language
 
-Layer 2 contains audience-specific or domain-specific translation layers.
+The framework uses three diagnostic distortions and one well-formed condition.
 
-Use:
-
-**Human Registers**
-
-Human Registers are not separate frameworks. They are different ways of speaking the same underlying structure.
-
-Preferred explanation:
-
-> Human Registers are different translation layers of one underlying triadic structure.
-
-Examples include:
-
-- Three Pulls Register
-- Kid Register
-- Working Register
-- Christian Theological Register
-- Somatic Register
-- Relational Register
-- Narrative Register
-- Cognitive Register
-- Creative-Practice Register
-
-Layer 2 language may be warmer, more intuitive, more practical, more poetic, more therapeutic, more domain-specific, or more culturally situated than Layer 1 language.
-
-But Layer 2 should remain traceable back to Layer 1 and Layer 0.
-
----
-
-## 11. The Three Pulls Register
-
-Use:
-
-**The Three Pulls Register**
-
-This is a Layer 2 Human Register, not the canonical name for Layer 1 System 1.
-
-The Three Pulls Register translates **⟶ The Three Forces** into more intuitive human-facing language.
-
-Preferred mapping:
-
-| Canonical Layer 1 term | Layer 2 Three Pulls Register |
+| Term | Meaning |
 |---|---|
-| **⟶ The Three Forces** | The Three Pulls |
-| **⟶○★ Qualitative Force** | Pull 1: Aliveness |
-| **⟶○● Contact Force** | Pull 2: Coordination / Encounter |
-| **⟶○■ Continuity Force** | Pull 3: Stability / Steadiness |
-| **⟶△ Force Formation** | Wholesome Triangle |
+| **Slack** | Too little activation, support, contact, structure, force, relation, or form. |
+| **Tight** | Too much pressure, rigidity, constraint, control, force, or over-formation. |
+| **Misdirected** | Force, support, relation, or operation aimed at the wrong thing. |
+| **Coherent Formation** | The well-formed condition in which the system holds together responsively. |
 
-Use **The Three Pulls** when writing for practical, human-facing, reflective, self-help, parenting, or conversational contexts.
+Important distinction:
 
-Use **⟶ The Three Forces** when writing canonical Layer 1 structure, diagnostic matrices, data files, AI-agent source materials, and technical documentation.
+```text
+Slack, Tight, and Misdirected are distortions.
+Coherent Formation is the well-formed condition.
+```
+
+In human-facing contexts, **healthy emergence** may be used as a softer phrase.
+
+In canonical files, prefer **Coherent Formation**.
 
 ---
 
-## 12. Expression Formats
+## 10. Symbol usage
 
-Use:
+Symbols are useful for precision, but they should not become a barrier.
 
-**Expression Formats**
+Use symbols most consistently in:
 
-Expression Formats are the forms the framework takes so it can be stored, displayed, navigated, taught, reused, or executed.
+- canonical framework files,
+- quick reference files,
+- tables,
+- data files,
+- agent-readable materials.
+
+Use symbols more sparingly in:
+
+- README files,
+- human-facing registers,
+- worked examples,
+- practical prompts,
+- public-facing explanations.
+
+Plain language is preferred when clarity matters more than precision.
+
+---
+
+## 11. Core symbols
+
+Layer 0 symbols:
+
+| Symbol | Term |
+|---|---|
+| **★** | Quality |
+| **●** | Contact |
+| **■** | Continuity |
+
+Layer 1 system symbols:
+
+| Symbol | System |
+|---|---|
+| **⟶** | The Three Forces |
+| **⬡** | The Three Capacities |
+| **↻** | The Three Operations |
+
+Component symbols:
+
+| Symbol | Component type |
+|---|---|
+| **○** | Element |
+| **⟷** | Relation |
+| **△** | Emergent Formation |
+
+Diagnostic symbols:
+
+| Symbol | Diagnostic state |
+|---|---|
+| **∿** | Slack |
+| **≡** | Tight |
+| **↯** | Misdirected |
+| **✓** | Coherent Formation |
+
+These are internal framework symbols. Do not imply that they are standard outside this project.
+
+---
+
+## 12. Icon-first convention
+
+When using symbols in canonical files, put the symbol first.
+
+Preferred:
+
+```text
+★ Quality
+● Contact
+■ Continuity
+⟶ The Three Forces
+∿ Slack
+✓ Coherent Formation
+```
+
+Avoid:
+
+```text
+Quality ★
+Contact ●
+Continuity ■
+The Three Forces ⟶
+Slack ∿
+Coherent Formation ✓
+```
+
+In human-facing files, it is acceptable to omit symbols for readability.
+
+---
+
+## 13. Dense notation
+
+Use compact notation only where it helps.
+
+Examples:
+
+```text
+⟶○★ Qualitative Force
+⬡○● Social/Structural Capacity
+↻○■ Stabilize Operation
+```
+
+Dense notation is appropriate in:
+
+- tables,
+- structured references,
+- data files,
+- diagnostic matrices,
+- agent-readable lookup material.
+
+Avoid dense notation in:
+
+- introductions,
+- examples,
+- reflective prose,
+- human-facing register explanations,
+- practical advice.
+
+The notation should support thought, not replace it.
+
+---
+
+## 14. Human Register conventions
+
+A Human Register is a Layer 2 translation of the framework.
+
+Each register should make clear:
+
+- what domain it serves,
+- what audience or use case it is for,
+- how it translates Forces,
+- how it translates Capacities,
+- how it translates Operations,
+- and what kinds of situations it helps interpret.
+
+Current or emerging registers include:
+
+- **The Three Pulls Register**
+- **The Working Register**
+- **The Embodied Register**
+- **The Kid Register**
+- **Proposed Registers**
+
+Registers should preserve the underlying Layer 1 structure, but they do not need to show full symbolic notation in every section.
+
+---
+
+## 15. The Three Pulls Register
+
+The Three Pulls Register preserves the original formative language of the framework.
+
+Use this mapping:
+
+| Canonical Layer 1 | Three Pulls Register |
+|---|---|
+| **The Three Forces** | The Three Pulls |
+| **Qualitative Force** | Pull 1: Aliveness |
+| **Contact Force** | Pull 2: Coordination / Encounter |
+| **Continuity Force** | Pull 3: Stability / Steadiness |
+| **Force Formation** | Wholesome Triangle |
+
+Use **The Three Forces** for canonical structure.
+
+Use **The Three Pulls** for human-facing practical reflection.
+
+---
+
+## 16. Expression Formats
+
+Expression Formats are the forms the framework takes so it can be stored, displayed, taught, navigated, reused, or executed.
 
 Examples:
 
 - GitHub Markdown repository
-- AI agent prompt package
-- printable PDFs
-- diagrams
+- printable PDF
+- diagram
+- structured data file
+- public website
+- AI agent prompt
 - physical model
-- structured data files
-- future Astro website
+- table or grid
 
-Important distinction:
-
-> Human Registers are how the framework speaks.  
-> Expression Formats are how the framework appears, circulates, and operates.
-
-Do not confuse `registers/` with `expression-formats/`.
-
----
-
-## 13. Icon-First Convention
-
-Whenever a framework term has an assigned icon, put the icon first.
-
-Use:
-
-- **★ Quality**
-- **● Contact**
-- **■ Continuity**
-- **⟶ The Three Forces**
-- **⬡ The Three Capacities**
-- **↻ The Three Operations**
-- **○ Element**
-- **⟷ Relation**
-- **△ Emergent Formation**
-
-Do not write:
-
-- Quality ★
-- Contact ●
-- The Three Forces ⟶
-
-Use the icon first.
-
----
-
-## 14. Layer 0 Icon Conventions
-
-Layer 0 uses these core symbols:
-
-- **★ Quality**
-- **● Contact**
-- **■ Continuity**
-- **★–● Quality–Contact**
-- **●–■ Contact–Continuity**
-- **★–■ Quality–Continuity**
-- **★–●–■ Triadic Integration**
-
-These are structural and metaphysical terms.
-
-They should not be treated as personality traits, clinical categories, moral values, or motivational types.
-
----
-
-## 15. Layer 1 Icon Conventions
-
-Layer 1 uses these system symbols:
-
-- **⟶ The Three Forces**
-- **⬡ The Three Capacities**
-- **↻ The Three Operations**
-
-Layer 1 uses these component-type symbols:
-
-- **○ Element**
-- **⟷ Relation**
-- **△ Emergent Formation**
-
-Canonical Layer 1 component IDs should display the icon first.
-
-Examples:
-
-- **⟶○★ Qualitative Force**
-- **⟶⟷★● Quality–Contact Force Relation**
-- **⟶△ Force Formation**
-- **⬡○★ Bodily/Regulatory Capacity**
-- **⬡⟷★● Regulatory–Structural Capacity Relation**
-- **⬡△ Capacity Formation**
-- **↻○★ Explore Operation**
-- **↻⟷★● Explore–Coordinate Operation Relation**
-- **↻△ Operation Formation**
-
----
-
-## 16. Diagnostic Overlay Symbols
-
-Use these symbols for diagnostic overlays:
-
-- **∿ Slack**
-- **≡ Tight**
-- **↯ Misdirected**
-- **✓ Coherent Formation**
-
-Important distinction:
-
-- **∿ Slack**, **≡ Tight**, and **↯ Misdirected** are diagnostic distortions.
-- **✓ Coherent Formation** is the well-formed condition.
-
-Do not present **✓ Coherent Formation** as a fourth distortion.
-
-Use **✓ Coherent Formation** as the canonical term for the well-formed condition of a triadic system, component, relation, or formation.
-
-**Healthy Emergence** may still be used as a plain-language or human-register phrase, especially in practical, reflective, therapeutic, or self-help contexts.
-
----
-
-## 17. Peircean Overlay Symbols
-
-Use these symbols when discussing Peircean resonance:
-
-- **Ⅰ Firstness**
-- **Ⅱ Secondness**
-- **Ⅲ Thirdness**
-
-These are overlays, not the core framework components.
-
-Use Peircean language carefully. The framework is Peirce-inspired, not a formal scholarly exposition of Peirce.
-
-Preferred wording:
-
-> The framework is inspired by Peirce’s Firstness, Secondness, and Thirdness.
-
-Avoid:
-
-> This is Peirce’s philosophy.
-
----
-
-## 18. Canon vs Experiment
-
-Mark the status of files and ideas clearly.
-
-Use these status labels when helpful:
-
-- **Canonical** — stable enough to serve as a reference point
-- **Working Draft** — currently useful but open to revision
-- **Experimental** — exploratory and not yet integrated
-- **Archived** — retained for history, not current usage
-- **Retired** — explicitly no longer part of the active model
-
-When in doubt, mark material as **Working Draft**.
-
----
-
-## 19. Retired Material
-
-Retired concepts should not be used in current framework files unless they are being discussed historically.
-
-Retired or archival material belongs in:
+Key distinction:
 
 ```text
-archive/
+Human Registers = how the framework speaks.
+Expression Formats = how the framework appears, circulates, and operates.
 ```
 
-Do not delete useful history, but do not let old experiments clutter the current framework.
-
-When referencing retired material, make its status explicit.
-
-Example:
-
-> This was an earlier experiment and is no longer part of the current model.
-
 ---
 
-## 20. Public / Private Boundary
+## 17. Agent-readable writing
 
-This is a public-facing repository.
-
-Do not include private group names, private participant names, private conversations, or identifiable internal dynamics unless they are explicitly intended for publication.
-
-Public materials should be understandable without private context.
-
-Use general language such as:
-
-- “collaborators”
-- “AI agents”
-- “private working group”
-- “development conversations”
-
-Avoid unnecessary personal disclosure.
-
----
-
-## 21. AI-Native Writing
-
-This repository is intended to be readable by both humans and AI systems.
+This repository is intended to be readable by both humans and AI agents.
 
 Write Markdown so that it is:
 
-- clear
-- structured
-- explicit
-- easy to parse
-- low on inside jokes
-- consistent in headings and terms
+- clear,
+- structured,
+- explicit,
+- easy to parse,
+- consistent in headings and terms.
 
 Prefer:
 
-```markdown
-## Term
+- short definitions,
+- stable terminology,
+- clean headings,
+- simple tables,
+- concrete examples.
 
-Definition.
+Avoid:
 
-### Notes
+- compressed Markdown,
+- long tangled paragraphs,
+- unexplained notation,
+- inconsistent names,
+- and excessive conceptual sprawl.
 
-Additional clarification.
+Use caution with the phrase **AI-native**.
+
+Prefer:
+
+```text
+human-and-agent-readable
 ```
 
-Avoid long, tangled prose when a table, list, or definition block would be clearer.
+or:
 
-Where possible, define terms in a consistent pattern:
-
-```markdown
-## ★ Quality
-
-**Layer:** Layer 0  
-**Component type:** Primitive  
-**Short definition:** Felt salience, vividness, tone.  
-**Notes:** Quality varies in intensity and character.
-```
-
-For Layer 1 components, use a consistent pattern:
-
-```markdown
-## ⟶○★ Qualitative Force
-
-**Layer:** Layer 1  
-**System:** ⟶ The Three Forces  
-**Component type:** ○ Element  
-**Layer 0 root:** ★ Quality  
-**Short definition:** The force of felt salience, vividness, intensity, or qualitative charge.
+```text
+structured so that both humans and AI agents can read, test, and apply the framework
 ```
 
 ---
 
-## 22. Markdown Style
+## 18. Peirce references
 
-Use ATX headings:
+Peirce may be mentioned as background resonance, especially around Quality, Contact, and Continuity.
 
-```markdown
-# H1
-## H2
-### H3
+Do not present the framework as a formal Peircean system.
+
+Preferred wording:
+
+```text
+The framework has loose resonance with Peircean themes such as quality, encounter, and continuity.
 ```
 
-Use sentence case for headings unless referring to an official term.
+Avoid:
+
+```text
+This is a Peircean system.
+The framework is derived from Peirce.
+The framework is Peircean in structure.
+```
+
+This repository is not a Peirce scholarship project.
+
+---
+
+## 19. Markdown style
+
+Use clean Markdown with real line breaks.
 
 Preferred:
 
 ```markdown
-## Layer 0: The Structural Layer
-## Diagnostic overlays
-## Current status
+# Title
+
+Intro paragraph.
+
+## Section
+
+- Bullet
+- Bullet
+- Bullet
 ```
 
-Avoid decorative formatting unless it improves clarity.
+Avoid compressed Markdown where headings, paragraphs, bullets, and tables run together on the same physical line.
 
-Use bold for official terms on first use.
-
-Use tables when comparing parallel structures.
-
-Use fenced code blocks for repository trees, data examples, prompts, or file templates.
+Tables should be readable in raw Markdown.
 
 ---
 
-## 23. File Naming
+## 20. File naming
 
 Use lowercase kebab-case for file names.
 
@@ -610,167 +539,55 @@ Preferred:
 
 ```text
 layer-0-structural-layer.md
-layer-1-mechanical-layer.md
-layer-2-human-registers.md
-diagnostic-matrix.md
-three-pulls-register.md
-kid-register.md
 working-register.md
-wanda-agent.md
+worked-case-template.md
 ```
 
 Avoid:
 
 ```text
-Layer 0 Structural Layer.md
-layer_0_structural_layer.md
-Layer0.md
+Layer0StructuralLayer.md
+Working Register.md
+worked_case_template.md
 ```
 
 ---
 
-## 24. Folder Naming
+## 21. Canon vs experiment
 
-Use lowercase kebab-case for folders.
+Use clear status labels where helpful.
 
-Preferred:
+Suggested labels:
 
 ```text
-framework/
-registers/
-expression-formats/
-agents/
-data/
-archive/
+Canonical working draft
+Exploratory
+Proposed
+Archived
+Deprecated
 ```
 
-Folders should describe the role of the material, not just the topic.
+Canonical files may still change, but they should be treated as the current working reference.
+
+Exploratory files may contain experiments, unresolved possibilities, or alternate language.
+
+Deprecated material should be preserved only when historically useful.
 
 ---
 
-## 25. Data Files
+## 22. Development principle
 
-Machine-readable canon belongs in:
+The framework should grow vertically before it grows horizontally.
+
+This means:
+
+- deepen one register before adding many more,
+- add worked examples before adding more abstract elaboration,
+- test distinctions before multiplying terms,
+- prefer demonstrated usefulness over conceptual elegance.
+
+The central question is:
 
 ```text
-data/
+Does this help someone see and respond more clearly?
 ```
-
-Use JSON for structured canonical data.
-
-Markdown is for human explanation. JSON is for reuse by agents, websites, tools, and structured processing.
-
-When a Markdown file and JSON file describe the same structure, they should not contradict each other.
-
----
-
-## 26. Versioning
-
-Use simple version labels for canon files when needed.
-
-Examples:
-
-- Layer 0 Canon v1.0
-- Layer 1 Canon v1.0
-- Layer 2 Canon v1.0
-- Diagnostic Matrix v1.0
-
-Version numbers should mark meaningful conceptual changes, not every small wording edit.
-
----
-
-## 27. Preferred Repository Logic
-
-The repository should follow this basic architecture:
-
-```text
-framework/            = the framework itself
-registers/            = human translation layers
-expression-formats/   = ways the framework appears, circulates, or operates
-agents/               = working agent materials
-data/                 = machine-readable canon
-archive/              = old, retired, or experimental material
-```
-
-This distinction should guide where new files belong.
-
----
-
-## 28. Tone
-
-The tone should be:
-
-- clear
-- disciplined
-- practical
-- human-readable
-- metaphysically serious without sounding grandiose
-- open-ended without becoming vague
-
-Avoid hype.
-
-Avoid presenting the framework as if it explains everything.
-
-The framework can be ambitious without sounding inflated.
-
----
-
-## 29. Practical Use Language
-
-When describing practical use, prefer concrete phrases such as:
-
-- noticing what is happening
-- understanding stuckness
-- diagnosing stuck patterns
-- choosing a better next move
-- translating experience into a workable form
-- helping people and AI systems reason more clearly
-
-Avoid vague phrases such as:
-
-- unlocking transformation
-- optimizing consciousness
-- revolutionizing self-help
-- holistic paradigm shift
-
----
-
-## 30. Clinical and Therapeutic Caution
-
-The framework may relate to therapy, self-help, emotional regulation, and personal development.
-
-However, it should not be presented as a clinical method or treatment system.
-
-Use careful language:
-
-- “may help describe”
-- “may help organize”
-- “can be used as a reflective tool”
-- “can point toward established practices or modalities”
-
-Avoid:
-
-- “treats”
-- “cures”
-- “diagnoses” in a clinical sense
-- “proves”
-- “guarantees”
-
-When needed, clarify that clinical, medical, or mental health concerns should be handled with qualified professionals.
-
----
-
-## 31. Current Minimum Viable Standard
-
-A file is good enough for the first version of this repository if it:
-
-- uses the correct official names
-- respects the layer structure
-- uses assigned symbols consistently
-- distinguishes canon from experiment
-- can be understood by someone without private context
-- is useful to both a human reader and an AI system
-
-It does not need to be perfect.
-
-The repository should grow through clear, disciplined iteration.
