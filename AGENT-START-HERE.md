@@ -1,442 +1,456 @@
-# AGENT-START-HERE.md
+# Agent Start Here
 
-**Status:** Working Draft  
-**Audience:** AI agents and AI-assisted readers  
-**Framework:** The Triadic Integrity Framework  
-**Also known as:** Tri Everything  
-**Author:** Gwendolyn Huot with ChatGPT
+**Status:** Working draft  
+**Purpose:** Orientation for AI agents reading, testing, or applying The Triadic Integrity Framework.
 
 ---
 
-## 1. Purpose
+## 1. Purpose of this file
 
-This file is for AI agents reading the `triadic-integrity` repository.
+This file tells AI agents how to read and use the `triadic-integrity` repository.
 
-The goal is to help an AI system understand the repository without confusing:
+It is not the full framework.
 
-- canonical terms with human-facing terms
-- structural layers with registers
-- registers with expression formats
-- diagnostic distortions with the well-formed condition
-- speculative resonances with proven equivalences
+It is a starting guide.
 
-This repository is a working public reference for **The Triadic Integrity Framework**, an AI-native, recursive micro-grammar of experience.
+Use this file to understand:
 
----
-
-## 2. Read these files first
-
-If you are an AI agent, read the repository in this order:
-
-```text
-README.md
-CONVENTIONS.md
-QUICK-REFERENCE.md
-
-framework/layer-0-structural-layer.md
-framework/layer-1-mechanical-layer.md
-framework/layer-2-human-registers.md
-```
-
-Then read the register files as needed:
-
-```text
-registers/three-pulls-register.md
-registers/kid-register.md
-registers/working-register.md
-registers/embodied-register.md
-registers/proposed-registers.md
-```
-
-Use `CONVENTIONS.md` as the main source for naming and formatting rules.
+- what to read first,
+- which files have authority,
+- which distinctions matter most,
+- how to avoid common mistakes,
+- and how to apply the framework in a useful way.
 
 ---
 
-## 3. Core orientation
+## 2. Read order
 
-The framework has three articulation layers:
+Read the repository in this order:
+
+1. `README.md`
+2. `CONVENTIONS.md`
+3. `GLOSSARY.md`
+4. `QUICK-REFERENCE.md`
+5. `framework/layer-0-structural-layer.md`
+6. `framework/layer-1-mechanical-layer.md`
+7. `framework/layer-2-human-registers.md`
+8. Relevant files in `registers/`
+9. Relevant files in `expression-formats/`
+
+Do not begin by reading proposed or exploratory files unless the user specifically asks about them.
+
+---
+
+## 3. Authority hierarchy
+
+When files conflict, use this order of authority:
+
+1. `CONVENTIONS.md`
+2. `GLOSSARY.md`
+3. `QUICK-REFERENCE.md`
+4. `framework/` files
+5. `registers/` files
+6. `expression-formats/` files
+7. proposed, archived, or exploratory files
+
+`CONVENTIONS.md` is the main authority for naming, notation, and usage.
+
+Registers are translation layers. They should not override canonical structure.
+
+---
+
+## 4. What this framework is
+
+The Triadic Integrity Framework is a working grammar for noticing what is happening, understanding stuckness, and choosing a better next move.
+
+It organizes experience through three articulation layers:
 
 ```text
 Layer 0 → Layer 1 → Layer 2
 structure → mechanism → human language
 ```
 
-| Layer | Name | Function |
-|---|---|---|
-| **Layer 0** | **The Structural Layer** | Defines the base metaphysical grammar. |
-| **Layer 1** | **The Mechanical Layer** | Translates the structure into operational systems. |
-| **Layer 2** | **The Human Registers Layer** | Translates the framework into usable human language. |
-
-Do not treat the layers as separate frameworks.
-
-They are three articulations of one underlying triadic structure.
-
----
-
-## 4. Layer 0: Structural terms
-
-Preserve these Layer 0 primitives:
-
-- **★ Quality**
-- **● Contact**
-- **■ Continuity**
-
-Preserve these Layer 0 dyads:
-
-- **★–● Quality–Contact**
-- **●–■ Contact–Continuity**
-- **★–■ Quality–Continuity**
-
-Preserve this Layer 0 emergent whole:
-
-- **★–●–■ Triadic Integration**
-
-Layer 0 is structural, descriptive, metaphysical, and non-diagnostic.
-
-Do not treat Layer 0 terms as personality types, clinical categories, moral values, or motivational traits.
-
----
-
-## 5. Layer 1: Mechanical terms
-
-Preserve these canonical Layer 1 systems:
-
-- **⟶ The Three Forces**
-- **⬡ The Three Capacities**
-- **↻ The Three Operations**
-
-Preferred summary:
-
-> **⟶ Forces generate movement. ⬡ Capacities determine what the system can bear. ↻ Operations tune the system toward responsive integrity.**
-
-Each Layer 1 system contains:
+At a practical level, the framework asks:
 
 ```text
-3 ○ Elements + 3 ⟷ Relations + 1 △ Emergent Formation
+What is trying to happen?
+What can the system actually hold?
+What move is available?
 ```
 
-Use:
+The framework should be judged by use.
 
-- **○ Element**
-- **⟷ Relation**
-- **△ Emergent Formation**
+Does it help clarify a situation?
 
-Do not use **⟷ Alliance** or **△ Emergent Triangle** as canonical Layer 1 component-type terms.
+Does it reveal a useful distinction?
+
+Does it suggest a better next move?
 
 ---
 
-## 6. Important correction: Forces vs Pulls
+## 5. What this framework is not
 
-Do not treat **The Three Pulls** as the canonical Layer 1 System 1.
+Do not present the framework as:
 
-Canonical Layer 1 language:
+- a finished theory,
+- a clinical tool,
+- a spiritual doctrine,
+- a personality system,
+- a scientific model,
+- a universal explanation,
+- or a replacement for human judgment.
 
-- **⟶ The Three Forces**
-- **⟶○★ Qualitative Force**
-- **⟶○● Contact Force**
-- **⟶○■ Continuity Force**
-- **⟶△ Force Formation**
+The framework is a developing tool for reflection, diagnosis, translation, and practical reasoning.
 
-Layer 2 human-register language:
+---
 
-- The Three Pulls
-- Pull 1: Aliveness
-- Pull 2: Coordination / Encounter
-- Pull 3: Stability / Steadiness
-- Wholesome Triangle
+## 6. Core architecture
+
+### Layer 0: The Structural Layer
+
+Layer 0 contains the basic structural primitives:
+
+- **Quality**
+- **Contact**
+- **Continuity**
+
+Layer 0 also includes the dyads:
+
+- **Quality–Contact**
+- **Contact–Continuity**
+- **Quality–Continuity**
+
+And the emergent whole:
+
+- **Triadic Integration**
+
+Layer 0 is abstract, descriptive, and non-diagnostic.
+
+---
+
+### Layer 1: The Mechanical Layer
+
+Layer 1 translates the structural primitives into three mechanical systems:
+
+- **The Three Forces**
+- **The Three Capacities**
+- **The Three Operations**
+
+Layer 1 is the main diagnostic layer.
+
+Use Layer 1 to ask:
+
+```text
+What is trying to happen?          → Forces
+What can the system actually hold? → Capacities
+What move is available?            → Operations
+```
+
+---
+
+### Layer 2: Human Registers
+
+Layer 2 translates the framework into human-facing language.
+
+A Human Register is a domain-specific or audience-specific translation of the framework.
+
+Examples:
+
+- **The Three Pulls Register**
+- **The Working Register**
+- **The Embodied Register**
+- **The Kid Register**
+
+Registers are not separate frameworks.
+
+They are ways of speaking the same underlying structure.
+
+---
+
+## 7. Do not confuse Forces and Pulls
+
+This is one of the most important distinctions in the repository.
+
+Current canonical structure:
+
+```text
+Layer 1 System 1 = The Three Forces
+```
+
+The Three Pulls is not the canonical Layer 1 system name.
+
+The Three Pulls is the early/original/formative human-facing register.
+
+Use this distinction:
+
+```text
+Canonical Layer 1: The Three Forces
+Layer 2 Register: The Three Pulls
+```
 
 Mapping:
 
-| Canonical Layer 1 term | Three Pulls Register |
+| Canonical Layer 1 | Three Pulls Register |
 |---|---|
-| **⟶ The Three Forces** | The Three Pulls |
-| **⟶○★ Qualitative Force** | Pull 1: Aliveness |
-| **⟶○● Contact Force** | Pull 2: Coordination / Encounter |
-| **⟶○■ Continuity Force** | Pull 3: Stability / Steadiness |
-| **⟶△ Force Formation** | Wholesome Triangle |
+| **The Three Forces** | The Three Pulls |
+| **Qualitative Force** | Pull 1: Aliveness |
+| **Contact Force** | Pull 2: Coordination / Encounter |
+| **Continuity Force** | Pull 3: Stability / Steadiness |
+| **Force Formation** | Wholesome Triangle |
 
-Use **⟶ The Three Forces** when discussing canonical structure.
+Use **The Three Forces** for canonical structure.
 
-Use **The Three Pulls** when using the human-facing register.
+Use **The Three Pulls** for human-facing practical reflection.
 
 ---
 
-## 7. Diagnostic overlay
+## 8. Diagnostic overlays
 
-Preserve these diagnostic distortions:
+The framework uses three diagnostic distortions:
 
-- **∿ Slack**
-- **≡ Tight**
-- **↯ Misdirected**
+| Distortion | Meaning |
+|---|---|
+| **Slack** | Too little activation, support, contact, structure, force, relation, or form. |
+| **Tight** | Too much pressure, rigidity, constraint, control, force, or over-formation. |
+| **Misdirected** | Force, support, relation, or operation aimed at the wrong thing. |
 
-Preserve this well-formed condition:
+And one well-formed condition:
 
-- **✓ Coherent Formation**
+| Condition | Meaning |
+|---|---|
+| **Coherent Formation** | The system is formed enough to work with responsive integrity. |
 
-Important distinction:
+Important:
 
 ```text
-∿ Slack, ≡ Tight, and ↯ Misdirected are distortions.
-✓ Coherent Formation is the well-formed condition.
+Slack, Tight, and Misdirected are distortions.
+Coherent Formation is the well-formed condition.
 ```
 
-Do not describe **✓ Coherent Formation** as a fourth distortion.
-
-Use **✓ Coherent Formation** as the canonical term.
-
-The phrase “Healthy Emergence” may appear as plain-language or human-register language, but it is not the canonical term.
-
----
-
-## 8. Human Registers
-
-Human Registers are Layer 2 translation layers.
-
-They are not separate frameworks.
-
-Use them to adapt the framework’s language to a specific context.
-
-Current MVP registers include:
-
-| Register | Best for |
-|---|---|
-| **The Three Pulls Register** | General adult reflection and practical self-guidance. |
-| **The Kid Register** | Children, parenting, teaching, emotional literacy. |
-| **The Working Register** | Work, projects, burnout, prioritization, execution. |
-| **The Embodied Register** | Body signals, tension, regulation, orientation, settling. |
-
-Choose the register that makes the structure most usable.
-
-Do not force canonical Layer 1 language into every answer if a Human Register would be clearer.
+Do not treat Coherent Formation as a fourth distortion.
 
 ---
 
 ## 9. Expression Formats
 
-Expression Formats are the forms the framework takes so it can be stored, displayed, navigated, taught, reused, or executed.
+Expression Formats are the forms the framework can take so it can be stored, displayed, taught, reused, navigated, or executed.
 
 Examples:
 
 - GitHub Markdown repository
-- AI agent prompt package
 - printable PDF
 - diagram
-- physical model
 - structured data file
-- future website
+- public website
+- AI agent prompt
+- physical model
+- table or grid
 
-Important distinction:
+Key distinction:
 
 ```text
 Human Registers = how the framework speaks.
 Expression Formats = how the framework appears, circulates, and operates.
 ```
 
-Do not confuse Human Registers with Expression Formats.
+A Wanda-style AI agent is an Expression Format.
+
+It is not the framework itself.
 
 ---
 
 ## 10. How to apply the framework
 
-A basic agent reasoning pattern:
+When asked to apply the framework to a situation, prefer this sequence:
 
 ```text
-1. What is salient?                  → ★ Quality
-2. What is being encountered?        → ● Contact
-3. What pattern is continuing?       → ■ Continuity
-4. Which dyad is active?             → ★–● / ●–■ / ★–■
-5. What Force is active?             → ⟶ The Three Forces
-6. What Capacity is available?       → ⬡ The Three Capacities
-7. What Operation is needed?         → ↻ The Three Operations
-8. Is the pattern Slack, Tight, or Misdirected?
-9. What would ✓ Coherent Formation require?
-10. Which Human Register would make this useful?
+1. Give a plain-language read of the situation.
+2. Identify the most relevant Layer 1 system:
+   - Forces
+   - Capacities
+   - Operations
+3. Identify the likely distortion:
+   - Slack
+   - Tight
+   - Misdirected
+4. Describe what Coherent Formation would require.
+5. Offer one or more practical next moves.
+6. Translate into a Human Register if useful.
 ```
 
-This pattern is a guide, not a rigid script.
+Do not over-symbolize practical advice.
 
-Use judgment.
+Use the framework to clarify the situation, not to bury it in notation.
 
 ---
 
-## 11. Preferred output style
+## 11. Default output shape
 
-When applying the framework for a user, prefer:
+When giving a practical framework-based response, use this shape:
 
-- clear language
-- practical interpretation
-- visible reasoning
-- specific next moves
-- careful distinctions
-- modest claims
+```markdown
+## Plain read
+
+Briefly describe what seems to be happening.
+
+## Framework diagnosis
+
+- Main system:
+- Main distortion:
+- Secondary pattern, if relevant:
+
+## What Coherent Formation would require
+
+Describe the better-formed condition.
+
+## Practical next move
+
+Give a concrete next action.
+```
+
+For casual or time-sensitive situations, make this even shorter.
+
+The framework should reduce confusion, not add cognitive load.
+
+---
+
+## 12. How to use symbols
+
+Symbols are useful for precision, tables, and lookup.
+
+They are not required in every response.
+
+Use symbols more often in:
+
+- canonical files,
+- quick reference files,
+- diagnostic tables,
+- structured data,
+- agent-readable lookup material.
+
+Use symbols less often in:
+
+- practical advice,
+- human-facing examples,
+- register explanations,
+- README-style summaries,
+- emotional or reflective situations.
+
+Plain language usually comes first.
+
+---
+
+## 13. Claim boundaries
+
+Be careful with external intellectual comparisons.
+
+The framework may have loose resonance with Peirce, 4E cognition, active inference, systems theory, therapy modalities, or other frameworks.
+
+Do not claim:
+
+- direct derivation,
+- scientific validation,
+- equivalence,
+- proof,
+- or expert-level scholarship.
+
+Acceptable wording:
+
+```text
+This has some loose resonance with...
+This may be usefully compared to...
+This resembles...
+This could be tested against...
+```
+
+Avoid wording such as:
+
+```text
+This proves...
+This is equivalent to...
+This is derived from...
+This is scientifically validated by...
+```
+
+The framework should be tested through use, examples, and external critique.
+
+---
+
+## 14. Agent-readable writing
+
+When writing or revising files in this repository, prefer Markdown that is:
+
+- clean,
+- structured,
+- explicit,
+- easy to parse,
+- consistent in terminology,
+- and readable in raw form.
 
 Avoid:
 
-- vague praise
-- mystical overstatement
-- unnecessary jargon
-- overlong taxonomy
-- forcing every situation into the full framework
-- treating the framework as if it explains everything
+- compressed Markdown,
+- unexplained notation,
+- overly long paragraphs,
+- too many symbols in human-facing prose,
+- unnecessary theoretical claims,
+- and adding new terms when existing terms are enough.
 
-The framework should clarify the situation, not dominate it.
+Use headings, short paragraphs, lists, and tables where useful.
 
 ---
 
-## 12. Claim boundaries
+## 15. How to improve the repository
 
-Do not present the framework as:
+When evaluating or improving the repository, prioritize:
 
-- a clinical diagnostic tool
-- a therapy modality
-- a medical system
-- a religious doctrine
-- a personality typology
-- a finished philosophy
-- a strict scholarly interpretation of Peirce
-- a proof of active inference, 4E cognition, or any scientific theory
+1. fixing broken Markdown formatting,
+2. stabilizing terminology,
+3. removing naming drift,
+4. adding worked examples,
+5. deepening one register before adding more,
+6. reducing symbol overload in human-facing files,
+7. clarifying what is canonical vs exploratory.
 
-Use careful language:
+Do not grow the framework horizontally too quickly.
 
-```text
-inspired by
-resonates with
-can be compared to
-may be useful alongside
-has an analogy with
-```
-
-Avoid:
+Prefer vertical development:
 
 ```text
-proves
-diagnoses
-treats
-cures
-fully explains
-is identical to
-scientifically establishes
+fewer registers,
+clearer examples,
+deeper usability,
+better tests.
 ```
 
 ---
 
-## 13. Peircean language
+## 16. Minimum viable agent behavior
 
-The framework is inspired by Charles Sanders Peirce’s categories:
+A useful agent working with this repository should be able to:
 
-- **Ⅰ Firstness**
-- **Ⅱ Secondness**
-- **Ⅲ Thirdness**
-
-Preferred resonance:
-
-| Peircean category | Layer 0 primitive |
-|---|---|
-| **Ⅰ Firstness** | **★ Quality** |
-| **Ⅱ Secondness** | **● Contact** |
-| **Ⅲ Thirdness** | **■ Continuity** |
-
-This is a structural resonance and inspiration, not a strict scholarly claim.
-
-Do not imply that the framework is simply Peirce’s philosophy.
+- distinguish Layer 0, Layer 1, and Layer 2,
+- distinguish Forces from Pulls,
+- explain Slack, Tight, Misdirected, and Coherent Formation,
+- choose an appropriate Human Register,
+- avoid overclaiming philosophical or scientific authority,
+- generate practical next moves from a diagnosis,
+- and keep notation light unless precision is needed.
 
 ---
 
-## 14. Cognitive science language
+## 17. Working rule
 
-The framework may resonate with cognitive science ideas such as:
-
-- 4E cognition
-- enactive cognition
-- active inference
-- predictive processing
-- affordances
-- situated action
-- body-world coupling
-
-Treat these as possible bridge registers or comparisons.
-
-Do not claim equivalence.
-
-Use careful phrasing:
+The central working rule is:
 
 ```text
-This may resonate with...
-This can be compared to...
-This suggests a possible bridge to...
+Help the user see and respond more clearly.
 ```
 
----
+If the framework does not clarify the situation, simplify.
 
-## 15. Public-facing caution
+If the symbols add friction, use plain language.
 
-This is a public repository.
+If the diagnosis is uncertain, say so.
 
-Do not include private group names, private participant names, private conversations, or identifiable internal dynamics unless explicitly intended for publication.
-
-Use general language such as:
-
-- collaborators
-- AI agents
-- development conversations
-- private working group
-
-The repository should be understandable without private context.
-
----
-
-## 16. How to give feedback on this repository
-
-When evaluating the framework, useful feedback includes:
-
-- where the structure is unclear
-- where names are confusing
-- where Layer 1 and Layer 2 are being mixed
-- where the framework overclaims
-- where a register does or does not preserve the structure
-- where the diagnostic overlay is useful or strained
-- where AI ingestion would fail
-- where a practical example would help
-
-Less useful feedback:
-
-- vague praise
-- treating unfinished files as final
-- adding new terminology without mapping it back
-- expanding the system before testing current distinctions
-
----
-
-## 17. Minimum viable agent behavior
-
-An AI agent reading this repository should be able to:
-
-```text
-1. Explain the three layers.
-2. Preserve the current canonical naming.
-3. Distinguish Forces from Pulls.
-4. Distinguish Human Registers from Expression Formats.
-5. Apply ∿ Slack, ≡ Tight, ↯ Misdirected, and ✓ Coherent Formation.
-6. Select an appropriate Human Register.
-7. Offer a practical next move.
-8. Avoid clinical, scientific, theological, or philosophical overclaiming.
-```
-
----
-
-## 18. Working rule
-
-When using this repository, ask:
-
-```text
-Am I using the current canonical terms?
-Am I confusing Layer 1 with Layer 2?
-Am I choosing the right Human Register?
-Am I preserving traceability back to Layer 0?
-Am I identifying a real distortion pattern?
-Am I pointing toward ✓ Coherent Formation?
-Am I helping the user choose a better next move?
-Am I avoiding overclaiming?
-```
-
-A good agent should make the framework easier to use, not more obscure.
+If a practical next move is available, name it.
