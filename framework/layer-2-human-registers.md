@@ -1,43 +1,66 @@
-# Layer 2: The Human Registers Layer
+# Layer 2: Human Registers
 
-**Status:** Working Draft  
+**Status:** Canonical working draft  
 **Canon:** Layer 2 Canon v1.0  
 **Framework:** The Triadic Integrity Framework  
-**Also known as:** Tri Everything  
-**Author:** Gwendolyn Huot with ChatGPT
+**Author:** Gwendolyn Huot with ChatGPT  
 
 ---
 
-## 1. Extended description
+## 1. Purpose
 
-**Layer 2: The Human Registers Layer** translates the Triadic Integrity Framework into usable human language.
+Layer 2 translates The Triadic Integrity Framework into usable human language.
 
-Where **Layer 0: The Structural Layer** defines the core metaphysical grammar of **★ Quality**, **● Contact**, and **■ Continuity**, and **Layer 1: The Mechanical Layer** translates that structure into **⟶ The Three Forces**, **⬡ The Three Capacities**, and **↻ The Three Operations**, Layer 2 asks:
+Layer 0 defines the structural grammar:
 
-> How can this structure be spoken in a way that is useful to a particular person, audience, domain, or situation?
+- **★ Quality**
+- **● Contact**
+- **■ Continuity**
+- **★–●–■ Triadic Integration**
+
+Layer 1 translates that structure into mechanical systems:
+
+- **⟶ The Three Forces**
+- **⬡ The Three Capacities**
+- **↻ The Three Operations**
+
+Layer 2 asks:
+
+```text
+How can this structure be spoken in a way that is useful to a particular person, audience, domain, or situation?
+```
 
 Layer 2 contains **Human Registers**.
 
-A Human Register is not a separate framework. It is a translation layer. It gives the same underlying structure a different vocabulary, tone, metaphor, and practical emphasis.
+A Human Register is not a separate framework.
+
+It is a translation layer.
+
+It gives the same underlying structure a different vocabulary, tone, metaphor, and practical emphasis.
+
+---
+
+## 2. Core definition
+
+A **Human Register** is a domain-specific or audience-specific translation of the framework.
 
 Examples include:
 
 - **The Three Pulls Register**
-- **The Kid Register**
 - **The Working Register**
 - **The Embodied Register**
-- **The Christian Theological Register**
-- proposed future registers such as relational, narrative, cognitive, creative-practice, caregiving, grief, or community registers
-
-Layer 2 is where the framework becomes easier to use in ordinary life. It allows the same structure to speak differently to a child, a working adult, an artist, a parent, an AI agent, a spiritual reader, or someone noticing body signals.
+- **The Kid Register**
+- **Proposed future registers** such as relational, narrative, cognitive, creative-practice, caregiving, grief, family-system, community, or contemplative registers
 
 The governing rule is:
 
 > Human Registers are different translation layers of one underlying triadic structure.
 
+Registers should make the framework easier to use without losing the structure underneath.
+
 ---
 
-## 2. Purpose
+## 3. Why Layer 2 exists
 
 Layer 2 exists because technically accurate language is not always the most useful language.
 
@@ -63,13 +86,13 @@ Layer 2 is useful for:
 - teaching
 - work and project planning
 - embodied awareness
-- spiritual or theological interpretation
+- creative practice
 - AI-agent interaction
 - translating abstract structure into ordinary language
 
 ---
 
-## 3. Relationship to Layer 0
+## 4. Relationship to Layer 0
 
 Layer 0 defines the structural primitives:
 
@@ -93,7 +116,7 @@ It should translate the existing structure.
 
 ---
 
-## 4. Relationship to Layer 1
+## 5. Relationship to Layer 1
 
 Layer 1 defines the canonical mechanical systems:
 
@@ -115,7 +138,7 @@ Layer 2 is the human translation.
 
 ---
 
-## 5. What makes a valid Human Register?
+## 6. What makes a valid Human Register?
 
 A Human Register is valid when it:
 
@@ -131,7 +154,7 @@ A Human Register should make the framework easier to use without losing the stru
 
 ---
 
-## 6. What a Human Register is not
+## 7. What a Human Register is not
 
 A Human Register is not:
 
@@ -149,7 +172,7 @@ But it should remain structurally accountable.
 
 ---
 
-## 7. Current register index
+## 8. Current register index
 
 The minimum viable repository uses a small set of Human Registers.
 
@@ -157,11 +180,10 @@ Each register should eventually have its own file in the `registers/` directory.
 
 | Register | Suggested file | Status | Best for |
 |---|---|---|---|
-| **The Three Pulls Register** | `registers/three-pulls-register.md` | Working Draft / historically formative | General adult reflection and practical self-guidance |
-| **The Kid Register** | `registers/kid-register.md` | Working Draft | Children, parenting, teaching, emotional literacy |
-| **The Working Register** | `registers/working-register.md` | Working Draft | Work, projects, burnout, prioritization, execution |
-| **The Embodied Register** | `registers/embodied-register.md` | Working Draft | Body signals, regulation, tension, bracing, orientation, settling |
-| **The Christian Theological Register** | `registers/christian-theological-register.md` | Working Draft / specialized | Christian theological reflection and spiritual language |
+| **The Three Pulls Register** | `registers/three-pulls-register.md` | Working draft / historically formative | General adult reflection and practical self-guidance |
+| **The Working Register** | `registers/working-register.md` | Working draft | Work, projects, burnout, prioritization, execution |
+| **The Embodied Register** | `registers/embodied-register.md` | Working draft | Body signals, regulation, tension, bracing, orientation, settling |
+| **The Kid Register** | `registers/kid-register.md` | Working draft | Children, parenting, teaching, emotional literacy |
 | **Proposed Registers** | `registers/proposed-registers.md` | Experimental | Future register candidates |
 
 This file defines Layer 2 as a category.
@@ -170,17 +192,26 @@ The individual register files define the actual vocabularies.
 
 ---
 
-## 8. The Three Pulls Register
+## 9. The Three Pulls Register
 
 **The Three Pulls Register** is the early, original, and formative language of the framework.
 
-This is the language that helped the framework first become visible as a practical model: **Aliveness**, **Coordination**, and **Stability**, forming the **Wholesome Triangle**.
+This is the language that helped the framework first become visible as a practical model:
 
-Later, the framework was refactored from **Layer 0: The Structural Layer** with the help of AI. That refactoring produced the more objective canonical Layer 1 language of **⟶ The Three Forces**, **⬡ The Three Capacities**, and **↻ The Three Operations**.
+- **Aliveness**
+- **Coordination / Encounter**
+- **Stability / Steadiness**
+- **Wholesome Triangle**
+
+Later, the framework was refactored into the more canonical Layer 1 language of:
+
+- **⟶ The Three Forces**
+- **⬡ The Three Capacities**
+- **↻ The Three Operations**
 
 This means:
 
-> **The Three Pulls** are not discarded. They are preserved as an important Layer 2 Human Register.
+> The Three Pulls are not discarded. They are preserved as an important Layer 2 Human Register.
 
 They remain valuable because they are intuitive, memorable, and practical.
 
@@ -199,39 +230,6 @@ Preferred mapping:
 Use this register when the goal is practical human reflection.
 
 Use canonical Layer 1 language when the goal is structural precision.
-
----
-
-## 9. The Kid Register
-
-**The Kid Register** translates the framework into language that a child can use.
-
-Its purpose is not to simplify the framework by removing the structure. Its purpose is to preserve the structure in language that is concrete, friendly, and emotionally usable.
-
-Possible guiding questions:
-
-- What is pulling on me?
-- How much room do I have?
-- What can I do next?
-
-Possible mapping:
-
-| Canonical Layer 1 system | Kid Register |
-|---|---|
-| **⟶ The Three Forces** | Tugs |
-| **⬡ The Three Capacities** | Room / Cup |
-| **↻ The Three Operations** | Inside Moves |
-
-The Kid Register is useful for:
-
-- emotional literacy
-- parenting
-- teaching
-- conflict repair
-- helping children name intensity without shame
-- helping children find a next move
-
-The Kid Register should be concrete, embodied, and low-abstraction.
 
 ---
 
@@ -287,7 +285,9 @@ It is useful for noticing:
 - capacity
 - settling
 
-The Embodied Register is not a clinical or trauma-treatment model. It is a reflective body-awareness register.
+The Embodied Register is not a clinical or trauma-treatment model.
+
+It is a reflective body-awareness register.
 
 Possible mapping:
 
@@ -320,32 +320,40 @@ It should support practical noticing, not diagnosis.
 
 ---
 
-## 12. The Christian Theological Register
+## 12. The Kid Register
 
-**The Christian Theological Register** translates the framework into Christian theological language.
+**The Kid Register** translates the framework into language that a child can use.
 
-It is a specialized Layer 2 register.
+Its purpose is not to simplify the framework by removing the structure.
 
-It may explore resonances with concepts such as:
+Its purpose is to preserve the structure in language that is concrete, friendly, and emotionally usable.
 
-- goodness
-- glory
-- incarnation
-- encounter
-- faithfulness
-- tradition
-- spiritual practice
-- formation
-- discernment
-- communion
+Possible guiding questions:
 
-This register should be written carefully.
+```text
+What is pulling on me?
+How much room do I have?
+What can I do next?
+```
 
-It should not claim that the framework is Christian doctrine.
+Possible mapping:
 
-It should not flatten theology into a self-help model.
+| Canonical Layer 1 system | Kid Register |
+|---|---|
+| **⟶ The Three Forces** | Tugs |
+| **⬡ The Three Capacities** | Room / Cup |
+| **↻ The Three Operations** | Inside Moves |
 
-It should be presented as a translation register: a way of exploring how the triadic structure can be spoken within Christian theological language.
+The Kid Register is useful for:
+
+- emotional literacy
+- parenting
+- teaching
+- conflict repair
+- helping children name intensity without shame
+- helping children find a next move
+
+The Kid Register should be concrete, embodied, and low-abstraction.
 
 ---
 
@@ -416,11 +424,11 @@ Suggested template:
 ```markdown
 # [Register Name]
 
-**Status:** Working Draft  
-**Layer:** Layer 2: The Human Registers Layer  
+**Status:** Working draft  
+**Layer:** Layer 2: Human Registers  
 **Source layer:** Layer 1: The Mechanical Layer  
 **Framework:** The Triadic Integrity Framework  
-**Author:** Gwendolyn Huot with ChatGPT
+**Author:** Gwendolyn Huot with ChatGPT  
 
 ---
 
@@ -481,11 +489,9 @@ Traceability matters because it keeps Layer 2 from becoming a loose collection o
 
 ---
 
-## 17. AI-native use
+## 17. Human-and-agent-readable use
 
-Layer 2 is important for AI-native use because it allows an AI system to choose the right language for the situation.
-
-The same underlying structure can be expressed differently depending on the user’s context.
+Layer 2 is important for human-and-agent-readable use because it allows the same structure to be expressed differently depending on context.
 
 For example:
 
@@ -495,7 +501,6 @@ For example:
 | A person is planning a workday | Working Register |
 | A person is noticing tension or bracing | Embodied Register |
 | A person wants general self-reflection | Three Pulls Register |
-| A person is exploring theological meaning | Christian Theological Register |
 
 An AI agent using this framework should not always speak in canonical Layer 1 language.
 
@@ -529,19 +534,20 @@ The structure should be present, but not burdensome.
 
 ```yaml
 layer: 2
-canonical_name: "Layer 2: The Human Registers Layer"
+canonical_name: "Layer 2: Human Registers"
 canon_version: "Layer 2 Canon v1.0"
 framework: "The Triadic Integrity Framework"
-nickname: "Tri Everything"
 orientation:
-  - human-facing
+  - human_facing
   - translational
   - practical
-  - domain-specific
-  - audience-specific
+  - domain_specific
+  - audience_specific
   - traceable_to_layer_1
   - traceable_to_layer_0
+
 definition: "Human Registers are translation layers that express the same underlying triadic structure in language useful to particular people, domains, or situations."
+
 source_layers:
   layer_0:
     name: "Layer 0: The Structural Layer"
@@ -549,49 +555,59 @@ source_layers:
       - "★ Quality"
       - "● Contact"
       - "■ Continuity"
+
   layer_1:
     name: "Layer 1: The Mechanical Layer"
     systems:
       - "⟶ The Three Forces"
       - "⬡ The Three Capacities"
       - "↻ The Three Operations"
+
 current_registers:
   - id: three_pulls_register
     name: "The Three Pulls Register"
     suggested_file: "registers/three-pulls-register.md"
-    status: "Working Draft / historically formative"
+    status: "Working draft / historically formative"
     best_for: "General adult reflection and practical self-guidance."
     note: "Early, original, and formative language of the framework, preserved as Layer 2 after the Layer 0 refactor."
-  - id: kid_register
-    name: "The Kid Register"
-    suggested_file: "registers/kid-register.md"
-    status: "Working Draft"
-    best_for: "Children, parenting, teaching, and emotional literacy."
+
   - id: working_register
     name: "The Working Register"
     suggested_file: "registers/working-register.md"
-    status: "Working Draft"
+    status: "Working draft"
     best_for: "Work, projects, burnout, prioritization, and execution."
+
   - id: embodied_register
     name: "The Embodied Register"
     suggested_file: "registers/embodied-register.md"
-    status: "Working Draft"
+    status: "Working draft"
     best_for: "Body signals, regulation, tension, bracing, orientation, and settling."
-  - id: christian_theological_register
-    name: "The Christian Theological Register"
-    suggested_file: "registers/christian-theological-register.md"
-    status: "Working Draft / specialized"
-    best_for: "Christian theological reflection and spiritual language."
+
+  - id: kid_register
+    name: "The Kid Register"
+    suggested_file: "registers/kid-register.md"
+    status: "Working draft"
+    best_for: "Children, parenting, teaching, and emotional literacy."
+
+  - id: proposed_registers
+    name: "Proposed Registers"
+    suggested_file: "registers/proposed-registers.md"
+    status: "Experimental"
+    best_for: "Future register candidates."
+
 diagnostic_overlay_translation:
   slack:
     canonical: "∿ Slack"
     general_translation: "Not enough; underpowered; unsupported; too loose."
+
   tight:
     canonical: "≡ Tight"
     general_translation: "Too much; over-controlled; pressured; rigid."
+
   misdirected:
     canonical: "↯ Misdirected"
     general_translation: "Aimed wrong; misread; out of alignment; solving the wrong problem."
+
   coherent_formation:
     canonical: "✓ Coherent Formation"
     general_translation: "Working well enough; held together; responsive; formed enough to proceed."
@@ -603,7 +619,7 @@ diagnostic_overlay_translation:
 
 The shortest useful definition of Layer 2 is:
 
-> **Layer 2: The Human Registers Layer** translates the canonical structure of the Triadic Integrity Framework into usable human language. Human Registers are not separate frameworks; they are audience-specific and domain-specific translations of the same underlying triadic structure.
+> **Layer 2: Human Registers** translates the canonical structure of The Triadic Integrity Framework into usable human language. Human Registers are not separate frameworks; they are audience-specific and domain-specific translations of the same underlying triadic structure.
 
 ---
 
@@ -619,7 +635,7 @@ Current open questions include:
 - Should the Three Pulls Register remain the flagship public register?
 - How should AI agents choose the right register for a given situation?
 - Which proposed registers are useful enough to become full register files?
-- How much theological, therapeutic, or philosophical language can be used without overclaiming?
+- How much therapeutic, contemplative, or philosophical language can be used without overclaiming?
 
 ---
 
