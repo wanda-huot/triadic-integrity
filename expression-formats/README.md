@@ -1,19 +1,19 @@
 # Expression Formats
 
-**Status:** Working Draft  
+**Status:** Working draft  
+**Category:** Expression Formats  
 **Framework:** The Triadic Integrity Framework  
-**Also known as:** Tri Everything  
-**Author:** Gwendolyn Huot with ChatGPT
+**Author:** Gwendolyn Huot with ChatGPT  
 
 ---
 
 ## 1. Purpose
 
-**Expression Formats** are the forms the Triadic Integrity Framework takes so it can be stored, displayed, navigated, taught, reused, or executed.
+Expression Formats are the forms The Triadic Integrity Framework takes so it can be stored, displayed, navigated, taught, reused, or executed.
 
 They are not new layers of the framework.
 
-They are ways the framework appears in the world.
+They are ways the framework appears, circulates, and operates.
 
 Examples include:
 
@@ -30,36 +30,42 @@ Examples include:
 
 ## 2. Key distinction
 
-The important distinction is:
+The key distinction is:
 
 ```text
 Human Registers = how the framework speaks.
+Bridges = how the framework compares and translates across systems.
 Expression Formats = how the framework appears, circulates, and operates.
 ```
 
-A **Human Register** translates the framework into a kind of language.
+A **Human Register** translates the framework into usable language for a particular audience, domain, or situation.
+
+A **Bridge** compares the framework with an external system, theory, tradition, modality, or vocabulary.
 
 An **Expression Format** packages the framework into a usable form.
 
-For example:
+---
+
+## 3. Examples
 
 | Thing | Category | Why |
 |---|---|---|
 | **The Kid Register** | Human Register | It translates the framework into child-friendly language. |
-| **The Embodied Register** | Human Register | It translates the framework into body-based language. |
-| **GitHub Markdown repository** | Expression Format | It stores and organizes the framework as public reference text. |
-| **Wanda agent** | Expression Format | It lets the framework operate through an AI agent. |
-| **Printable PDF** | Expression Format | It lets the framework be read, marked up, and used away from a screen. |
+| **The Embodied Register** | Human Register | It translates the framework into body-aware language. |
+| **Peirce Bridge** | Bridge | It would compare the framework with Peircean categories and identify resonances, limits, and mismatches. |
+| **GitHub Markdown Repository** | Expression Format | It stores and organizes the framework as reference text. |
+| **Wanda Agent** | Expression Format | It would let the framework operate through an AI agent. |
+| **Printable PDF** | Expression Format | It would let the framework be read, marked up, and used away from a screen. |
 
 ---
 
-## 3. Current Expression Formats
+## 4. Current and possible Expression Formats
 
-The minimum viable repository currently recognizes these Expression Formats:
+The minimum viable repository currently recognizes these Expression Formats.
 
 | Expression Format | Status | Purpose |
 |---|---|---|
-| **GitHub Markdown Repository** | Active | Public canonical reference structure. |
+| **GitHub Markdown Repository** | Active | Current reference structure for the framework. |
 | **Wanda Agent** | Near-term | AI-agent expression of the framework. |
 | **Printable PDFs** | Future | Print-friendly versions for reading, editing, and practical use. |
 | **Diagrams** | Future | Visual expression of the triadic structure. |
@@ -69,65 +75,61 @@ The minimum viable repository currently recognizes these Expression Formats:
 
 ---
 
-## 4. GitHub Markdown Repository
+## 5. GitHub Markdown Repository
 
-The current repository is the first active Expression Format.
+The current GitHub repository is the first active Expression Format.
 
 Its purpose is to make the framework:
 
-- public
 - navigable
 - versionable
-- readable by humans
-- ingestible by AI systems
 - easy to revise
 - easy to extend
+- readable by humans
+- usable by AI agents
+- suitable as a public working reference
 
 Markdown is useful because it can hold both prose and structure.
 
 It can serve as:
 
 - human documentation
-- AI-ingestible source material
+- agent-readable source material
 - a working draft space
 - a public reference
 - the basis for future websites, PDFs, agents, and structured data
 
-Related file:
-
-```text
-expression-formats/github-markdown.md
-```
-
 ---
 
-## 5. Wanda Agent
+## 6. Wanda Agent
 
-**Wanda** is the near-term AI-agent expression of the framework.
+**Wanda** is a proposed AI-agent expression of the framework.
 
-Wanda is intended to make the framework usable in conversation and practical reasoning.
+Wanda is intended to test whether the framework can support conversation, reflection, diagnosis, register selection, and practical reasoning.
 
 As an Expression Format, Wanda should be able to:
 
-- ingest the framework files
+- read the framework files
 - preserve canonical terms
 - choose appropriate Human Registers
+- distinguish Human Registers from Bridges
 - apply the diagnostic overlays
 - support practical decision-making
 - avoid overclaiming
 - remain traceable back to Layer 0 and Layer 1
 
-Related files:
+Possible future files:
 
 ```text
-expression-formats/wanda-agent.md
-agents/wanda/README.md
-agents/wanda/wanda-system-prompt.md
+agents/WANDA.md
+agents/wanda-system-prompt.md
 ```
+
+These files are not assumed to exist yet.
 
 ---
 
-## 6. Printable PDFs
+## 7. Printable PDFs
 
 Printable PDFs are future Expression Formats.
 
@@ -148,9 +150,11 @@ Possible future PDFs:
 - Diagnostic Matrix
 - register-specific worksheets
 
+A good printable PDF should be clean, readable, and useful away from the repository.
+
 ---
 
-## 7. Diagrams
+## 8. Diagrams
 
 Diagrams are future Expression Formats.
 
@@ -163,6 +167,7 @@ Possible diagram types:
 - Layer 1 systems diagram
 - diagnostic overlay diagram
 - Human Registers map
+- Bridges map
 - Expression Formats map
 - AI-agent reasoning flow
 
@@ -170,7 +175,7 @@ A good diagram should clarify the structure rather than decorate it.
 
 ---
 
-## 8. Physical Model
+## 9. Physical Model
 
 The physical model is a material Expression Format.
 
@@ -190,23 +195,24 @@ A material version may make those patterns easier to see and feel.
 
 ---
 
-## 9. Structured Data
+## 10. Structured Data
 
 Structured data is a future Expression Format.
 
-Machine-readable files may live in:
+Machine-readable files may eventually live in:
 
 ```text
 data/
 ```
 
-Possible files:
+Possible future files:
 
 ```text
 data/layer-0-canon.json
 data/layer-1-canon.json
 data/layer-2-registers-index.json
 data/diagnostic-matrix.json
+data/bridges-index.json
 ```
 
 Structured data is useful for:
@@ -215,6 +221,7 @@ Structured data is useful for:
 - websites
 - search tools
 - register mapping
+- bridge mapping
 - automated diagrams
 - future applications
 
@@ -224,7 +231,7 @@ Structured data is for reuse.
 
 ---
 
-## 10. Astro Website
+## 11. Astro Website
 
 An Astro website is a future Expression Format.
 
@@ -235,8 +242,9 @@ It may eventually provide:
 - readable essays
 - visual diagrams
 - register pages
+- bridge pages
 - interactive reference tools
-- AI-ingestible structured pages
+- agent-readable structured pages
 
 The website is not part of the minimum viable repository.
 
@@ -244,7 +252,30 @@ It is a future public-facing expression.
 
 ---
 
-## 11. Design principles
+## 12. Relationship to Bridges
+
+Bridges are not Expression Formats.
+
+They are comparative translation documents.
+
+However, Bridge materials can be expressed through different formats.
+
+For example:
+
+| Bridge content | Possible Expression Format |
+|---|---|
+| Peirce Bridge | Markdown file |
+| Active Inference Bridge | Markdown file, diagram, or structured data |
+| 4E Cognition Bridge | Markdown file or comparison table |
+| ACT Bridge | Markdown file or practical mapping worksheet |
+
+The Bridge is the kind of content.
+
+The Expression Format is the form that content takes.
+
+---
+
+## 13. Design principles
 
 Expression Formats should be:
 
@@ -253,7 +284,7 @@ Expression Formats should be:
 - easy to update
 - structurally faithful
 - useful for humans
-- useful for AI systems
+- useful for AI agents
 - honest about status
 - free of unnecessary bloat
 
@@ -263,7 +294,7 @@ The form should serve the structure.
 
 ---
 
-## 12. Working rule
+## 14. Working rule
 
 When creating a new Expression Format, ask:
 
@@ -272,8 +303,8 @@ What is this format for?
 Who will use it?
 What part of the framework does it express?
 Does it preserve the canonical structure?
-Does it help humans, AI systems, or both?
-Does it need to be public, private, printable, visual, agentic, or machine-readable?
+Does it help humans, AI agents, or both?
+Does it need to be public, private, printable, visual, agentic, material, or machine-readable?
 ```
 
 A good Expression Format makes the framework easier to use without changing what the framework is.
