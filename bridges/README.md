@@ -46,7 +46,7 @@ Key distinction:
 
 ```text
 Human Registers = how the framework speaks.
-Bridges = how the framework compares and translates across systems.
+Bridges = Bridges = how the framework compares with and translates between external systems.
 Expression Formats = how the framework appears, circulates, and operates.
 ```
 
