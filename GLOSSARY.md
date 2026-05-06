@@ -1,6 +1,3 @@
-Yes. The glossary should be a **stub index of key terms**, not another explanatory document.
-
-```markdown
 # Glossary
 
 **Status:** Tiny stub  
@@ -26,24 +23,6 @@ Pattern, persistence, memory, recognizability, stability, or form.
 
 ---
 
-## Force
-
-What generates movement, pressure, salience, desire, direction, or tendency.
-
----
-
-## Capacity
-
-What can hold, support, limit, structure, or bear force.
-
----
-
-## Operation
-
-What the system can do to adjust, adapt, respond, or stabilize.
-
----
-
 ## Dyad
 
 A two-part relation between two structural primitives.
@@ -59,6 +38,24 @@ Core dyads:
 ## Triadic Integration
 
 The emergent coherence produced when Quality, Contact, and Continuity are mutually related.
+
+---
+
+## Force
+
+What generates movement, pressure, salience, desire, direction, or tendency.
+
+---
+
+## Capacity
+
+What can hold, support, limit, structure, or bear force.
+
+---
+
+## Operation
+
+What the system can do to adjust, adapt, respond, or stabilize.
 
 ---
 
@@ -92,6 +89,12 @@ A domain-specific or audience-specific translation of the framework into usable 
 
 ---
 
+## Bridge
+
+A comparative translation document that connects the framework with an external framework, theory, tradition, modality, or vocabulary.
+
+---
+
 ## Expression Format
 
 A form the framework takes so it can be stored, displayed, taught, reused, or executed.
@@ -107,4 +110,3 @@ The early/original/formative human-facing version of the framework, now treated 
 ## Triadic Integrity
 
 The condition in which three necessary aspects of a system hold together in a coherent, responsive way.
-```
