@@ -1,17 +1,16 @@
 # The Working Register
 
-**Status:** Working Draft  
-**Layer:** Layer 2: The Human Registers Layer  
+**Status:** Working draft  
+**Layer:** Layer 2: Human Registers  
 **Source layer:** Layer 1: The Mechanical Layer  
 **Framework:** The Triadic Integrity Framework  
-**Also known as:** Tri Everything  
-**Author:** Gwendolyn Huot with ChatGPT
+**Author:** Gwendolyn Huot with ChatGPT  
 
 ---
 
 ## 1. Purpose
 
-**The Working Register** translates the Triadic Integrity Framework into the language of work, projects, effort, prioritization, burnout, execution, and practical decision-making.
+**The Working Register** translates The Triadic Integrity Framework into the language of work, projects, effort, prioritization, burnout, execution, and practical decision-making.
 
 It is for situations where the central question is:
 
@@ -22,6 +21,8 @@ What needs doing, what can I actually handle, and what move would help?
 The Working Register is not a productivity system by itself.
 
 It is a register for interpreting work situations through the framework.
+
+It should help clarify work, not moralize output.
 
 ---
 
@@ -49,24 +50,35 @@ It is especially useful when a person has too many possible tasks, unclear prior
 
 | Canonical Layer 1 term | Working Register |
 |---|---|
-| **⟶ The Three Forces** | Demands |
-| **⟶○★ Qualitative Force** | Stakes |
-| **⟶○● Contact Force** | Asks |
-| **⟶○■ Continuity Force** | Standards |
-| **⬡ The Three Capacities** | Bandwidth |
-| **⬡○★ Bodily/Regulatory Capacity** | Attention |
-| **⬡○● Social/Structural Capacity** | Load |
-| **⬡○■ Form/Integrity Capacity** | Throughput |
-| **↻ The Three Operations** | Moves |
-| **↻○★ Explore Operation** | Sharpening |
-| **↻○● Coordinate Operation** | Triaging |
-| **↻○■ Stabilize Operation** | Repatterning |
+| **The Three Forces** | Demands |
+| **Qualitative Force** | Stakes |
+| **Contact Force** | Asks |
+| **Continuity Force** | Standards |
+| **The Three Capacities** | Bandwidth |
+| **Bodily/Regulatory Capacity** | Attention |
+| **Social/Structural Capacity** | Load |
+| **Form/Integrity Capacity** | Throughput |
+| **The Three Operations** | Moves |
+| **Explore Operation** | Sharpen |
+| **Coordinate Operation** | Triage |
+| **Stabilize Operation** | Repattern |
+
+This table is mainly for adults and agents.
+
+In ordinary use, the simplest version is:
+
+```text
+What matters?
+What is being asked?
+What can I actually handle?
+What move would help?
+```
 
 ---
 
 ## 4. Demands
 
-**Demands** are the Working Register translation of **⟶ The Three Forces**.
+**Demands** are the Working Register translation of **The Three Forces**.
 
 They name what is generating movement, pressure, importance, or direction in a work situation.
 
@@ -74,22 +86,21 @@ The three Demands are:
 
 | Working term | Canonical Layer 1 source | Short meaning |
 |---|---|---|
-| **Stakes** | **⟶○★ Qualitative Force** | What matters, has value, or carries felt importance. |
-| **Asks** | **⟶○● Contact Force** | What reality, people, deadlines, systems, or circumstances are asking for. |
-| **Standards** | **⟶○■ Continuity Force** | What level of quality, consistency, reliability, or form needs to be maintained. |
+| **Stakes** | **Qualitative Force** | What matters, has value, or carries felt importance. |
+| **Asks** | **Contact Force** | What reality, people, deadlines, systems, or circumstances are asking for. |
+| **Standards** | **Continuity Force** | What level of quality, consistency, reliability, or form needs to be maintained. |
 
 ---
 
 ## 5. Stakes
 
-**Stakes** are the work-facing translation of **⟶○★ Qualitative Force**.
+**Stakes** are the work-facing translation of **Qualitative Force**.
 
 Stakes name what matters in the work.
 
 They may include:
 
 - importance
-- urgency
 - opportunity
 - risk
 - meaning
@@ -110,13 +121,15 @@ What would be lost if this were ignored?
 
 Stakes are not the same as urgency.
 
-Something can matter deeply without being urgent. Something can feel urgent without having high stakes.
+Something can matter deeply without being urgent.
+
+Something can feel urgent without having high stakes.
 
 ---
 
 ## 6. Asks
 
-**Asks** are the work-facing translation of **⟶○● Contact Force**.
+**Asks** are the work-facing translation of **Contact Force**.
 
 Asks name what the actual situation is requesting or requiring.
 
@@ -151,7 +164,7 @@ Some asks can be declined, delayed, delegated, reduced, or reframed.
 
 ## 7. Standards
 
-**Standards** are the work-facing translation of **⟶○■ Continuity Force**.
+**Standards** are the work-facing translation of **Continuity Force**.
 
 Standards name the level of quality, consistency, form, or reliability that the work needs to maintain.
 
@@ -189,9 +202,9 @@ The three Demands combine into three relations.
 
 | Working term | Canonical Layer 1 source | Short meaning |
 |---|---|---|
-| **Urgency** | **⟶⟷★● Quality–Contact Force Relation** | Stakes meeting real-world asks. |
-| **Routine** | **⟶⟷●■ Contact–Continuity Force Relation** | Repeated asks becoming regular work. |
-| **Craft** | **⟶⟷★■ Quality–Continuity Force Relation** | Stakes held through standards over time. |
+| **Urgency** | **Quality–Contact Force Relation** | Stakes meeting real-world asks. |
+| **Routine** | **Contact–Continuity Force Relation** | Repeated asks becoming regular work. |
+| **Craft** | **Quality–Continuity Force Relation** | Stakes held through standards over time. |
 
 ---
 
@@ -276,14 +289,14 @@ It becomes distorted when everything is treated as a craft object.
 
 ## 12. Drive
 
-**Drive** is the Working Register phrase for **⟶△ Force Formation**.
+**Drive** is the Working Register phrase for **Force Formation**.
 
 Drive forms when:
 
 - **Stakes** clarify what matters
 - **Asks** keep the work in contact with reality
 - **Standards** give the work reliable form
-- Urgency, Routine, and Craft support each other
+- **Urgency**, **Routine**, and **Craft** support each other
 
 Drive is not mere busyness.
 
@@ -295,7 +308,7 @@ It means the work has enough importance, contact, and standard to move coherentl
 
 ## 13. Bandwidth
 
-**Bandwidth** is the Working Register translation of **⬡ The Three Capacities**.
+**Bandwidth** is the Working Register translation of **The Three Capacities**.
 
 It describes what the person, team, or system can actually bear.
 
@@ -303,15 +316,15 @@ The three forms of Bandwidth are:
 
 | Working term | Canonical Layer 1 source | Short meaning |
 |---|---|---|
-| **Attention** | **⬡○★ Bodily/Regulatory Capacity** | The capacity to focus, care, notice, and stay mentally present. |
-| **Load** | **⬡○● Social/Structural Capacity** | The amount of work, contact, responsibility, and external demand being carried. |
-| **Throughput** | **⬡○■ Form/Integrity Capacity** | The capacity to move work through a reliable form or process. |
+| **Attention** | **Bodily/Regulatory Capacity** | The capacity to focus, care, notice, and stay mentally present. |
+| **Load** | **Social/Structural Capacity** | The amount of work, contact, responsibility, and external demand being carried. |
+| **Throughput** | **Form/Integrity Capacity** | The capacity to move work through a reliable form or process. |
 
 ---
 
 ## 14. Attention
 
-**Attention** is the work-facing translation of **⬡○★ Bodily/Regulatory Capacity**.
+**Attention** is the work-facing translation of **Bodily/Regulatory Capacity**.
 
 Attention names how much focus, care, presence, and cognitive-emotional energy are available.
 
@@ -331,7 +344,7 @@ Not all tasks require the same kind of attention.
 
 ## 15. Load
 
-**Load** is the work-facing translation of **⬡○● Social/Structural Capacity**.
+**Load** is the work-facing translation of **Social/Structural Capacity**.
 
 Load names how much the person or system is carrying.
 
@@ -363,7 +376,7 @@ But high load without support will distort the system.
 
 ## 16. Throughput
 
-**Throughput** is the work-facing translation of **⬡○■ Form/Integrity Capacity**.
+**Throughput** is the work-facing translation of **Form/Integrity Capacity**.
 
 Throughput names the system’s ability to move work from intention to completion.
 
@@ -398,9 +411,9 @@ The three Bandwidth elements combine into three relations.
 
 | Working term | Canonical Layer 1 source | Short meaning |
 |---|---|---|
-| **Focus** | **⬡⟷★● Regulatory–Structural Capacity Relation** | Attention supported under load. |
-| **Endurance** | **⬡⟷●■ Structural–Integrity Capacity Relation** | Load carried through a reliable structure over time. |
-| **Quality** | **⬡⟷★■ Regulatory–Integrity Capacity Relation** | Attention held through a coherent standard or form. |
+| **Focus** | **Bodily/Regulatory–Social/Structural Capacity Relation** | Attention supported under load. |
+| **Endurance** | **Social/Structural–Form/Integrity Capacity Relation** | Load carried through a reliable structure over time. |
+| **Quality** | **Bodily/Regulatory–Form/Integrity Capacity Relation** | Attention held through a coherent standard or form. |
 
 ---
 
@@ -476,14 +489,14 @@ Quality becomes distorted when it turns into perfectionism.
 
 ## 21. Capacity
 
-**Capacity** is the Working Register phrase for **⬡△ Capacity Formation**.
+**Capacity** is the Working Register phrase for **Capacity Formation**.
 
 Capacity forms when:
 
 - **Attention** is available
 - **Load** is bearable
 - **Throughput** can move work forward
-- Focus, Endurance, and Quality support one another
+- **Focus**, **Endurance**, and **Quality** support one another
 
 Capacity is not the same as ambition.
 
@@ -493,7 +506,7 @@ Capacity is what the system can actually bear and move.
 
 ## 22. Moves
 
-**Moves** are the Working Register translation of **↻ The Three Operations**.
+**Moves** are the Working Register translation of **The Three Operations**.
 
 They describe what can be done to tune the work system.
 
@@ -501,15 +514,15 @@ The three Moves are:
 
 | Working term | Canonical Layer 1 source | Short meaning |
 |---|---|---|
-| **Sharpening** | **↻○★ Explore Operation** | Clarify what matters. |
-| **Triaging** | **↻○● Coordinate Operation** | Decide what needs contact now, later, less, or not at all. |
-| **Repatterning** | **↻○■ Stabilize Operation** | Change the workflow, routine, template, boundary, or recurring structure. |
+| **Sharpen** | **Explore Operation** | Clarify what matters. |
+| **Triage** | **Coordinate Operation** | Decide what needs contact now, later, less, or not at all. |
+| **Repattern** | **Stabilize Operation** | Change the workflow, routine, template, boundary, or recurring structure. |
 
 ---
 
-## 23. Sharpening
+## 23. Sharpen
 
-**Sharpening** is the work-facing translation of **↻○★ Explore Operation**.
+**Sharpen** is the work-facing translation of **Explore Operation**.
 
 Sharpening clarifies what matters.
 
@@ -534,9 +547,9 @@ Sharpening helps when the work is vague, scattered, or emotionally noisy.
 
 ---
 
-## 24. Triaging
+## 24. Triage
 
-**Triaging** is the work-facing translation of **↻○● Coordinate Operation**.
+**Triage** is the work-facing translation of **Coordinate Operation**.
 
 Triaging decides what needs contact and when.
 
@@ -566,9 +579,9 @@ Good triage is honest contact with reality.
 
 ---
 
-## 25. Repatterning
+## 25. Repattern
 
-**Repatterning** is the work-facing translation of **↻○■ Stabilize Operation**.
+**Repattern** is the work-facing translation of **Stabilize Operation**.
 
 Repatterning changes the recurring shape of the work.
 
@@ -599,22 +612,22 @@ The three Moves combine into three relations.
 
 | Working term | Canonical Layer 1 source | Short meaning |
 |---|---|---|
-| **Prioritizing** | **↻⟷★● Explore–Coordinate Operation Relation** | Sharpening what matters by bringing it into contact with reality. |
-| **Restructuring** | **↻⟷●■ Coordinate–Stabilize Operation Relation** | Turning contact with reality into a better structure. |
-| **Re-skilling** | **↻⟷★■ Explore–Stabilize Operation Relation** | Turning clarified value into a repeatable capability. |
+| **Prioritizing** | **Explore–Coordinate Operation Relation** | Sharpening what matters by bringing it into contact with reality. |
+| **Restructuring** | **Coordinate–Stabilize Operation Relation** | Turning contact with reality into a better structure. |
+| **Re-skilling** | **Explore–Stabilize Operation Relation** | Turning clarified value into a repeatable capability. |
 
 ---
 
 ## 27. Adjustment
 
-**Adjustment** is the Working Register phrase for **↻△ Operation Formation**.
+**Adjustment** is the Working Register phrase for **Operation Formation**.
 
 Adjustment forms when:
 
 - **Sharpening** clarifies what matters
 - **Triaging** brings the work into contact with reality
 - **Repatterning** changes the structure
-- Prioritizing, Restructuring, and Re-skilling support one another
+- **Prioritizing**, **Restructuring**, and **Re-skilling** support one another
 
 Adjustment means the work system can adapt.
 
@@ -628,25 +641,31 @@ It is changing the relationship between what matters, what is being asked, and w
 
 The canonical diagnostic overlay uses:
 
-- **∿ Slack**
-- **≡ Tight**
-- **↯ Misdirected**
-- **✓ Coherent Formation**
+- **Slack**
+- **Tight**
+- **Misdirected**
+- **Coherent Formation**
 
 In the Working Register, these can be translated as:
 
 | Canonical term | Working Register translation |
 |---|---|
-| **∿ Slack** | Underpowered, unsupported, vague, insufficiently structured, not enough contact. |
-| **≡ Tight** | Over-pressured, over-controlled, rigid, perfectionistic, over-scheduled. |
-| **↯ Misdirected** | Working on the wrong thing, solving the wrong problem, preserving the wrong pattern. |
-| **✓ Coherent Formation** | The work has enough stakes, support, structure, and movement to proceed. |
+| **Slack** | Underpowered, unsupported, vague, insufficiently structured, not enough contact. |
+| **Tight** | Over-pressured, over-controlled, rigid, perfectionistic, over-scheduled. |
+| **Misdirected** | Working on the wrong thing, solving the wrong problem, preserving the wrong pattern. |
+| **Coherent Formation** | The work has enough stakes, support, structure, and movement to proceed. |
+
+Important:
+
+**Coherent Formation** is not a fourth distortion.
+
+It is the well-formed condition.
 
 ---
 
 ## 29. Slack in the Working Register
 
-**∿ Slack** means the work is underpowered, under-supported, vague, or insufficiently structured.
+**Slack** means the work is underpowered, under-supported, vague, or insufficiently structured.
 
 Examples:
 
@@ -674,7 +693,7 @@ Add one clear stake, one contact point, or one small structure.
 
 ## 30. Tight in the Working Register
 
-**≡ Tight** means the work is over-pressured, over-controlled, rigid, perfectionistic, or overloaded.
+**Tight** means the work is over-pressured, over-controlled, rigid, perfectionistic, or overloaded.
 
 Examples:
 
@@ -701,7 +720,7 @@ Reduce scope, lower the standard, create more room, or define “good enough.”
 
 ## 31. Misdirected in the Working Register
 
-**↯ Misdirected** means real effort is aimed at the wrong thing.
+**Misdirected** means real effort is aimed at the wrong thing.
 
 Examples:
 
@@ -727,7 +746,7 @@ Return to the real stakes, real ask, and real next contact point.
 
 ## 32. Coherent Formation in the Working Register
 
-**✓ Coherent Formation** means the work system is formed enough to proceed.
+**Coherent Formation** means the work system is formed enough to proceed.
 
 In Working Register language:
 
@@ -772,13 +791,13 @@ What move would help?
 
 ## 34. Example use
 
-Situation:
+### Situation
 
 ```text
 I have a huge to-do list and I feel behind before the day has started.
 ```
 
-Working Register reading:
+### Working Register reading
 
 - **Stakes:** Not every task matters equally.
 - **Asks:** Some tasks need real contact today; others may only be mental noise.
@@ -786,18 +805,49 @@ Working Register reading:
 - **Attention:** Limited.
 - **Load:** Too high.
 - **Throughput:** At risk because the list is too undifferentiated.
-- **Likely distortion:** Tight Load and Slack Triaging.
-- **Helpful Move:** Triaging, then Sharpening.
+- **Likely distortion:** Tight Load and Slack Triage.
+- **Helpful Move:** Triage, then Sharpen.
 
-Plain next move:
+### Plain next move
 
 ```text
-Choose the three tasks that actually matter today. Define “good enough” for each. Start with the one that needs real contact first.
+Choose the three tasks that actually matter today.
+Define “good enough” for each.
+Start with the one that needs real contact first.
 ```
 
 ---
 
-## 35. Caution
+## 35. Example use: project sprawl
+
+### Situation
+
+```text
+A project keeps expanding. Every new idea seems useful, but nothing is getting finished.
+```
+
+### Working Register reading
+
+- **Stakes:** The project matters and has genuine creative value.
+- **Asks:** The real ask may be smaller than the expanding idea-field.
+- **Standards:** The standard may be unclear or too high for the current stage.
+- **Attention:** Attention is being pulled toward novelty.
+- **Load:** The project is carrying too many possibilities at once.
+- **Throughput:** Work is not moving cleanly toward completion.
+- **Likely distortion:** Tight Stakes, Slack Throughput, and Misdirected Sharpening.
+- **Helpful Move:** Triage scope, then Repattern the project into phases.
+
+### Plain next move
+
+```text
+Name the smallest finished version.
+Move future ideas into a parking lot.
+Finish the next visible unit.
+```
+
+---
+
+## 36. Caution
 
 The Working Register should not become productivity moralism.
 
@@ -822,22 +872,37 @@ The goal is to make the work system more coherent.
 
 ---
 
-## 36. Traceability note
+## 37. Traceability note
 
 The Working Register remains traceable to Layer 1 and Layer 0.
 
 | Working Register | Layer 1 | Layer 0 |
 |---|---|---|
-| **Stakes** | **⟶○★ Qualitative Force** | **★ Quality** |
-| **Asks** | **⟶○● Contact Force** | **● Contact** |
-| **Standards** | **⟶○■ Continuity Force** | **■ Continuity** |
-| **Attention** | **⬡○★ Bodily/Regulatory Capacity** | **★ Quality** |
-| **Load** | **⬡○● Social/Structural Capacity** | **● Contact** |
-| **Throughput** | **⬡○■ Form/Integrity Capacity** | **■ Continuity** |
-| **Sharpening** | **↻○★ Explore Operation** | **★ Quality** |
-| **Triaging** | **↻○● Coordinate Operation** | **● Contact** |
-| **Repatterning** | **↻○■ Stabilize Operation** | **■ Continuity** |
+| **Stakes** | **Qualitative Force** | **Quality** |
+| **Asks** | **Contact Force** | **Contact** |
+| **Standards** | **Continuity Force** | **Continuity** |
+| **Attention** | **Bodily/Regulatory Capacity** | **Quality** |
+| **Load** | **Social/Structural Capacity** | **Contact** |
+| **Throughput** | **Form/Integrity Capacity** | **Continuity** |
+| **Sharpen** | **Explore Operation** | **Quality** |
+| **Triage** | **Coordinate Operation** | **Contact** |
+| **Repattern** | **Stabilize Operation** | **Continuity** |
 
 The goal is not to replace the canonical model.
 
 The goal is to help the canonical model speak clearly in work situations.
+
+---
+
+## 38. Working rule
+
+When using the Working Register, ask:
+
+```text
+What matters?
+What is being asked?
+What can I actually handle?
+What move would help?
+```
+
+If the answer becomes too abstract, return to the work itself and choose one useful next action.
