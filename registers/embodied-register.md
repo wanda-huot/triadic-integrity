@@ -1,19 +1,29 @@
 # The Embodied Register
 
-**Status:** Working Draft  
-**Layer:** Layer 2: The Human Registers Layer  
+**Status:** Working draft  
+**Layer:** Layer 2: Human Registers  
 **Source layer:** Layer 1: The Mechanical Layer  
 **Framework:** The Triadic Integrity Framework  
-**Also known as:** Tri Everything  
-**Author:** Gwendolyn Huot with ChatGPT
+**Author:** Gwendolyn Huot with ChatGPT  
 
 ---
 
 ## 1. Purpose
 
-**The Embodied Register** translates the Triadic Integrity Framework into body-based and felt-sense language.
+**The Embodied Register** translates The Triadic Integrity Framework into body-based and felt-sense language.
 
-It is for noticing body signals, regulation, tension, bracing, pressure, orientation, capacity, and settling.
+It is for noticing:
+
+- body signals
+- felt charge
+- pressure
+- bracing
+- collapse
+- steadiness
+- capacity
+- support
+- orientation
+- settling
 
 This register asks:
 
@@ -25,24 +35,26 @@ What move would help me return to workable contact?
 
 The Embodied Register is not a clinical model, trauma-treatment model, or medical system.
 
-It is a practical body-awareness register: a way of using the framework to notice what is happening through felt experience.
+It is a practical body-awareness register: a way of using the framework to notice what is happening through felt experience and choose a better next move.
 
 ---
 
 ## 2. Best used for
 
-The Embodied Register is best used for:
+The Embodied Register is best used when a person needs to:
 
-- noticing body signals
-- checking capacity
-- identifying tension or bracing
-- noticing collapse or depletion
-- orienting to the present situation
-- calming enough to make a next move
-- translating abstract stuckness into felt experience
-- helping an AI agent speak in body-aware, non-clinical language
+- notice body signals
+- check capacity
+- identify tension or bracing
+- notice collapse or depletion
+- orient to the present situation
+- calm enough to act
+- translate abstract stuckness into felt experience
+- make a practical next move without overthinking
 
-It is useful when a person is not mainly trying to think harder, but trying to notice what the body is already showing.
+It is useful when the problem is not only cognitive.
+
+Sometimes the body is already showing the pattern before the mind has explained it.
 
 ---
 
@@ -50,40 +62,53 @@ It is useful when a person is not mainly trying to think harder, but trying to n
 
 | Canonical Layer 1 term | Embodied Register |
 |---|---|
-| **⟶ The Three Forces** | Body Signals |
-| **⟶○★ Qualitative Force** | Charge |
-| **⟶○● Contact Force** | Pressure |
-| **⟶○■ Continuity Force** | Holding Pattern |
-| **⬡ The Three Capacities** | Body Capacity |
-| **⬡○★ Bodily/Regulatory Capacity** | Regulation Room |
-| **⬡○● Social/Structural Capacity** | Supported Contact |
-| **⬡○■ Form/Integrity Capacity** | Embodied Boundary |
-| **↻ The Three Operations** | Body Moves |
-| **↻○★ Explore Operation** | Notice |
-| **↻○● Coordinate Operation** | Orient |
-| **↻○■ Stabilize Operation** | Settle |
+| **The Three Forces** | Body Signals |
+| **Qualitative Force** | Charge |
+| **Contact Force** | Pressure |
+| **Continuity Force** | Holding Pattern |
+| **The Three Capacities** | Body Capacity |
+| **Bodily/Regulatory Capacity** | Regulation Room |
+| **Social/Structural Capacity** | Supported Contact |
+| **Form/Integrity Capacity** | Embodied Boundary |
+| **The Three Operations** | Body Moves |
+| **Explore Operation** | Notice |
+| **Coordinate Operation** | Orient |
+| **Stabilize Operation** | Settle |
+
+This table is mainly for adults and agents.
+
+In ordinary use, the simplest version is:
+
+```text
+What is charged?
+What is pressing?
+What is my body holding?
+Do I need to Notice, Orient, or Settle?
+```
 
 ---
 
 ## 4. Body Signals
 
-**Body Signals** are the Embodied Register translation of **⟶ The Three Forces**.
+**Body Signals** are the Embodied Register translation of **The Three Forces**.
 
 They describe what is moving through the body or showing up as felt signal.
 
-The three Body Signals are:
-
 | Embodied term | Canonical Layer 1 source | Short meaning |
 |---|---|---|
-| **Charge** | **⟶○★ Qualitative Force** | Felt intensity, spark, activation, interest, aversion, or vividness. |
-| **Pressure** | **⟶○● Contact Force** | The felt impact of reality, demand, friction, relation, or encounter. |
-| **Holding Pattern** | **⟶○■ Continuity Force** | A repeated bodily pattern, posture, rhythm, bracing, or familiar state. |
+| **Charge** | **Qualitative Force** | Felt intensity, spark, activation, interest, aversion, or vividness. |
+| **Pressure** | **Contact Force** | The felt impact of demand, friction, relation, resistance, or encounter. |
+| **Holding Pattern** | **Continuity Force** | A repeated bodily pattern, posture, rhythm, bracing, or familiar state. |
+
+Body Signals are not automatically good or bad.
+
+They are information.
 
 ---
 
 ## 5. Charge
 
-**Charge** is the body-based translation of **⟶○★ Qualitative Force**.
+**Charge** is the body-based translation of **Qualitative Force**.
 
 It names felt intensity.
 
@@ -118,7 +143,7 @@ It simply means something has felt intensity.
 
 ## 6. Pressure
 
-**Pressure** is the body-based translation of **⟶○● Contact Force**.
+**Pressure** is the body-based translation of **Contact Force**.
 
 It names the felt impact of contact with reality.
 
@@ -151,7 +176,7 @@ Sometimes pressure clarifies what is real.
 
 ## 7. Holding Pattern
 
-**Holding Pattern** is the body-based translation of **⟶○■ Continuity Force**.
+**Holding Pattern** is the body-based translation of **Continuity Force**.
 
 It names a repeated bodily form, posture, rhythm, contraction, or familiar state.
 
@@ -178,29 +203,35 @@ What pattern has become familiar?
 
 A Holding Pattern is not automatically a problem.
 
-Some holding patterns are protective, functional, or stabilizing. Others become rigid, outdated, or misdirected.
+Some holding patterns are protective, functional, or stabilizing. Others become rigid, outdated, or aimed at the wrong situation.
 
 ---
 
 ## 8. Body Capacity
 
-**Body Capacity** is the Embodied Register translation of **⬡ The Three Capacities**.
+**Body Capacity** is the Embodied Register translation of **The Three Capacities**.
 
 It describes what the body-system can bear.
 
-The three Body Capacities are:
-
 | Embodied term | Canonical Layer 1 source | Short meaning |
 |---|---|---|
-| **Regulation Room** | **⬡○★ Bodily/Regulatory Capacity** | How much intensity the body can stay with. |
-| **Supported Contact** | **⬡○● Social/Structural Capacity** | How much support is available through people, environment, tools, or structure. |
-| **Embodied Boundary** | **⬡○■ Form/Integrity Capacity** | The body’s ability to hold shape, limit, posture, or coherent form. |
+| **Regulation Room** | **Bodily/Regulatory Capacity** | How much intensity the body can stay with. |
+| **Supported Contact** | **Social/Structural Capacity** | How much support is available through people, environment, tools, or structure. |
+| **Embodied Boundary** | **Form/Integrity Capacity** | The body’s ability to hold shape, limit, posture, or coherent form. |
+
+Body Capacity asks:
+
+```text
+What can I bear right now?
+What support is available?
+What would help me stay intact without becoming rigid?
+```
 
 ---
 
 ## 9. Regulation Room
 
-**Regulation Room** is the embodied translation of **⬡○★ Bodily/Regulatory Capacity**.
+**Regulation Room** is the embodied translation of **Bodily/Regulatory Capacity**.
 
 It names how much intensity the body can stay with.
 
@@ -220,7 +251,7 @@ When Regulation Room is low, the next move may need to reduce intensity before s
 
 ## 10. Supported Contact
 
-**Supported Contact** is the embodied translation of **⬡○● Social/Structural Capacity**.
+**Supported Contact** is the embodied translation of **Social/Structural Capacity**.
 
 It names the support available for staying in contact with reality.
 
@@ -245,13 +276,19 @@ What condition would help my body stay in contact?
 What person, tool, or structure could lower the load?
 ```
 
+Supported Contact is important because many embodied problems are not solved by private willpower.
+
+Sometimes the body needs a better container.
+
 ---
 
 ## 11. Embodied Boundary
 
-**Embodied Boundary** is the embodied translation of **⬡○■ Form/Integrity Capacity**.
+**Embodied Boundary** is the embodied translation of **Form/Integrity Capacity**.
 
 It names the body’s ability to hold a coherent shape, limit, posture, or form.
+
+An Embodied Boundary may be physical, emotional, spatial, temporal, or relational.
 
 Embodied Boundary asks:
 
@@ -261,8 +298,6 @@ What shape would help?
 What posture, container, or boundary would make this workable?
 What would help me stay intact without becoming rigid?
 ```
-
-An Embodied Boundary may be physical, emotional, spatial, temporal, or relational.
 
 Examples:
 
@@ -275,27 +310,35 @@ Examples:
 - saying “not right now”
 - writing the next step down
 
+Embodied Boundary is not about shutting down contact.
+
+It is about having enough form to stay workable.
+
 ---
 
 ## 12. Body Moves
 
-**Body Moves** are the Embodied Register translation of **↻ The Three Operations**.
+**Body Moves** are the Embodied Register translation of **The Three Operations**.
 
 They describe simple adaptive moves that help the system tune itself.
 
-The three Body Moves are:
-
 | Embodied term | Canonical Layer 1 source | Short meaning |
 |---|---|---|
-| **Notice** | **↻○★ Explore Operation** | Bring attention to what is felt. |
-| **Orient** | **↻○● Coordinate Operation** | Reconnect with reality, surroundings, support, or contact. |
-| **Settle** | **↻○■ Stabilize Operation** | Restore enough continuity, steadiness, or form to proceed. |
+| **Notice** | **Explore Operation** | Bring attention to what is felt. |
+| **Orient** | **Coordinate Operation** | Reconnect with reality, surroundings, support, or contact. |
+| **Settle** | **Stabilize Operation** | Restore enough continuity, steadiness, or form to proceed. |
+
+The basic Body Moves question is:
+
+```text
+Do I need to Notice, Orient, or Settle?
+```
 
 ---
 
 ## 13. Notice
 
-**Notice** is the embodied translation of **↻○★ Explore Operation**.
+**Notice** is the embodied translation of **Explore Operation**.
 
 It means gently bringing attention to what is already present.
 
@@ -306,7 +349,7 @@ What am I feeling?
 Where do I feel it?
 What has charge?
 What is vivid in the body?
-What is changing as I pay attention?
+What changes as I pay attention?
 ```
 
 Notice is not analysis.
@@ -317,7 +360,7 @@ It is the first move of contact with felt experience.
 
 ## 14. Orient
 
-**Orient** is the embodied translation of **↻○● Coordinate Operation**.
+**Orient** is the embodied translation of **Coordinate Operation**.
 
 It means reconnecting with the actual situation.
 
@@ -331,7 +374,15 @@ What support is available?
 What is the next real point of contact?
 ```
 
-Orienting can include looking around, naming the room, checking the actual task, asking for clarification, or reconnecting with another person.
+Orienting can include:
+
+- looking around
+- naming the room
+- checking the actual task
+- asking for clarification
+- noticing who is present
+- reconnecting with another person
+- naming the real constraint
 
 Orienting helps the body distinguish present reality from imagined, remembered, or exaggerated pressure.
 
@@ -339,7 +390,7 @@ Orienting helps the body distinguish present reality from imagined, remembered, 
 
 ## 15. Settle
 
-**Settle** is the embodied translation of **↻○■ Stabilize Operation**.
+**Settle** is the embodied translation of **Stabilize Operation**.
 
 It means restoring enough continuity or steadiness to proceed.
 
@@ -361,23 +412,23 @@ It means finding enough form to continue.
 
 The canonical diagnostic overlay uses:
 
-- **∿ Slack**
-- **≡ Tight**
-- **↯ Misdirected**
-- **✓ Coherent Formation**
+- **Slack**
+- **Tight**
+- **Misdirected**
+- **Coherent Formation**
 
-In the Embodied Register, these can be translated into body-aware language.
+In the Embodied Register, these translate into body-aware language.
 
 | Canonical term | Embodied translation |
 |---|---|
-| **∿ Slack** | Too loose, collapsed, under-supported, low activation, not enough tone. |
-| **≡ Tight** | Braced, clenched, rigid, over-activated, over-controlled, too much tone. |
-| **↯ Misdirected** | Body response aimed at the wrong threat, demand, object, or pattern. |
-| **✓ Coherent Formation** | The body-system has enough charge, contact, and steadiness to proceed. |
+| **Slack** | Too loose, collapsed, under-supported, low activation, not enough tone. |
+| **Tight** | Braced, clenched, rigid, over-activated, over-controlled, too much tone. |
+| **Misdirected** | Body response aimed at the wrong threat, demand, object, or pattern. |
+| **Coherent Formation** | The body-system has enough charge, contact, and steadiness to proceed. |
 
 Important:
 
-**✓ Coherent Formation** is not a fourth distortion.
+**Coherent Formation** is not a fourth distortion.
 
 It is the well-formed condition.
 
@@ -385,7 +436,7 @@ It is the well-formed condition.
 
 ## 17. Slack in the Embodied Register
 
-**∿ Slack** may show up as collapse, vagueness, dullness, low tone, depletion, or lack of support.
+**Slack** may show up as collapse, vagueness, dullness, low tone, depletion, or lack of support.
 
 Examples:
 
@@ -412,7 +463,7 @@ Add gentle structure, support, contact, food, movement, light, or one small next
 
 ## 18. Tight in the Embodied Register
 
-**≡ Tight** may show up as bracing, clenching, over-control, urgency, rigidity, or too much pressure.
+**Tight** may show up as bracing, clenching, over-control, urgency, rigidity, or too much pressure.
 
 Examples:
 
@@ -440,7 +491,7 @@ Reduce pressure, soften the frame, slow down, exhale, lower the demand, or creat
 
 ## 19. Misdirected in the Embodied Register
 
-**↯ Misdirected** may show up when a real body response is aimed at the wrong object, threat, demand, or time-scale.
+**Misdirected** may show up when a real body response is aimed at the wrong object, threat, demand, or time-scale.
 
 Examples:
 
@@ -467,7 +518,7 @@ Re-orient to the present situation, name the actual demand, and choose the small
 
 ## 20. Coherent Formation in the Embodied Register
 
-**✓ Coherent Formation** means the body-system is formed enough to proceed.
+**Coherent Formation** means the body-system is formed enough to proceed.
 
 In Embodied Register language, this may sound like:
 
@@ -512,13 +563,13 @@ What would help me settle enough to proceed?
 
 ## 22. Example use
 
-Situation:
+### Situation
 
 ```text
 I need to send an important email, but I keep avoiding it.
 ```
 
-Embodied reading:
+### Embodied reading
 
 - **Charge:** The email has emotional intensity.
 - **Pressure:** There is contact with another person, expectation, consequence, or possible judgment.
@@ -526,15 +577,45 @@ Embodied reading:
 - **Possible distortion:** The system may be Tight around pressure and Slack around action.
 - **Helpful Body Move:** Orient, then Settle.
 
-Plain next move:
+### Plain next move
 
 ```text
-Look at the actual email thread. Name the real next step. Put both feet on the floor. Write one plain sentence.
+Look at the actual email thread.
+Name the real next step.
+Put both feet on the floor.
+Write one plain sentence.
 ```
 
 ---
 
-## 23. Caution
+## 23. Example use: too many tasks
+
+### Situation
+
+```text
+I have too many tasks, and I feel scattered and tense.
+```
+
+### Embodied reading
+
+- **Charge:** Many tasks have urgency or emotional pull.
+- **Pressure:** The body is in contact with too many demands at once.
+- **Holding Pattern:** The body may be braced, shallow-breathing, restless, or frozen.
+- **Possible distortion:** Tight Pressure and Slack Embodied Boundary.
+- **Helpful Body Move:** Orient to the actual list, then Settle around one next action.
+
+### Plain next move
+
+```text
+Write down the tasks.
+Circle the one that is real for the next 20 minutes.
+Let the others wait outside the frame.
+Start with the smallest visible action.
+```
+
+---
+
+## 24. Caution
 
 The Embodied Register can support body awareness, but it should not be used to make medical or clinical claims.
 
@@ -553,26 +634,44 @@ Use careful language:
 - may help choose a next move
 - may point toward the need for rest, support, or professional help
 
+If the body signal is severe, persistent, frightening, medically concerning, or unsafe, seek appropriate human support.
+
 ---
 
-## 24. Traceability note
+## 25. Traceability note
 
 The Embodied Register remains traceable to Layer 1 and Layer 0.
 
 | Embodied Register | Layer 1 | Layer 0 |
 |---|---|---|
-| **Charge** | **⟶○★ Qualitative Force** | **★ Quality** |
-| **Pressure** | **⟶○● Contact Force** | **● Contact** |
-| **Holding Pattern** | **⟶○■ Continuity Force** | **■ Continuity** |
-| **Regulation Room** | **⬡○★ Bodily/Regulatory Capacity** | **★ Quality** |
-| **Supported Contact** | **⬡○● Social/Structural Capacity** | **● Contact** |
-| **Embodied Boundary** | **⬡○■ Form/Integrity Capacity** | **■ Continuity** |
-| **Notice** | **↻○★ Explore Operation** | **★ Quality** |
-| **Orient** | **↻○● Coordinate Operation** | **● Contact** |
-| **Settle** | **↻○■ Stabilize Operation** | **■ Continuity** |
+| **Charge** | **Qualitative Force** | **Quality** |
+| **Pressure** | **Contact Force** | **Contact** |
+| **Holding Pattern** | **Continuity Force** | **Continuity** |
+| **Regulation Room** | **Bodily/Regulatory Capacity** | **Quality** |
+| **Supported Contact** | **Social/Structural Capacity** | **Contact** |
+| **Embodied Boundary** | **Form/Integrity Capacity** | **Continuity** |
+| **Notice** | **Explore Operation** | **Quality** |
+| **Orient** | **Coordinate Operation** | **Contact** |
+| **Settle** | **Stabilize Operation** | **Continuity** |
 
 This register is body-aware, but it remains structurally accountable.
 
 The goal is not to replace the canonical model.
 
 The goal is to help the canonical model speak through felt experience.
+
+---
+
+## 26. Working rule
+
+When using the Embodied Register, ask:
+
+```text
+What is charged?
+What is pressing?
+What is my body holding?
+What can I bear?
+Do I need to Notice, Orient, or Settle?
+```
+
+If the language becomes too abstract, return to the body and the next small move.
