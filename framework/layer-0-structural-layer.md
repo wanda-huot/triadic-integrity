@@ -1,18 +1,17 @@
 # Layer 0: The Structural Layer
 
-**Status:** Working Draft  
+**Status:** Canonical working draft  
 **Canon:** Layer 0 Canon v1.0  
 **Framework:** The Triadic Integrity Framework  
-**Also known as:** Tri Everything  
-**Author:** Gwendolyn Huot with ChatGPT
+**Author:** Gwendolyn Huot with ChatGPT  
 
 ---
 
 ## 1. Purpose
 
-Layer 0 is the structural foundation of the Triadic Integrity Framework.
+Layer 0 is the structural foundation of The Triadic Integrity Framework.
 
-It describes the most basic pattern underneath the framework:
+It names the most basic pattern underneath the framework:
 
 ```text
 three primitives → three dyads → relational field → triadic integration
@@ -20,15 +19,17 @@ three primitives → three dyads → relational field → triadic integration
 
 Layer 0 is not yet about psychology, therapy, productivity, relationships, or practical decision-making.
 
-It is the underlying metaphysical grammar that later becomes usable through:
+It is the abstract structural grammar that later becomes usable through:
 
 - **Layer 1: The Mechanical Layer**
-- **Layer 2: The Human Registers Layer**
-- **Expression Formats** such as Markdown files, diagrams, agents, printable PDFs, and websites
+- **Layer 2: Human Registers**
+- **Expression Formats** such as Markdown files, diagrams, agents, printable PDFs, websites, tables, and physical models
 
 Layer 0 asks:
 
-> What are the basic structural ingredients of any lived moment?
+```text
+What are the basic structural ingredients of a lived moment?
+```
 
 The current answer is:
 
@@ -36,7 +37,9 @@ The current answer is:
 - **● Contact**
 - **■ Continuity**
 
-These three primitives generate three dyads, and the dyads generate the possibility of **★–●–■ Triadic Integration**.
+These three primitives generate three dyads.
+
+The dyads generate the possibility of **★–●–■ Triadic Integration**.
 
 ---
 
@@ -44,15 +47,17 @@ These three primitives generate three dyads, and the dyads generate the possibil
 
 The core claim of Layer 0 is:
 
-> Experience can be described as a recursive triadic pattern involving felt salience, encounter with reality, and continuing form.
+> Experience can be described as a recurring triadic pattern involving felt salience, encounter with reality, and continuing form.
 
 In the framework’s terms:
 
-- **★ Quality** names felt salience, vividness, tone, or “what-it-is-like.”
-- **● Contact** names encounter, friction, reality-contact, resistance, or interaction.
-- **■ Continuity** names pattern, persistence, habit, form, or recognizability over time.
+- **★ Quality** names felt salience, vividness, tone, or character.
+- **● Contact** names encounter, friction, reality-contact, resistance, or relation.
+- **■ Continuity** names pattern, persistence, form, habit, or recognizability over time.
 
-These are not three separate “things.” They are three distinguishable aspects of how experience becomes intelligible.
+These are not three separate things.
+
+They are three distinguishable aspects of how experience becomes intelligible.
 
 ---
 
@@ -65,7 +70,7 @@ A primitive is a basic structural term. It is not derived from another term insi
 | Symbol | Name | Short definition | Variation |
 |---|---|---|---|
 | **★** | **Quality** | Felt salience, vividness, tone, or character. | Varies in intensity and character. |
-| **●** | **Contact** | Encounter, friction, reality-contact, or interaction. | Varies in degree and kind. |
+| **●** | **Contact** | Encounter, friction, reality-contact, or relation. | Varies in degree and kind. |
 | **■** | **Continuity** | Pattern, persistence, form, habit, or recognizability. | Varies in stability and pattern. |
 
 ---
@@ -80,7 +85,7 @@ It includes the sense that something matters, glows, attracts attention, feels c
 
 ### Formal description
 
-**★ Quality** varies in intensity and character.
+**★ Quality varies in intensity and character.**
 
 ### Examples
 
@@ -92,7 +97,7 @@ It includes the sense that something matters, glows, attracts attention, feels c
 
 ### Notes
 
-**★ Quality** is not the same as desire.
+**★ Quality is not the same as desire.**
 
 Desire may arise from Quality, but Quality is more basic. It is the felt character or salience of something before it becomes a clear want, plan, judgment, or action.
 
@@ -102,13 +107,13 @@ Desire may arise from Quality, but Quality is more basic. It is the felt charact
 
 **● Contact** is encounter.
 
-It is the point at which something meets reality, resistance, friction, otherness, embodiment, consequence, or interaction.
+It is the point at which something meets reality, resistance, friction, otherness, embodiment, consequence, or relation.
 
 Contact includes the fact that experience is not just private inward feeling. Something is encountered. Something pushes back. Something responds. Something must be dealt with.
 
 ### Formal description
 
-**● Contact** varies in degree and kind.
+**● Contact varies in degree and kind.**
 
 ### Examples
 
@@ -121,7 +126,7 @@ Contact includes the fact that experience is not just private inward feeling. So
 
 ### Notes
 
-**● Contact** is not merely social harmony.
+**● Contact is not merely social harmony.**
 
 It includes encounter in a broad sense: friction, resistance, interaction, reality-testing, collision, response, and relation with what is not simply under one’s control.
 
@@ -137,7 +142,7 @@ Without Continuity, experience may be vivid and interactive, but it does not sta
 
 ### Formal description
 
-**■ Continuity** varies in stability and pattern.
+**■ Continuity varies in stability and pattern.**
 
 ### Examples
 
@@ -150,7 +155,7 @@ Without Continuity, experience may be vivid and interactive, but it does not sta
 
 ### Notes
 
-**■ Continuity** is not the same as rigidity or control.
+**■ Continuity is not the same as rigidity or control.**
 
 Continuity can be flexible. A living pattern can persist while adapting. In this framework, Continuity names the possibility of recognizable form, not the demand for fixed sameness.
 
@@ -162,13 +167,19 @@ The three primitives generate three dyads.
 
 A dyad is a two-term relation. It is not yet the full triadic structure, but it is more than an isolated primitive.
 
-The three dyads are:
-
 | Symbol | Name | Short definition | Variation |
 |---|---|---|---|
 | **★–●** | **Quality–Contact** | Felt salience meeting encounter. | Varies in the vividness, specificity, and felt tone of encounter. |
 | **●–■** | **Contact–Continuity** | Encounter becoming repeatable relation. | Varies in the duration, repeatability, and reliability of relation. |
 | **★–■** | **Quality–Continuity** | Felt salience persisting as recognizable form. | Varies in the retention, recognizability, and persistence of salience. |
+
+The dyads matter because the framework does not move directly from three isolated primitives to a finished whole.
+
+The sequence is:
+
+```text
+three primitives → three dyads → relational field → triadic integration
+```
 
 ---
 
@@ -178,9 +189,15 @@ The three dyads are:
 
 It describes what happens when something not only has a qualitative character, but also comes into contact with reality, resistance, interaction, or specificity.
 
+### Useful question
+
+```text
+Where is felt salience meeting reality?
+```
+
 ### Formal description
 
-**★–● Quality–Contact** varies in the vividness, specificity, and felt tone of encounter.
+**★–● Quality–Contact varies in the vividness, specificity, and felt tone of encounter.**
 
 ### Examples
 
@@ -206,9 +223,15 @@ Together, they create vivid encounter.
 
 It describes what happens when contact with reality becomes repeatable, reliable, memorable, or structurally consequential.
 
+### Useful question
+
+```text
+What contact is becoming a pattern?
+```
+
 ### Formal description
 
-**●–■ Contact–Continuity** varies in the duration, repeatability, and reliability of relation.
+**●–■ Contact–Continuity varies in the duration, repeatability, and reliability of relation.**
 
 ### Examples
 
@@ -234,9 +257,15 @@ Together, they create reliable relation.
 
 It describes what happens when something vivid, meaningful, beautiful, charged, or interesting persists across time and becomes recognizable.
 
+### Useful question
+
+```text
+What keeps mattering over time?
+```
+
 ### Formal description
 
-**★–■ Quality–Continuity** varies in the retention, recognizability, and persistence of salience.
+**★–■ Quality–Continuity varies in the retention, recognizability, and persistence of salience.**
 
 ### Examples
 
@@ -275,11 +304,11 @@ Together, these relations produce a coherent triadic whole.
 
 ### Formal description
 
-**★–●–■ Triadic Integration** varies in the coherence, complexity, and legibility of appearance.
+**★–●–■ Triadic Integration varies in the coherence, complexity, and legibility of appearance.**
 
 ### Important distinction
 
-**★–●–■ Triadic Integration** is not a moral condition.
+**★–●–■ Triadic Integration is not a moral condition.**
 
 It is not the same as health, virtue, success, happiness, or psychological wellness.
 
@@ -294,13 +323,13 @@ Later layers may interpret coherent or distorted formations in practical, diagno
 Layer 0 can be visualized as a triangle.
 
 ```text
-              ★ Quality
-             /         \
-            /           \
-           /             \
-          /               \
-         /                 \
-● Contact ---------------- ■ Continuity
+                  ★ Quality
+                 /         \
+                /           \
+               /             \
+              /               \
+             /                 \
+    ● Contact ---------------- ■ Continuity
 ```
 
 The three vertices are the primitives:
@@ -327,41 +356,11 @@ three primitives → three dyads → relational field → emergent triadic integ
 
 ---
 
-## 13. Peircean resonance
-
-The Triadic Integrity Framework is inspired by Charles Sanders Peirce’s categories of Firstness, Secondness, and Thirdness.
-
-The Layer 0 primitives resonate with the Peircean categories as follows:
-
-| Peircean category | Layer 0 primitive | Resonance |
-|---|---|---|
-| **Ⅰ Firstness** | **★ Quality** | Immediate felt quality, possibility, suchness, tone. |
-| **Ⅱ Secondness** | **● Contact** | Encounter, resistance, otherness, actuality, brute relation. |
-| **Ⅲ Thirdness** | **■ Continuity** | Mediation, pattern, habit, lawfulness, intelligible form. |
-
-This is an analogical and structural resonance, not a strict scholarly claim.
-
-Use careful wording:
-
-> The framework is inspired by Peirce’s Firstness, Secondness, and Thirdness.
-
-Avoid stronger claims such as:
-
-> The framework is Peirce’s philosophy.
-
-or:
-
-> The framework proves Peirce’s categories.
-
-Layer 0 uses Peirce as a major inspiration and orientation point, while developing its own practical grammar.
-
----
-
-## 14. Recursive character
+## 13. Recursive character
 
 The framework is recursive.
 
-This means the same triadic pattern can appear at multiple scales.
+This means the same basic triadic pattern can appear at multiple scales.
 
 The basic Layer 0 pattern is:
 
@@ -369,7 +368,7 @@ The basic Layer 0 pattern is:
 ★ Quality → ● Contact → ■ Continuity → ★–●–■ Triadic Integration
 ```
 
-This pattern can be used to describe:
+This pattern can be used to examine:
 
 - a moment of perception
 - a conversation
@@ -386,79 +385,80 @@ The point is not that all situations are identical.
 
 The point is that many situations can be examined through a repeated structural question:
 
-> What is the Quality?  
-> What is the Contact?  
-> What is the Continuity?  
-> What kind of triadic integration is forming?
+```text
+What is the Quality?
+What is the Contact?
+What is the Continuity?
+What kind of Triadic Integration is forming?
+```
 
 ---
 
-## 15. Relationship to Layer 1
+## 14. Relationship to Layer 1
 
 Layer 1 translates the structural grammar of Layer 0 into mechanical systems.
 
 Layer 0 asks:
 
-> What are the basic structural ingredients?
+```text
+What are the basic structural ingredients?
+```
 
 Layer 1 asks:
 
-> How do those ingredients behave as a working system?
-
-The main movement is:
-
-| Layer 0 | Layer 1 expression |
-|---|---|
-| **★ Quality** | force, salience, pull, aliveness |
-| **● Contact** | encounter, resistance, capacity, relation |
-| **■ Continuity** | form, pattern, stabilization, integrity |
+```text
+How do those ingredients behave as a working system?
+```
 
 Layer 1 develops three mechanical systems:
 
-- **⟶ The Three Pulls**
+- **⟶ The Three Forces**
 - **⬡ The Three Capacities**
 - **↻ The Three Operations**
 
-Layer 0 is the metaphysical grammar.
+Layer 0 is the structural grammar.
 
 Layer 1 is the mechanical model.
 
 ---
 
-## 16. Relationship to Layer 2
+## 15. Relationship to Layer 2
 
-Layer 2 translates the framework into human registers.
+Layer 2 translates the framework into Human Registers.
 
 Layer 0 asks:
 
-> What is the structure?
+```text
+What is the structure?
+```
 
 Layer 1 asks:
 
-> How does the structure work?
+```text
+How does the structure work?
+```
 
 Layer 2 asks:
 
-> How can this structure be spoken in a way that is useful to a particular person, domain, audience, or situation?
+```text
+How can this structure be spoken in a way that is useful to a particular person, domain, audience, or situation?
+```
 
-Examples of Layer 2 registers may include:
+Examples of Human Registers include:
 
-- Kid Register
-- Working Register
-- Somatic Register
-- Relational Register
-- Narrative Register
-- Christian Theological Register
-- Creative-Practice Register
-- AI Agent Register
+- **The Three Pulls Register**
+- **The Working Register**
+- **The Embodied Register**
+- **The Kid Register**
+- **Proposed Registers**
 
-Layer 2 should always remain traceable back to Layer 1 and Layer 0.
+Layer 2 should remain traceable back to Layer 1 and Layer 0.
 
 Human Registers are not separate frameworks. They are translation layers of one underlying triadic structure.
 
 ---
 
-## 17. Relationship to diagnostics
+## 16. Relationship to diagnostics
 
 Layer 0 is not diagnostic.
 
@@ -482,13 +482,37 @@ Layer 1 and Layer 2 can interpret those variations as practical patterns of stuc
 
 ---
 
-## 18. AI-native use
+## 17. Intellectual background note
 
-This framework is designed to be usable by both humans and AI systems.
+The framework has loose resonance with triadic traditions of thought, including Peircean themes such as quality, encounter, and continuity.
 
-Layer 0 is especially important for AI-native use because it gives a compact grammar for interpreting situations.
+This is background resonance, not a formal derivation.
 
-A person or AI system can ask:
+This repository is not a Peirce scholarship project.
+
+Preferred wording:
+
+```text
+The framework has loose resonance with Peircean themes such as quality, encounter, and continuity.
+```
+
+Avoid stronger claims such as:
+
+```text
+The framework is derived from Peirce.
+The framework is Peircean in structure.
+The framework proves Peirce’s categories.
+```
+
+Layer 0 should stand or fall by whether its distinctions help clarify experience, not by appeal to an external authority.
+
+---
+
+## 18. Human-and-agent-readable use
+
+Layer 0 is intended to be readable by both humans and AI agents.
+
+A person or AI agent can ask:
 
 ```text
 What is salient here?        → ★ Quality
@@ -509,26 +533,24 @@ This can support:
 
 Layer 0 does not produce answers by itself.
 
-It provides the grammar that later layers and expression formats can use.
+It provides the structural grammar that later layers and expression formats can use.
 
 ---
 
-## 19. Machine-readable summary
+## 19. Structured summary
 
 ```yaml
 layer: 0
 canonical_name: "Layer 0: The Structural Layer"
 canon_version: "Layer 0 Canon v1.0"
 framework: "The Triadic Integrity Framework"
-nickname: "Tri Everything"
 orientation:
   - structural
-  - metaphysical
   - descriptive
   - non-diagnostic
   - non-clinical
   - recursive
-  - ai-native
+
 primitives:
   - id: quality
     symbol: "★"
@@ -536,21 +558,21 @@ primitives:
     component_type: "Primitive"
     short_definition: "Felt salience, vividness, tone, or character."
     variation_formula: "Quality varies in intensity and character."
-    peircean_resonance: "Ⅰ Firstness"
+
   - id: contact
     symbol: "●"
     name: "Contact"
     component_type: "Primitive"
-    short_definition: "Encounter, friction, reality-contact, or interaction."
+    short_definition: "Encounter, friction, reality-contact, or relation."
     variation_formula: "Contact varies in degree and kind."
-    peircean_resonance: "Ⅱ Secondness"
+
   - id: continuity
     symbol: "■"
     name: "Continuity"
     component_type: "Primitive"
     short_definition: "Pattern, persistence, form, habit, or recognizability."
     variation_formula: "Continuity varies in stability and pattern."
-    peircean_resonance: "Ⅲ Thirdness"
+
 dyads:
   - id: quality_contact
     symbol: "★–●"
@@ -558,18 +580,21 @@ dyads:
     component_type: "Dyad"
     short_definition: "Felt salience meeting encounter."
     variation_formula: "Quality–Contact varies in the vividness, specificity, and felt tone of encounter."
+
   - id: contact_continuity
     symbol: "●–■"
     name: "Contact–Continuity"
     component_type: "Dyad"
     short_definition: "Encounter becoming repeatable relation."
     variation_formula: "Contact–Continuity varies in the duration, repeatability, and reliability of relation."
+
   - id: quality_continuity
     symbol: "★–■"
     name: "Quality–Continuity"
     component_type: "Dyad"
     short_definition: "Felt salience persisting as recognizable form."
     variation_formula: "Quality–Continuity varies in the retention, recognizability, and persistence of salience."
+
 emergent_whole:
   id: triadic_integration
   symbol: "★–●–■"
@@ -585,7 +610,7 @@ emergent_whole:
 
 The shortest useful definition of Layer 0 is:
 
-> **Layer 0: The Structural Layer** describes experience as a recursive relation among **★ Quality**, **● Contact**, and **■ Continuity**. These three primitives generate three dyads, and the dyads generate **★–●–■ Triadic Integration**: the emergent coherence of a formed triadic relation.
+> Layer 0: The Structural Layer describes experience as a recurring relation among **★ Quality**, **● Contact**, and **■ Continuity**. These three primitives generate three dyads, and the dyads generate **★–●–■ Triadic Integration**: the emergent coherence of a formed triadic relation.
 
 ---
 
@@ -600,7 +625,7 @@ Where is ★ Quality?
 Where is ● Contact?
 Where is ■ Continuity?
 What dyads are active?
-What kind of triadic integration is forming?
+What kind of Triadic Integration is forming?
 ```
 
 If a new concept cannot be traced back to this structure, it may still be interesting, but it may not belong in the core framework.
