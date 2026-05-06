@@ -33,9 +33,11 @@ Basic pattern:
 
 Layer 0 asks:
 
-- What is salient?
-- What is being encountered?
-- What is continuing?
+```text
+What is salient?
+What is being encountered?
+What is continuing?
+```
 
 ---
 
@@ -51,11 +53,11 @@ The three primitives generate three dyads.
 
 The dyads matter because the framework does not move directly from isolated primitives to a finished whole.
 
-The three primitives generate three dyads.
+The basic sequence is:
 
-The dyads generate a relational field.
-
-The field can form into triadic integration.
+```text
+three primitives → three dyads → relational field → triadic integration
+```
 
 ---
 
@@ -179,7 +181,43 @@ Use **The Three Pulls** for human-facing practical reflection.
 
 ---
 
-## 10. Expression Formats
+## 10. Bridges
+
+**Bridges** are comparative translation documents.
+
+They connect The Triadic Integrity Framework with external frameworks, theories, traditions, modalities, or vocabularies.
+
+A Bridge asks:
+
+```text
+How does The Triadic Integrity Framework relate to another system?
+```
+
+Bridges are not Human Registers.
+
+| Category | Purpose |
+|---|---|
+| **Human Registers** | Translate the framework into usable language for a domain or audience. |
+| **Bridges** | Compare the framework with an external system and identify resonances, mismatches, limits, and possible translations. |
+| **Expression Formats** | Describe the forms the framework takes so it can be stored, displayed, taught, reused, or executed. |
+
+Possible future Bridges include:
+
+- Peirce
+- active inference
+- 4E cognition
+- ACT
+- IFS
+- Self-Determination Theory
+- relevance realization
+
+Bridge files should avoid overclaiming.
+
+A Bridge should clarify comparison, not prove that two systems are the same.
+
+---
+
+## 11. Expression Formats
 
 **Expression Formats** are the forms the framework takes so it can be stored, displayed, navigated, taught, reused, or executed.
 
@@ -197,12 +235,13 @@ Key distinction:
 
 ```text
 Human Registers = how the framework speaks.
+Bridges = how the framework compares and translates across systems.
 Expression Formats = how the framework appears, circulates, and operates.
 ```
 
 ---
 
-## 11. Quick use questions
+## 12. Quick use questions
 
 Use these questions to apply the framework quickly.
 
@@ -245,9 +284,31 @@ What would responsive formation require?     → Coherent Formation
 Which Human Register would make this easiest to use?
 ```
 
+### Bridges
+
+```text
+Is this being compared with an external system?
+What translates cleanly?
+What only loosely resonates?
+Where does the comparison break?
+What should not be claimed?
+```
+
+### Expression Formats
+
+```text
+What form should this take?
+Markdown file?
+Agent prompt?
+Diagram?
+Printable PDF?
+Structured data?
+Website?
+```
+
 ---
 
-## 12. Minimal working formula
+## 13. Minimal working formula
 
 ```text
 1. Notice the situation.
@@ -256,4 +317,6 @@ Which Human Register would make this easiest to use?
 4. Diagnose Slack, Tight, or Misdirected.
 5. Look for what Coherent Formation would require.
 6. Translate into the most useful Human Register.
+7. If comparing with an external system, treat that as Bridge work.
+8. If deciding how to store, show, or execute the material, treat that as Expression Format work.
 ```
