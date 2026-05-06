@@ -1,48 +1,63 @@
 # The Kid Register
 
-**Status:** Working Draft - Gwendolyn notes: I don't think this is terribly usable (I'd never say "same again tug" and expect to be understood), but it's the beginning of something.
-**Layer:** Layer 2: The Human Registers Layer  
+**Status:** Working draft  
+**Layer:** Layer 2: Human Registers  
 **Source layer:** Layer 1: The Mechanical Layer  
 **Framework:** The Triadic Integrity Framework  
-**Also known as:** Tri Everything  
-**Author:** Gwendolyn Huot with ChatGPT
+**Author:** Gwendolyn Huot with ChatGPT  
 
 ---
 
 ## 1. Purpose
 
-**The Kid Register** translates the Triadic Integrity Framework into language that a child can understand and use.
+**The Kid Register** translates The Triadic Integrity Framework into language that can help children and adults talk about big feelings, hard moments, and next moves.
 
-It is designed for children, parenting, teaching, emotional literacy, conflict repair, and simple self-awareness.
+The goal is not to teach a child the whole framework.
 
-The goal is not to explain the full framework to a child.
-
-The goal is to preserve the basic structure in language that is concrete, kind, and usable.
+The goal is to give children and adults a simple shared language for noticing what is happening and choosing a safer, better next step.
 
 The Kid Register asks:
 
 ```text
 What is pulling on me?
-How much room do I have?
-What can I do next?
+How full is my cup?
+What is the next safe move?
 ```
+
+This register is meant for:
+
+- parenting
+- teaching
+- emotional literacy
+- conflict repair
+- sibling conflict
+- transitions
+- big feelings
+- simple self-awareness
+
+It should be concrete, kind, short, and non-blaming.
 
 ---
 
 ## 2. Best used for
 
-The Kid Register is best used for:
+The Kid Register is best used when a child needs help to:
 
-- helping children name big feelings
-- reducing shame around strong reactions
-- helping a child notice what is happening inside
-- helping a child find a next move
-- parenting conversations
-- teaching emotional literacy
-- conflict repair between siblings or friends
-- simple family language for self-regulation
+- name a big feeling
+- understand why something feels hard
+- notice what is happening inside
+- move away from unsafe behaviour
+- find one small next step
+- repair after conflict
+- build emotional language over time
 
-It should be concrete, short, and non-blaming.
+It is especially useful when adult language needs to stay simple.
+
+In a hard moment, the adult should not explain the whole system.
+
+Use one sentence.
+
+Use one next move.
 
 ---
 
@@ -50,533 +65,515 @@ It should be concrete, short, and non-blaming.
 
 | Canonical Layer 1 term | Kid Register |
 |---|---|
-| **⟶ The Three Forces** | Tugs |
-| **⟶○★ Qualitative Force** | Bright Tug |
-| **⟶○● Contact Force** | Toward-or-Away Tug |
-| **⟶○■ Continuity Force** | Same-Again Tug |
-| **⬡ The Three Capacities** | Room / Cup |
-| **⬡○★ Bodily/Regulatory Capacity** | Feelings-Room |
-| **⬡○● Social/Structural Capacity** | Stuff-Room |
-| **⬡○■ Form/Integrity Capacity** | Steady-Room |
-| **↻ The Three Operations** | Inside Moves |
-| **↻○★ Explore Operation** | Turning the Volume |
-| **↻○● Coordinate Operation** | Turning Toward or Away |
-| **↻○■ Stabilize Operation** | Letting Go of the Old Shape |
+| **The Three Forces** | Pulls |
+| **Qualitative Force** | Big Feeling |
+| **Contact Force** | Toward / Away |
+| **Continuity Force** | Same Pattern |
+| **The Three Capacities** | Cup / Room |
+| **Bodily/Regulatory Capacity** | Feeling Room |
+| **Social/Structural Capacity** | Help Room |
+| **Form/Integrity Capacity** | Steady Room |
+| **The Three Operations** | Next Moves |
+| **Explore Operation** | Notice |
+| **Coordinate Operation** | Get Help / Make Space |
+| **Stabilize Operation** | Try a New Pattern |
+
+This table is for adults and agents.
+
+With children, use the simplest useful words:
+
+```text
+Big feeling.
+Full cup.
+Safe hands.
+Next move.
+Try again.
+```
 
 ---
 
-## 4. Tugs
+## 4. The three Pulls
 
-**Tugs** are the Kid Register translation of **⟶ The Three Forces**.
+In the Kid Register, **Pulls** are what feel strong inside a child.
 
-Tugs are what pull on a child from the inside or from the world around them.
-
-The three Tugs are:
-
-| Kid term | Canonical Layer 1 source | Short meaning |
-|---|---|---|
-| **Bright Tug** | **⟶○★ Qualitative Force** | Something feels exciting, interesting, big, fun, scary, special, or important. |
-| **Toward-or-Away Tug** | **⟶○● Contact Force** | The child feels pulled toward something or away from something. |
-| **Same-Again Tug** | **⟶○■ Continuity Force** | The child wants the same thing to keep happening, or expects the old pattern to continue. |
-
-Tugs are not bad.
+They are not bad.
 
 They are signals.
 
-The child still needs help learning what to do with them.
+The three main Pulls are:
+
+| Kid term | Meaning |
+|---|---|
+| **Big Feeling** | Something feels exciting, upsetting, unfair, scary, fun, important, or very strong. |
+| **Toward / Away** | The child feels pulled toward something or away from something. |
+| **Same Pattern** | The child wants something familiar to keep happening or expects the old pattern to continue. |
+
+A Pull does not mean the child gets whatever they want.
+
+It means something feels strong and needs help becoming workable.
 
 ---
 
-## 5. Bright Tug
+## 5. Big Feeling
 
-**Bright Tug** means something feels big, bright, exciting, interesting, scary, beautiful, unfair, funny, special, or important.
+**Big Feeling** means something feels very strong inside.
 
-Bright Tug asks:
+It may be excitement, anger, sadness, fear, disappointment, unfairness, silliness, or wanting.
+
+A child might experience Big Feeling as:
+
+- “I need that toy.”
+- “That is not fair.”
+- “I want to keep playing.”
+- “I hate this.”
+- “I am too excited to stop.”
+- “I need you to notice me.”
+
+Adult language:
 
 ```text
-What feels big right now?
-What feels exciting?
-What feels awful?
-What feels really important?
-What is my attention stuck on?
+That is a big feeling.
+That feeling is very loud.
+That really matters to you.
 ```
 
-Examples:
-
-- wanting a toy very badly
-- feeling excited about a game
-- feeling angry because something seems unfair
-- feeling scared by a loud noise
-- wanting everyone to notice something
-
-A Bright Tug does not mean the child gets whatever they want.
-
-It means something feels important inside them.
-
----
-
-## 6. Toward-or-Away Tug
-
-**Toward-or-Away Tug** means the child feels pulled toward something or away from something.
-
-This is the child-friendly version of contact, encounter, friction, and relation.
-
-Toward-or-Away Tug asks:
+Useful question:
 
 ```text
-Do I want to go toward this?
-Do I want to get away from this?
-What am I bumping into?
-Who or what am I trying to deal with?
+How big is the feeling?
 ```
-
-Examples:
-
-- wanting to join a game
-- wanting someone to stop talking
-- wanting to run away from a hard task
-- wanting to push a sibling away
-- wanting a parent to come closer
-
-Toward-or-Away Tug helps name the child’s relationship to what is happening.
 
 ---
 
-## 7. Same-Again Tug
+## 6. Toward / Away
 
-**Same-Again Tug** means the child wants something familiar to keep happening, or expects the old pattern to continue.
+**Toward / Away** means the child feels pulled toward something or away from something.
 
-This is the child-friendly version of continuity, habit, pattern, and form.
+A child might be pulled toward:
 
-Same-Again Tug asks:
+- a parent
+- a toy
+- a game
+- a friend
+- comfort
+- control
+- attention
+
+A child might be pulled away from:
+
+- a hard task
+- a transition
+- a loud room
+- a sibling
+- a rule
+- a feeling
+- an apology
+
+Adult language:
 
 ```text
-What do I want to stay the same?
-What keeps happening?
-What pattern am I used to?
-What old shape am I trying to keep?
+You want to go toward that.
+You want to get away from this.
+You need space, but you still need safe hands.
 ```
 
-Examples:
-
-- wanting the same bedtime routine
-- wanting to keep playing when it is time to leave
-- expecting a parent to always do something the same way
-- repeating a familiar argument
-- wanting the rules to stay exactly the same
-
-Same-Again Tug is not bad.
-
-Children need continuity. But sometimes the old pattern needs to change.
-
----
-
-## 8. Tug relations
-
-The three Tugs can combine.
-
-| Kid term | Canonical Layer 1 source | Short meaning |
-|---|---|---|
-| **Big Wanting** | **⟶⟷★● Quality–Contact Force Relation** | A strong feeling reaches toward something real. |
-| **Same Path** | **⟶⟷●■ Contact–Continuity Force Relation** | A repeated way of acting with people or things. |
-| **Familiar Feeling** | **⟶⟷★■ Quality–Continuity Force Relation** | A feeling that keeps coming back in a familiar way. |
-
-These terms are optional.
-
-For very young children, the simpler Tugs may be enough.
-
----
-
-## 9. Where I’m Being Pulled
-
-**Where I’m Being Pulled** is the Kid Register phrase for **⟶△ Force Formation**.
-
-It describes the whole pattern of what is pulling on the child.
-
-A child may be pulled by:
-
-- what feels big
-- what they want to go toward or away from
-- what they expect to stay the same
-
-A parent or teacher can ask:
+Useful question:
 
 ```text
-Where are you being pulled right now?
+Do you need help, space, or a smaller step?
 ```
 
-This question can help a child move from raw reaction into simple noticing.
-
 ---
 
-## 10. Room / Cup
+## 7. Same Pattern
 
-**Room / Cup** is the Kid Register translation of **⬡ The Three Capacities**.
+**Same Pattern** means the child wants the familiar thing to keep happening.
 
-It describes how much the child can hold right now.
+This is often very strong around:
 
-Children often need help understanding that they do not have the same amount of room all the time.
+- TV ending
+- bedtime
+- leaving the park
+- changing games
+- sharing
+- losing a turn
+- a parent saying no
+- a sibling changing the plan
 
-Sometimes the cup is big.
-
-Sometimes the cup is small.
-
-Sometimes the cup is already full.
-
-The three kinds of Room are:
-
-| Kid term | Canonical Layer 1 source | Short meaning |
-|---|---|---|
-| **Feelings-Room** | **⬡○★ Bodily/Regulatory Capacity** | How much feeling the child can hold. |
-| **Stuff-Room** | **⬡○● Social/Structural Capacity** | How much happening-stuff, people-stuff, noise-stuff, or task-stuff the child can handle. |
-| **Steady-Room** | **⬡○■ Form/Integrity Capacity** | How much steadiness, shape, or self-control the child has right now. |
-
----
-
-## 11. Feelings-Room
-
-**Feelings-Room** means how much feeling the child can hold.
-
-Feelings-Room asks:
+Adult language:
 
 ```text
-How big is this feeling?
-How much room do I have for it?
-Is my feelings-cup too full?
-Do I need help making more room?
+You wanted it to keep going.
+Your brain wanted the same pattern.
+It is hard when the pattern changes.
 ```
 
-Examples:
-
-- too much excitement
-- too much anger
-- too much disappointment
-- too much tiredness
-- too much worry
-- too much silliness to listen
-
-A child with low Feelings-Room may need help before they can explain, apologize, share, or solve the problem.
-
----
-
-## 12. Stuff-Room
-
-**Stuff-Room** means how much outside stuff the child can handle.
-
-This can include people, sounds, transitions, tasks, mess, instructions, waiting, sharing, or changes.
-
-Stuff-Room asks:
+Useful question:
 
 ```text
-Is there too much happening?
-Is there too much noise?
-Are there too many people?
-Is this task too big?
-What support would help?
+What changed?
 ```
 
-Examples:
+Same Pattern is not bad.
 
-- too many instructions at once
-- too much noise
-- too many transitions
-- too much waiting
-- too many people nearby
-- a hard task without enough help
+Children need rhythm, routine, and predictability.
 
-Stuff-Room can grow when the child has support.
+But sometimes the pattern has to change, and the child needs help with the switch.
 
 ---
 
-## 13. Steady-Room
+## 8. Cup / Room
 
-**Steady-Room** means how much shape, steadiness, and self-control the child has right now.
+**Cup / Room** is the Kid Register language for capacity.
 
-Steady-Room asks:
+It means:
 
 ```text
-Can I hold my body steady?
-Can I use safe hands?
-Can I wait?
-Can I remember the rule?
-Do I need a smaller next step?
+How much can this child hold right now?
 ```
 
-Examples:
+Children do not have the same amount of room all the time.
 
-- needing help keeping hands safe
-- needing a smaller job
-- needing a clear rule
-- needing a quiet place
-- needing help stopping
-- needing a reset before continuing
+A child may have less room when they are:
 
-Steady-Room is not about being “good” or “bad.”
+- tired
+- hungry
+- overstimulated
+- rushed
+- disappointed
+- embarrassed
+- worried
+- already upset
+- dealing with too many instructions
 
-It is about how much steadiness is available.
-
----
-
-## 14. My Whole Cup
-
-**My Whole Cup** is the Kid Register phrase for **⬡△ Capacity Formation**.
-
-It describes how much the child can hold overall.
-
-A child’s Whole Cup includes:
-
-- Feelings-Room
-- Stuff-Room
-- Steady-Room
-
-A parent or teacher can ask:
+Adult language:
 
 ```text
-How full is your cup?
-What would help make more room?
+Your cup is very full.
+You do not have much room right now.
+We need to make more room before we solve this.
 ```
-
-This helps shift the conversation away from blame and toward capacity.
 
 ---
 
-## 15. Inside Moves
+## 9. The three kinds of Room
 
-**Inside Moves** are the Kid Register translation of **↻ The Three Operations**.
+| Kid term | Meaning |
+|---|---|
+| **Feeling Room** | How much feeling the child can hold. |
+| **Help Room** | How much support, space, quiet, or adult help is available. |
+| **Steady Room** | How much steadiness, body control, and rule-holding is available. |
 
-Inside Moves are things the child can try.
+These are adult-facing distinctions.
+
+A child may only need:
+
+```text
+My cup is too full.
+I need help.
+I need a smaller step.
+```
+
+---
+
+## 10. Feeling Room
+
+**Feeling Room** means how much feeling the child can hold.
+
+When Feeling Room is low, the child may not be able to explain, apologize, share, listen, or solve the problem yet.
+
+Adult language:
+
+```text
+That feeling is too big to solve right now.
+First we make more room.
+Then we talk.
+```
+
+Useful next moves:
+
+- breathe together
+- sit nearby
+- lower voices
+- move to a quieter place
+- name the feeling
+- offer a hug if wanted
+- reduce demands briefly
+
+---
+
+## 11. Help Room
+
+**Help Room** means how much support the child has.
+
+Sometimes a child cannot do the next thing alone yet.
+
+Help Room can come from:
+
+- an adult staying close
+- fewer instructions
+- a quieter space
+- a visual cue
+- a timer
+- a smaller task
+- a clear rule
+- a predictable routine
+
+Adult language:
+
+```text
+This is hard to do alone.
+I will help you with the first step.
+```
+
+---
+
+## 12. Steady Room
+
+**Steady Room** means how much steadiness and self-control the child has right now.
+
+This is not about being good or bad.
+
+It is about whether the child has enough steadiness available for the moment.
+
+Adult language:
+
+```text
+Your body needs help getting steady.
+I will help you keep safe hands.
+We need a smaller next step.
+```
+
+Useful next moves:
+
+- safe hands
+- feet on the floor
+- sit beside an adult
+- take space from a sibling
+- hold a pillow
+- choose one small job
+- try again with help
+
+---
+
+## 13. Next Moves
+
+**Next Moves** are things the child can try.
 
 They are not punishments.
 
-They are ways to steer what is happening inside.
+They are small ways to steer what is happening.
 
-The three Inside Moves are:
+The three basic Next Moves are:
 
-| Kid term | Canonical Layer 1 source | Short meaning |
-|---|---|---|
-| **Turning the Volume** | **↻○★ Explore Operation** | Notice or adjust how big the feeling is. |
-| **Turning Toward or Away** | **↻○● Coordinate Operation** | Choose whether to face something, get help, move closer, or move away. |
-| **Letting Go of the Old Shape** | **↻○■ Stabilize Operation** | Stop trying to keep the old pattern and try a new shape. |
+| Kid term | Meaning |
+|---|---|
+| **Notice** | Name what is happening. |
+| **Get Help / Make Space** | Move toward help or away from trouble safely. |
+| **Try a New Pattern** | Stop the old pattern and try a smaller, safer, better one. |
 
----
-
-## 16. Turning the Volume
-
-**Turning the Volume** means noticing how big a feeling is and helping it become workable.
-
-Turning the Volume asks:
+In practice, the simplest question is:
 
 ```text
-How loud is this feeling?
-Does it need to get quieter?
-Does it need to be heard?
-What helps turn the volume down a little?
+What is the next safe move?
 ```
-
-Examples:
-
-- taking a breath
-- using a quieter voice
-- naming the feeling
-- getting a hug
-- squeezing a pillow
-- moving the body
-- saying, “This feeling is very loud”
-
-The goal is not to make the feeling disappear.
-
-The goal is to make it small enough to work with.
 
 ---
 
-## 17. Turning Toward or Away
+## 14. Notice
 
-**Turning Toward or Away** means choosing how to face what is happening.
+**Notice** means helping the child name what is happening.
 
-Sometimes the child needs to turn toward:
+Adult language:
+
+```text
+You are having a big feeling.
+You wanted it to keep going.
+Your cup is full.
+Your body is not ready yet.
+```
+
+The goal is not to force insight.
+
+The goal is to make the moment a little more nameable.
+
+---
+
+## 15. Get Help / Make Space
+
+**Get Help / Make Space** means choosing better contact.
+
+Sometimes the child needs to move toward:
 
 - a parent
-- an apology
-- a hard task
+- a hug
 - a repair
 - a clear instruction
+- a smaller version of the task
 
-Sometimes the child needs to turn away:
+Sometimes the child needs to move away from:
 
-- from hitting
-- from yelling
-- from a fight
-- from a toy that is causing trouble
-- from a situation that is too much right now
+- hitting
+- yelling
+- grabbing
+- a sibling
+- a toy that is causing trouble
+- a situation that is too much
 
-Turning Toward or Away asks:
+Adult language:
 
 ```text
-Do I need to face this?
-Do I need help?
-Do I need space?
-Do I need to move away safely?
+You can be mad, but you cannot hit.
+Move your body over here.
+I will help you.
 ```
 
 ---
 
-## 18. Letting Go of the Old Shape
+## 16. Try a New Pattern
 
-**Letting Go of the Old Shape** means stopping an old pattern so a new one can form.
+**Try a New Pattern** means the old pattern has to stop and a new one has to begin.
 
-It asks:
+This is hard for children.
+
+They often need adult help.
+
+Adult language:
 
 ```text
-What old pattern am I stuck in?
-What new shape can we try?
-What is the next safe thing?
+The old pattern is not working.
+We are going to try a new pattern.
+First we stop.
+Then we choose the next safe thing.
 ```
 
 Examples:
 
-- stopping a fight pattern
-- changing the game
-- starting the bedtime routine
-- trying a smaller version of the task
-- using words instead of grabbing
-- moving from screaming to resting
-
-This move is hard for children.
-
-They often need adult help to let go of the old shape.
+- stop grabbing and ask for a turn
+- stop yelling and take space
+- stop chasing and sit beside an adult
+- stop arguing and choose between two options
+- stop repeating the demand and start the transition
 
 ---
 
-## 19. My Inside-Steering
-
-**My Inside-Steering** is the Kid Register phrase for **↻△ Operation Formation**.
-
-It describes the child’s growing ability to steer from inside.
-
-Inside-Steering includes:
-
-- noticing what feels big
-- turning toward help
-- moving away safely
-- trying a new pattern
-- calming enough to choose the next move
-
-This is not instant self-control.
-
-It is a growing capacity.
-
----
-
-## 20. Diagnostic translation
+## 17. Diagnostic translation
 
 The canonical diagnostic overlay uses:
 
-- **∿ Slack**
-- **≡ Tight**
-- **↯ Misdirected**
-- **✓ Coherent Formation**
+- **Slack**
+- **Tight**
+- **Misdirected**
+- **Coherent Formation**
 
-In the Kid Register, these should be translated gently.
+In the Kid Register, translate these gently.
 
 | Canonical term | Kid Register translation |
 |---|---|
-| **∿ Slack** | Not enough. Too loose. Needs more help, room, or shape. |
-| **≡ Tight** | Too much. Too squeezed, too loud, too stuck, or too much pressure. |
-| **↯ Misdirected** | A real feeling or tug is aimed the wrong way. |
-| **✓ Coherent Formation** | Enough room, help, and steering to try the next good move. |
+| **Slack** | Not enough help, room, steadiness, contact, or clear shape. |
+| **Tight** | Too much pressure, too much feeling, too squeezed, too stuck. |
+| **Misdirected** | A real feeling is going the wrong way. |
+| **Coherent Formation** | Enough room, help, and steadiness for the next safe move. |
 
-Avoid making these sound like character judgments.
+Important:
 
 The child is not Slack, Tight, or Misdirected.
 
-A pattern is.
+The pattern is.
 
 ---
 
-## 21. Slack in the Kid Register
+## 18. Slack
 
-**∿ Slack** means there is not enough of something.
+**Slack** means there is not enough of something.
+
+Kid-facing language:
+
+```text
+We need more help.
+We need more room.
+We need a clearer next step.
+```
 
 Examples:
 
-- not enough help
-- not enough room
-- not enough steadiness
-- not enough clear shape
+- not enough adult support
+- not enough quiet
+- not enough body steadiness
+- not enough clear instruction
 - not enough energy
-- not enough contact with what is real
+- not enough transition time
 
-Kid-friendly question:
-
-```text
-What do we need more of?
-```
-
-Possible adult language:
+Adult language:
 
 ```text
-Your cup is too full and there is not enough room right now. Let’s make the next step smaller.
+This is too much to do without help.
+I will make the next step smaller.
 ```
 
 ---
 
-## 22. Tight in the Kid Register
+## 19. Tight
 
-**≡ Tight** means there is too much of something.
+**Tight** means there is too much pressure or too much intensity.
+
+Kid-facing language:
+
+```text
+This feeling is too loud.
+This is too squeezed.
+Your body is holding on very hard.
+```
 
 Examples:
 
-- too much pressure
-- too much noise
-- too much feeling
+- too much anger
+- too much excitement
+- too much pressure to be fast
 - too much controlling
-- too much holding on
-- too much “it has to be this way”
+- too much “it has to be my way”
+- too much fear of the change
 
-Kid-friendly question:
-
-```text
-What feels too squeezed?
-```
-
-Possible adult language:
+Adult language:
 
 ```text
-This feeling is very loud right now. We are going to make more space before we solve it.
+This feeling is very loud right now.
+We are going to make more space before we solve it.
 ```
 
 ---
 
-## 23. Misdirected in the Kid Register
+## 20. Misdirected
 
-**↯ Misdirected** means a real feeling or tug is aimed the wrong way.
+**Misdirected** means a real feeling is going the wrong way.
+
+The feeling may be real.
+
+The action may still be wrong.
 
 Examples:
 
-- anger at a sibling when the real problem is tiredness
-- yelling about a toy when the real problem is hunger
-- trying to control someone else because the child feels out of control inside
-- hitting because the child does not know how to move the feeling safely
+- mad feeling going into hitting
+- tired feeling going into screaming at a sibling
+- worry going into controlling everyone else
+- disappointment going into breaking something
+- hunger going into a fight about a toy
 
-Kid-friendly question:
-
-```text
-Is this feeling pointing at the right thing?
-```
-
-Possible adult language:
+Adult language:
 
 ```text
-Your mad feeling is real. But hitting your sister is the wrong place for that feeling to go.
+Your mad feeling is real.
+Hitting is the wrong place for that feeling to go.
+We need a safe place for the mad feeling.
 ```
 
 ---
 
-## 24. Coherent Formation in the Kid Register
+## 21. Coherent Formation
 
-**✓ Coherent Formation** means there is enough room, help, and steering to try the next good move.
+**Coherent Formation** means there is enough room, help, and steadiness for the next safe move.
 
-Kid-friendly version:
+Kid-facing language:
 
 ```text
 My feeling is big, but I have enough help to choose what to do next.
@@ -594,54 +591,86 @@ It means the child is ready enough to try.
 
 ---
 
-## 25. Practical check-in
+## 22. Practical check-in
 
 A simple Kid Register check-in:
 
 ```text
-1. What is pulling on me?
-2. Is my cup too full?
-3. What kind of room do I need?
-4. What Inside Move can I try?
-5. What is the next safe thing?
+1. What is the big feeling?
+2. Is the cup too full?
+3. Do we need help, space, or a smaller step?
+4. What is the next safe move?
 ```
 
 A shorter version:
 
 ```text
-What is the tug?
-How full is the cup?
-What is the next safe move?
+Big feeling?
+Full cup?
+Next safe move?
 ```
 
 ---
 
-## 26. Example use
+## 23. Example: turning off the TV
 
-Situation:
+### Situation
 
 ```text
 A child is furious because it is time to turn off the TV.
 ```
 
-Kid Register reading:
+### Kid Register reading
 
-- **Bright Tug:** The show feels very important and exciting.
-- **Same-Again Tug:** The child wants the fun pattern to keep going.
-- **Toward-or-Away Tug:** The child is pulled away from the parent’s instruction.
-- **Feelings-Room:** The cup may be too full.
-- **Steady-Room:** The child may not have enough steadiness to switch activities alone.
-- **Possible distortion:** Tight Same-Again Tug and low Steady-Room.
+- **Big Feeling:** The show feels very important.
+- **Same Pattern:** The child wants the fun pattern to keep going.
+- **Toward / Away:** The child is pulled away from the parent’s instruction.
+- **Feeling Room:** The cup may be too full.
+- **Steady Room:** The child may not have enough steadiness to switch activities alone.
+- **Likely pattern:** Tight Same Pattern and low Steady Room.
 
-Possible adult language:
+### Possible adult language
 
 ```text
-You really want the show to keep going. That tug is very strong. Your cup is too full for this switch, so I’m going to help you. First we turn it off, then we sit together for one minute, then we choose the next thing.
+You really wanted the show to keep going.
+That is a big feeling.
+Your cup is too full for this switch, so I am going to help you.
+First we turn it off.
+Then we sit together for one minute.
+Then we choose the next thing.
 ```
 
 ---
 
-## 27. Parent language principles
+## 24. Example: sibling conflict
+
+### Situation
+
+```text
+A child hits a sibling because the sibling changed the game.
+```
+
+### Kid Register reading
+
+- **Big Feeling:** The change feels unfair or upsetting.
+- **Same Pattern:** The child wanted the game to continue in the old way.
+- **Toward / Away:** The child moved toward the sibling with unsafe contact.
+- **Steady Room:** The child did not have enough steadiness for safe hands.
+- **Likely pattern:** Misdirected Big Feeling and low Steady Room.
+
+### Possible adult language
+
+```text
+You are mad that the game changed.
+That feeling is real.
+Hitting is the wrong place for that feeling to go.
+I will help you move away and get steady.
+Then we can find words for what happened.
+```
+
+---
+
+## 25. Parent language principles
 
 When using the Kid Register with children:
 
@@ -656,19 +685,20 @@ When using the Kid Register with children:
 Useful phrases:
 
 ```text
-That feeling is very loud.
+That is a big feeling.
 Your cup is too full.
 You need more room.
-That tug is real, but it cannot go into hitting.
+You can be mad, but you cannot hit.
+That feeling needs a safe place to go.
 Let’s find the next safe move.
-We can try a new shape now.
+We can try a new pattern.
 ```
 
 ---
 
-## 28. Caution
+## 26. Caution
 
-The Kid Register is a parenting and teaching language.
+The Kid Register is parenting and teaching language.
 
 It is not a clinical system.
 
@@ -680,22 +710,42 @@ Use it as a simple shared language for noticing, regulating, repairing, and choo
 
 ---
 
-## 29. Traceability note
+## 27. Traceability note
 
 The Kid Register remains traceable to Layer 1 and Layer 0.
 
 | Kid Register | Layer 1 | Layer 0 |
 |---|---|---|
-| **Bright Tug** | **⟶○★ Qualitative Force** | **★ Quality** |
-| **Toward-or-Away Tug** | **⟶○● Contact Force** | **● Contact** |
-| **Same-Again Tug** | **⟶○■ Continuity Force** | **■ Continuity** |
-| **Feelings-Room** | **⬡○★ Bodily/Regulatory Capacity** | **★ Quality** |
-| **Stuff-Room** | **⬡○● Social/Structural Capacity** | **● Contact** |
-| **Steady-Room** | **⬡○■ Form/Integrity Capacity** | **■ Continuity** |
-| **Turning the Volume** | **↻○★ Explore Operation** | **★ Quality** |
-| **Turning Toward or Away** | **↻○● Coordinate Operation** | **● Contact** |
-| **Letting Go of the Old Shape** | **↻○■ Stabilize Operation** | **■ Continuity** |
+| **Big Feeling** | **Qualitative Force** | **Quality** |
+| **Toward / Away** | **Contact Force** | **Contact** |
+| **Same Pattern** | **Continuity Force** | **Continuity** |
+| **Feeling Room** | **Bodily/Regulatory Capacity** | **Quality** |
+| **Help Room** | **Social/Structural Capacity** | **Contact** |
+| **Steady Room** | **Form/Integrity Capacity** | **Continuity** |
+| **Notice** | **Explore Operation** | **Quality** |
+| **Get Help / Make Space** | **Coordinate Operation** | **Contact** |
+| **Try a New Pattern** | **Stabilize Operation** | **Continuity** |
 
 The goal is not to teach a child the full framework.
 
 The goal is to give children and adults a shared language for what is happening and what can happen next.
+
+---
+
+## 28. Working rule
+
+When using the Kid Register, ask:
+
+```text
+What is the big feeling?
+How full is the cup?
+What is the next safe move?
+```
+
+If the child is too upset to use words, simplify further:
+
+```text
+Safe body first.
+More room.
+Talk later.
+```
