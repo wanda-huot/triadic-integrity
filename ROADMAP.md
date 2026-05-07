@@ -395,13 +395,106 @@ The decision: keep the current flat structure (`framework/`, `registers/`, `brid
 
 Revisit the directory reorganization only if the repository grows to a scale where the current structure becomes confusing.
 
-## Still ahead
+## Completed (continued)
 
-- Add a `registers/README.md` — stub for the Applied Framework registers directory.
-- Create structured JSON files for Layer 0, Layer 1, Layer 2, and diagnostics (`data/` directory).
-- Develop first real Bridge file (Peirce or Active Inference are strongest candidates).
-- Deepen at least one existing register with worked examples.
-- Build out `tools/` with at least one operational diagnostic tool.
+- ✓ Full terminology cleanup: all v1 "Layer 2 = Human Registers" drift removed.
+- ✓ Worked Example 1: `registers/worked-example-framecraft-vs-cinema.md` — Framecraft vs. Screening Room, mapped at Agent Scale, Agent–Field Scale, Relation–Field Scale, Recursive System Ecology.
+- ✓ `layer-2-recursive-system-scales.md`: added "Layer 1 at every scale" and "presentation / sustaining / repair scale" diagnostic rule.
+- ✓ Maintainer checklist added to `AGENT-START-HERE.md`.
+
+---
+
+## Agreed next-phase plan
+
+*Agreed between Gwendolyn, Wanda, and Yibbam before pausing active development.*
+
+### Priority 0 — Freeze the working v2 baseline
+
+Treat the following as the stable working architecture. Do not re-open naming or architecture unless a new example creates genuine friction that cannot be resolved within this structure.
+
+```text
+Core Framework:
+  Layer 0 — Structural (Quality, Contact, Continuity)
+  Layer 1 — Mechanical (Forces, Capacities, Operations; Slack, Tight, Misdirected, Coherent Formation)
+  Layer 2 — Recursive System Scales (Agent, Relation, Field, three relational scales, Recursive System Ecology)
+
+Applied Framework:
+  Registers — human-facing translations (not Layer 2)
+  Bridges — comparisons with external systems
+  Expression Formats — how the framework appears and operates
+  Tools — diagnostic and practical use
+
+Layer 2 diagnostic hinge:
+  presentation scale / sustaining scale / repair scale
+
+Canonical terminology:
+  The Three Forces (Layer 1), not The Three Pulls
+  The Three Pulls = Applied Framework Human Register
+```
+
+### Priority 1 — Two more worked examples
+
+Each example must include:
+- A **Scale Diagnosis** section: presentation scale / sustaining scale / repair scale
+- A **Layer 1 at each relevant scale** section: Forces / Capacities / Operations at each scale
+
+**Example 2: Relation Scale / Agent–Relation Scale**
+
+Use a real collaboration or interpersonal dynamic where the issue cannot be reduced to one person's inner state.
+
+Candidates:
+- Gwendolyn working with Wanda as a maintainer-agent relationship
+- Gwendolyn coordinating with a collaborator in the sensemaking community (e.g., Nick, Christian)
+- A real Screening Room collaboration dynamic, if not too sensitive
+
+Test question: *What is trying to happen between the agents that is not visible if we analyze only one person?*
+
+**Example 3: Field Scale / Relation–Field Scale**
+
+Use something structural, cultural, institutional, or organizational.
+
+Candidates:
+- The Screening Room as a field with recurring obligations, staff, customers, programming, and public-facing rhythms
+- The Framecraft / sensemaking community as a legitimacy-seeking intellectual ecology
+- The independent cinema field in Kingston / Ontario as a broader cultural-economic field
+
+Test question: *What pattern is being produced by the field itself, rather than by any single person's choices?*
+
+### Priority 2 — Stabilize Layer 2 after examples
+
+After both examples are written, revisit `framework/layer-2-recursive-system-scales.md` once, lightly. Check whether the presentation/sustaining/repair rule holds, whether the scale descriptions need refinement, and whether any new concepts earned their place.
+
+Do not revise Layer 2 before the examples are done.
+
+### Priority 3 — First Bridge: Active Inference
+
+Active Inference (Friston et al.) before Peirce. Active Inference directly tests agency, prediction, action, world-models, adaptation, and multi-scale systems — more likely to expose whether Layer 2 is genuinely useful or merely elegant.
+
+Keep the first Bridge modest. Use this format:
+- What Active Inference is, briefly
+- Why it is relevant to Triadic Integrity v2
+- Resonances
+- Mismatches
+- Translation table
+- Cautions / non-claims
+- One worked comparison using an existing example
+
+Do not claim equivalence or derivation.
+
+### Priority 4 — Scale-aware diagnostic extension
+
+Only after three worked examples exist. Then consider whether the diagnostic matrices need a scale column. Do not build this speculatively.
+
+### Explicitly deferred
+
+- JSON data files
+- New registers (deepen existing ones first)
+- Directory restructuring
+- Major formatting passes
+
+---
+
+**The main danger now is proliferation. The architecture is good enough. The next task is pressure-testing through concrete examples.**
 
 ---
 
