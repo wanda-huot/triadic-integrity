@@ -398,7 +398,7 @@ Revisit the directory reorganization only if the repository grows to a scale whe
 ## Completed (continued)
 
 - ✓ Full terminology cleanup: all v1 "Layer 2 = Human Registers" drift removed.
-- ✓ Worked Example 1: `registers/worked-example-framecraft-vs-cinema.md` — Framecraft vs. Screening Room, mapped at Agent Scale, Agent–Field Scale, Relation–Field Scale, Recursive System Ecology.
+- ✓ Worked Example 1: `registers/worked-example-framecraft-vs-cinema.md` — Framecraft vs. the cinema, mapped at Agent Scale, Agent–Field Scale, Relation–Field Scale, Recursive System Ecology.
 - ✓ `layer-2-recursive-system-scales.md`: added "Layer 1 at every scale" and "presentation / sustaining / repair scale" diagnostic rule.
 - ✓ Maintainer checklist added to `AGENT-START-HERE.md`.
 
@@ -444,8 +444,8 @@ Use a real collaboration or interpersonal dynamic where the issue cannot be redu
 
 Candidates:
 - Gwendolyn working with Wanda as a maintainer-agent relationship
-- Gwendolyn coordinating with a collaborator in the sensemaking community (e.g., Nick, Christian)
-- A real Screening Room collaboration dynamic, if not too sensitive
+- Gwendolyn coordinating with a collaborator in the sensemaking community
+- A real cinema collaboration dynamic, if not too sensitive
 
 Test question: *What is trying to happen between the agents that is not visible if we analyze only one person?*
 
@@ -454,7 +454,7 @@ Test question: *What is trying to happen between the agents that is not visible 
 Use something structural, cultural, institutional, or organizational.
 
 Candidates:
-- The Screening Room as a field with recurring obligations, staff, customers, programming, and public-facing rhythms
+- The cinema as a field with recurring obligations, staff, customers, programming, and public-facing rhythms
 - The Framecraft / sensemaking community as a legitimacy-seeking intellectual ecology
 - The independent cinema field in Kingston / Ontario as a broader cultural-economic field
 

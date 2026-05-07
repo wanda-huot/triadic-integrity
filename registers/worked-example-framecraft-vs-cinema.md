@@ -1,4 +1,4 @@
-# Worked Example: Framecraft vs. Screening Room
+# Worked Example: Framecraft vs. the Cinema
 
 **Status:** Working example — v2.0  
 **Category:** Applied Framework / Worked Example  
@@ -9,7 +9,7 @@
 
 ## The situation
 
-Gwendolyn is pulled toward Framecraft work while Screening Room work also needs attention.
+Gwendolyn is pulled toward Framecraft work while cinema work also needs attention.
 
 This is a recurring pattern: intellectual and creative energy pulls toward the framework project; operational and responsibility pulls toward the cinema. Both are real. Neither is wrong. But together they create friction.
 
@@ -86,7 +86,7 @@ But this coherent formation is **not achievable through individual willpower alo
 
 At Agent–Field Scale, the analysis shifts: Gwendolyn is not just a person with competing feelings. She is a person embedded in two different fields, and each field makes different demands on her.
 
-**Field 1: The Screening Room**
+**Field 1: The cinema**
 - This is an established, socially real field. It has staff, customers, community relationships, deadlines, financial stakes, and a clear public identity.
 - The field is strong and defined. It rewards cinema-related activity and makes Gwendolyn's role as owner legible.
 - Its implicit rule: *there is always more you could do for the cinema.*
