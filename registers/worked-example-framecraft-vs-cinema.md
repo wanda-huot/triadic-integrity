@@ -29,7 +29,35 @@ That analysis is not wrong. But it is incomplete.
 
 **v2 asks a prior question: at what scale is this actually happening?**
 
-The answer turns out to be multi-scale. The problem exists simultaneously at Agent Scale, Agent–Relation Scale, and Agent–Field Scale — and the v1 diagnosis misses the structural dimension entirely.
+The answer turns out to be multi-scale. The problem exists simultaneously at Agent Scale, Agent–Field Scale, and Relation–Field Scale — and the v1 diagnosis misses the structural dimension entirely.
+
+---
+
+## The core v2 diagnostic rule
+
+Before the scale-by-scale analysis, name the key v2 concept this example depends on.
+
+**At every scale, Layer 1 asks the same three mechanical questions:**
+
+```text
+Forces:     What is trying to happen at this scale?
+Capacities: What can this scale actually hold?
+Operations: What move can transform or tune the pattern at this scale?
+```
+
+**And v2 adds a diagnostic rule about scale:**
+
+> A problem may have a **presentation scale**, a **sustaining scale**, and a **repair scale**. These are often not the same.
+
+For this example:
+
+| Scale type | Scale | What it names |
+|---|---|---|
+| **Presentation scale** | Agent Scale | Gwendolyn feels pulled, pressured, and guilty. The tension is felt here. |
+| **Sustaining scale** | Agent–Field Scale | Cinema and Framecraft have unequal legitimacy, structure, and external accountability. The tension is maintained here. |
+| **Repair scale** | Relation–Field Scale | Create an enacted boundary between the two fields. The fix needs to happen here. |
+
+This is the core v2 hinge. Addressing only the presentation scale — regulating at Agent Scale — will not resolve a problem sustained at a structural level. v1 could name the symptom. v2 can locate where the repair needs to happen.
 
 ---
 
@@ -124,8 +152,11 @@ This is a recursive loop, not a one-time decision problem.
 - The repair requires work at a different scale than the symptom presents
 - Individual regulation attempts will keep failing until the field-level structure changes
 
-**The key v2 concept this demonstrates:**
+**The key v2 concepts this demonstrates:**
+
 **Scale mismatch** — the problem presents at Agent Scale but requires repair at Agent–Field and Relation–Field scales. Trying to fix a field-structure problem through individual willpower is a common and frustrating error. v2 makes this error visible and nameable.
+
+**Presentation / sustaining / repair scale distinction** — the scale where a problem is felt (presentation), the scale where it is maintained (sustaining), and the scale where the fix needs to land (repair) are often different. Identifying all three is the v2 diagnostic move.
 
 ---
 
@@ -148,7 +179,11 @@ This is a recursive loop, not a one-time decision problem.
 | Competing forces | Layer 1: The Three Forces |
 | Capacity constraint | Layer 1: The Three Capacities |
 | Tight / Misdirected / Slack | Layer 1: Diagnostic overlay |
-| Agent Scale, Agent–Field Scale, Relation–Field Scale | Layer 2: Recursive System Scales |
+| Agent Scale | Layer 2: ○ Agent Scale |
+| Agent–Field Scale | Layer 2: ⟷ Agent–Field Scale |
+| Relation–Field Scale | Layer 2: ⟷ Relation–Field Scale |
+| Recursive System Ecology | Layer 2: △ Recursive System Ecology |
 | Scale mismatch | Layer 2: Diagnostic concept |
-| Field asymmetry | Layer 2: Agent–Field Scale |
-| Structural boundary | Layer 2: Relation–Field Scale |
+| Presentation / sustaining / repair scale | Layer 2: Core v2 diagnostic rule |
+| Field asymmetry | Layer 2: Agent–Field Scale pattern |
+| Structural boundary | Layer 2: Relation–Field Scale repair |

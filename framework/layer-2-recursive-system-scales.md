@@ -128,6 +128,34 @@ This mirrors the Layer 0 grammar: three primitives, three dyads, one emergent wh
 
 ---
 
+## Layer 1 at every scale
+
+At every Layer 2 scale, Layer 1 asks the same three mechanical questions:
+
+```text
+Forces:     What is trying to happen at this scale?
+Capacities: What can this scale actually hold?
+Operations: What move can transform or tune the pattern at this scale?
+```
+
+The Layer 1 diagnostic overlay (Slack, Tight, Misdirected, Coherent Formation) applies at every scale. A pattern that is Tight at Agent Scale may be Slack at Relation–Field Scale. Scale-aware diagnosis requires checking each relevant scale independently.
+
+---
+
+## Presentation scale, sustaining scale, repair scale
+
+A core v2 diagnostic rule:
+
+> A problem may have a **presentation scale**, a **sustaining scale**, and a **repair scale**. These are often not the same.
+
+- **Presentation scale:** The scale where the problem is felt or noticed.
+- **Sustaining scale:** The scale where the pattern is maintained and reproduced.
+- **Repair scale:** The scale where an intervention would actually change the pattern.
+
+Addressing only the presentation scale often fails because the sustaining structure remains intact. v2 makes this error visible and nameable.
+
+---
+
 ## Relationship to Layers 0 and 1
 
 Layer 2 does not replace Layers 0 and 1. It locates them.
@@ -136,7 +164,7 @@ Layer 2 does not replace Layers 0 and 1. It locates them.
 - **Layer 1** describes how the system is moving and where it is malfunctioning (Forces, Capacities, Operations; Slack, Tight, Misdirected).
 - **Layer 2** identifies *which scale* is in question, and whether the diagnostic or repair work needs to happen at a different scale than it is currently being attempted.
 
-A common diagnostic error is scale mismatch: treating an Agent–Field problem as if it were only an Agent problem, or trying to repair a Relation–Field pattern through individual-level intervention alone.
+A common diagnostic error is **scale mismatch**: treating an Agent–Field problem as if it were only an Agent problem, or trying to repair a Relation–Field pattern through individual-level intervention alone.
 
 ---
 

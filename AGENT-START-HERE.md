@@ -232,7 +232,7 @@ Use this distinction:
 
 ```text
 Canonical Layer 1: The Three Forces
-Layer 2 Register: The Three Pulls
+Applied Framework Register: The Three Pulls
 ```
 
 Mapping:

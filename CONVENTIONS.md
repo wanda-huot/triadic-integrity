@@ -30,7 +30,7 @@ When another file conflicts with this one, assume this file is more current unle
 
 Use this description when a short explanation is needed:
 
-> The Triadic Integrity Framework is a working grammar for noticing what is happening, understanding stuckness, and choosing a better next move. It organizes experience through structural primitives, mechanical systems, and human-facing registers. The repository is written so that both humans and AI agents can read, test, and apply the framework.
+> The Triadic Integrity Framework is a working grammar for noticing what is happening, understanding stuckness, and choosing a better next move. It organizes experience through structural primitives, mechanical systems, and recursive system scales. Human-facing translations belong to the Applied Framework. The repository is written so that both humans and AI agents can read, test, and apply the framework.
 
 Avoid describing the framework as:
 
@@ -102,7 +102,7 @@ The framework is organized into three articulation layers.
 
 ```text
 Layer 0 → Layer 1 → Layer 2
-structure → mechanism → human language
+structure → mechanism → recursive system scales
 ```
 
 ### Layer 0: The Structural Layer
