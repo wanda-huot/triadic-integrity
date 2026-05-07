@@ -124,60 +124,49 @@ Coherent Formation is not a fourth distortion. It is the well-formed condition t
 
 ---
 
-### Layer 2: Human Registers
+### Layer 2: Recursive System Scales
 
-Layer 2 translates the framework into human-facing language.
+Layer 2 situates the framework within recursive scales of organization.
 
-A register is a way of speaking the framework for a particular audience, use case, or domain.
+It identifies the scale at which a pattern is operating — Agent, Relation, or Field — and attends to how those scales interact through their dyadic relations and emergent whole.
 
-Registers are translations, not separate frameworks.
-
-The Three Pulls Register is the original formative human-facing version of the framework.
+Layer 2 is structural, not applied. Human-facing translations belong to the Registers in the Applied Framework.
 
 ---
 
-## Bridges
+## Applied Framework
 
-Bridges are comparative translation documents.
+The Applied Framework is the practical and expressive work built on top of the Core Framework.
 
-They connect The Triadic Integrity Framework with external frameworks, theories, traditions, modalities, or vocabularies.
+It contains four categories:
 
-A Bridge asks:
+- **Registers** — how the framework speaks in different human domains.
+- **Bridges** — how the framework compares and translates across external systems.
+- **Expression Formats** — how the framework appears, circulates, and operates.
+- **Tools** — how the framework is used for diagnosis, reflection, and action.
 
-> How does The Triadic Integrity Framework relate to another system?
-
-Bridges are not Human Registers.
-
-Human Registers translate the framework into usable language for a particular audience, domain, or situation.
-
-Bridges compare the framework with an external system.
-
-Key distinction:
-
-- Human Registers = how the framework speaks.
-- Bridges = how the framework compares and translates across systems.
-- Expression Formats = how the framework appears, circulates, and operates.
+The Three Pulls Register is the original formative human-facing version of the framework, and lives in the Applied Framework.
 
 ---
 
-## Expression Formats
+## Applied Framework categories
 
-Expression Formats are the forms the framework can take so it can be stored, displayed, taught, navigated, reused, or executed.
+**Registers** translate the framework into usable language for a particular audience, domain, or situation.
 
-Examples include:
+**Bridges** connect the framework with external frameworks, theories, traditions, modalities, or vocabularies — identifying resonances, mismatches, and limits without overclaiming equivalence.
 
-- a GitHub Markdown repository,
-- printable PDFs,
-- diagrams,
-- structured data files,
-- a public website,
-- agent prompts,
-- interactive tools,
-- and physical models.
+**Expression Formats** are the forms the framework can take so it can be stored, displayed, taught, navigated, reused, or executed — GitHub Markdown, printable PDFs, diagrams, structured data, websites, agent prompts.
 
-Layer 2 registers describe how the framework speaks.
+**Tools** are practical artifacts for diagnosis, reflection, decision-making, and action.
 
-Expression Formats describe how the framework appears, circulates, and operates.
+Key distinctions:
+
+```text
+Registers = how the framework speaks.
+Bridges = how the framework compares and translates across systems.
+Expression Formats = how the framework appears, circulates, and operates.
+Tools = how the framework is used practically.
+```
 
 ---
 
@@ -192,7 +181,9 @@ Expression Formats describe how the framework appears, circulates, and operates.
     framework/
       layer-0-structural-layer.md
       layer-1-mechanical-layer.md
-      layer-2-human-registers.md
+      layer-1-diagnostic-matrix.md
+      layer-2-recursive-system-scales.md
+      layer-2-diagnostic-advice-matrix.md
 
     registers/
       three-pulls-register.md
@@ -208,6 +199,13 @@ Expression Formats describe how the framework appears, circulates, and operates.
       README.md
       github-markdown.md
 
+    tools/
+      README.md
+
+    archive/
+      README.md
+      layer-2-human-registers-v1.md
+
 ---
 
 ## Where to start
@@ -218,7 +216,8 @@ For a human reader:
 2. Read `QUICK-REFERENCE.md`.
 3. Read `framework/layer-0-structural-layer.md`.
 4. Read `framework/layer-1-mechanical-layer.md`.
-5. Read one register, probably `registers/three-pulls-register.md` or `registers/working-register.md`.
+5. Read `framework/layer-2-recursive-system-scales.md`.
+6. Read one register, probably `registers/three-pulls-register.md` or `registers/working-register.md`.
 6. Skim `bridges/README.md` if you want to understand how this framework may relate to outside systems.
 7. Skim `expression-formats/README.md` if you want to understand how the framework may be packaged, displayed, or used.
 

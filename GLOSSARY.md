@@ -83,9 +83,45 @@ The well-formed condition in which a triadic system holds together responsively.
 
 ---
 
+## Recursive System Scales
+
+The Layer 2 organization of the framework across scales of organization: Agent, Relation, Field, and their dyadic and emergent relations.
+
+---
+
+## Agent Scale
+
+The individual organism, person, or agent — the smallest coherent unit of analysis.
+
+---
+
+## Relation Scale
+
+The dyad, encounter, exchange, or relationship — the unit of the *between*.
+
+---
+
+## Field Scale
+
+The wider context, group, culture, ecology, or environment within which agents and relations are embedded.
+
+---
+
+## Scale Mismatch
+
+A diagnostic error in which a problem is addressed at the wrong scale — for example, treating an Agent–Field problem as if it were only an Agent problem.
+
+---
+
+## Applied Framework
+
+The practical and expressive work of the framework: Registers, Bridges, Expression Formats, and Tools. Distinct from the Core Framework (Layers 0, 1, 2).
+
+---
+
 ## Human Register
 
-A domain-specific or audience-specific translation of the framework into usable language.
+An Applied Framework translation of the framework into usable language for a particular audience, domain, or situation. Not the same as Layer 2.
 
 ---
 

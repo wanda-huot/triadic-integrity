@@ -42,7 +42,7 @@ Read the repository in this order:
 4. `QUICK-REFERENCE.md`
 5. `framework/layer-0-structural-layer.md`
 6. `framework/layer-1-mechanical-layer.md`
-7. `framework/layer-2-human-registers.md`
+7. `framework/layer-2-recursive-system-scales.md`
 8. Relevant files in `registers/`
 9. `bridges/README.md`
 10. Relevant files in `expression-formats/`
@@ -82,7 +82,7 @@ It organizes experience through three articulation layers:
 
 ```text
 Layer 0 → Layer 1 → Layer 2
-structure → mechanism → human language
+structure → mechanism → recursive system scales
 ```
 
 At a practical level, the framework asks:
@@ -121,13 +121,23 @@ The framework is a developing tool for reflection, diagnosis, translation, compa
 
 ## 6. Core repository categories
 
-The repository uses four major conceptual categories:
+The repository is organized into two zones:
+
+**Core Framework** (the foundational architecture):
 
 ```text
-Framework = the core structure itself.
-Human Registers = how the framework speaks.
+Layer 0 = structural primitives
+Layer 1 = mechanical systems
+Layer 2 = recursive system scales
+```
+
+**Applied Framework** (practical and expressive work):
+
+```text
+Registers = how the framework speaks in different human domains.
 Bridges = how the framework compares and translates across external systems.
 Expression Formats = how the framework appears, circulates, and operates.
+Tools = how the framework is used for diagnosis, reflection, and action.
 ```
 
 Do not collapse these categories into each other.
@@ -178,22 +188,29 @@ What move is available?            → Operations
 
 ---
 
-### Layer 2: Human Registers
+### Layer 2: Recursive System Scales
 
-Layer 2 translates the framework into human-facing language.
+Layer 2 situates the framework within recursive scales of organization.
 
-A Human Register is a domain-specific or audience-specific translation of the framework.
+The three elemental scales are:
 
-Examples:
+- **Agent Scale** — the individual organism, person, or agent
+- **Relation Scale** — the dyad, encounter, or relationship
+- **Field Scale** — the wider context, group, culture, or environment
 
-- **The Three Pulls Register**
-- **The Working Register**
-- **The Embodied Register**
-- **The Kid Register**
+The three relational scales are:
 
-Registers are not separate frameworks.
+- **Agent–Relation Scale** — how individuals form and inhabit relational structures
+- **Relation–Field Scale** — how relationships crystallize into norms and institutions
+- **Agent–Field Scale** — how individuals and cultural structures shape each other
 
-They are ways of speaking the same underlying structure.
+The emergent whole:
+
+- **Recursive System Ecology** — mutual causation across all scales
+
+Layer 2 is structural, not applied. It locates *where* a pattern is operating, and whether intervention needs to happen at a different scale than it is currently being attempted.
+
+Human-facing translations of these scales belong to the Registers (Applied Framework).
 
 ---
 
@@ -565,8 +582,10 @@ better tests.
 A useful agent working with this repository should be able to:
 
 - distinguish Layer 0, Layer 1, and Layer 2,
+- distinguish the Core Framework from the Applied Framework,
 - distinguish Forces from Pulls,
 - explain Slack, Tight, Misdirected, and Coherent Formation,
+- identify which Layer 2 scale a pattern is operating at,
 - choose an appropriate Human Register,
 - distinguish Human Registers from Bridges,
 - distinguish Bridges from Expression Formats,

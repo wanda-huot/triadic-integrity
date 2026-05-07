@@ -65,14 +65,14 @@ three primitives → three dyads → relational field → triadic integration
 
 ```text
 Layer 0 → Layer 1 → Layer 2
-structure → mechanism → human language
+structure → mechanism → recursive system scales
 ```
 
 | Layer | Name | Function |
 |---|---|---|
 | **Layer 0** | **The Structural Layer** | Defines Quality, Contact, Continuity, the dyads, and Triadic Integration. |
 | **Layer 1** | **The Mechanical Layer** | Translates the structure into Forces, Capacities, and Operations. |
-| **Layer 2** | **Human Registers** | Translates the framework into usable language for different audiences and domains. |
+| **Layer 2** | **Recursive System Scales** | Locates patterns within recursive scales of organization: Agent, Relation, Field, and their relations. |
 
 ---
 
@@ -141,11 +141,11 @@ Important distinction:
 
 ---
 
-## 8. Human Registers
+## 8. Human Registers (Applied Framework)
 
-**Human Registers** are Layer 2 translation layers.
+**Human Registers** are Applied Framework translations of the framework into usable language for different contexts.
 
-They are how the framework speaks in different contexts.
+They are not Layer 2. Layer 2 is Recursive System Scales.
 
 | Register | Best for |
 |---|---|
@@ -281,7 +281,10 @@ What would responsive formation require?     → Coherent Formation
 ### Layer 2
 
 ```text
-Which Human Register would make this easiest to use?
+At what scale is this pattern operating?
+  Agent / Relation / Field / Agent-Relation / Relation-Field / Agent-Field / Recursive System Ecology
+Is this being addressed at the right scale?
+Which Human Register (Applied Framework) would make this easiest to use?
 ```
 
 ### Bridges
@@ -316,7 +319,8 @@ Website?
 3. Ask whether the main issue is Force, Capacity, or Operation.
 4. Diagnose Slack, Tight, or Misdirected.
 5. Look for what Coherent Formation would require.
-6. Translate into the most useful Human Register.
-7. If comparing with an external system, treat that as Bridge work.
-8. If deciding how to store, show, or execute the material, treat that as Expression Format work.
+6. Identify the relevant Layer 2 scale — where is this pattern operating?
+7. Translate into the most useful Human Register (Applied Framework).
+8. If comparing with an external system, treat that as Bridge work.
+9. If deciding how to store, show, or execute the material, treat that as Expression Format work.
 ```

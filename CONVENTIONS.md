@@ -73,13 +73,23 @@ In the current architecture:
 
 ## 4. Core repository categories
 
-The repository uses four major conceptual categories.
+The repository is organized into two zones: the **Core Framework** and the **Applied Framework**.
+
+**Core Framework** contains the foundational architecture:
 
 ```text
-Framework = the core structure itself.
-Human Registers = how the framework speaks.
+Layer 0 = structural primitives (Quality, Contact, Continuity)
+Layer 1 = mechanical systems (Forces, Capacities, Operations)
+Layer 2 = recursive system scales (Agent, Relation, Field, and their relations)
+```
+
+**Applied Framework** contains the practical and expressive work:
+
+```text
+Registers = how the framework speaks in different human domains.
 Bridges = how the framework compares and translates across external systems.
 Expression Formats = how the framework appears, circulates, and operates.
+Tools = how the framework is used for diagnosis, reflection, and action.
 ```
 
 These categories should not be collapsed into each other.
@@ -117,11 +127,13 @@ Layer 1 translates the structural primitives into mechanical systems:
 
 Layer 1 is the main diagnostic layer.
 
-### Layer 2: Human Registers
+### Layer 2: Recursive System Scales
 
-Layer 2 translates the framework into human-facing language for specific domains, audiences, or use cases.
+Layer 2 situates the framework within recursive scales of organization.
 
-Human Registers are translations, not separate frameworks.
+It identifies the scale at which a pattern is operating — Agent, Relation, or Field — and how those scales interact through their dyadic relations and emergent whole.
+
+Layer 2 is structural, not applied. Human-facing translations belong to the Registers (Applied Framework).
 
 ---
 
@@ -291,7 +303,9 @@ In canonical files, prefer **Coherent Formation**.
 
 ## 11. Human Register conventions
 
-A Human Register is a Layer 2 translation of the framework into usable language for a particular audience, domain, or situation.
+A Human Register is an Applied Framework translation of the framework into usable language for a particular audience, domain, or situation.
+
+Registers are part of the Applied Framework, not Layer 2. Layer 2 is Recursive System Scales.
 
 Current working Human Registers:
 
@@ -658,13 +672,14 @@ PeirceBridge.md
 Use the current repository structure this way:
 
 ```text
-framework/             = the framework itself
-registers/             = Human Registers
-bridges/               = comparative translation documents
-expression-formats/    = ways the framework appears and operates
+framework/             = the Core Framework (Layers 0, 1, 2)
+registers/             = Applied Framework: Human Registers
+bridges/               = Applied Framework: comparative translation documents
+expression-formats/    = Applied Framework: ways the framework appears and operates
+tools/                 = Applied Framework: diagnostic and practical tools
+archive/               = retired or superseded material
 agents/                = future AI-agent materials
 data/                  = future machine-readable canon
-archive/               = retired or historical material
 examples/              = future worked examples
 ```
 
