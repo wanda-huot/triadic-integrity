@@ -67,7 +67,7 @@ In the current architecture:
 
 - The whole framework is **The Triadic Integrity Framework**.
 - The canonical Layer 1 System 1 is **The Three Forces**.
-- **The Three Pulls** is treated as a Layer 2 Human Register.
+- **The Three Pulls** is treated as an **Applied Framework Human Register**.
 
 ---
 

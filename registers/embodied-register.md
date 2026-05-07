@@ -1,7 +1,7 @@
 # The Embodied Register
 
 **Status:** Working draft  
-**Layer:** Layer 2: Human Registers  
+**Category:** Applied Framework / Human Register  
 **Source layer:** Layer 1: The Mechanical Layer  
 **Framework:** The Triadic Integrity Framework  
 **Author:** Gwendolyn Huot with ChatGPT  

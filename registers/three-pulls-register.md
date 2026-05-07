@@ -1,7 +1,7 @@
 # The Three Pulls Register
 
 **Status:** Working draft  
-**Layer:** Layer 2: Human Registers  
+**Category:** Applied Framework / Human Register  
 **Source layer:** Layer 1: The Mechanical Layer  
 **Framework:** The Triadic Integrity Framework  
 **Author:** Gwendolyn Huot with ChatGPT  
@@ -25,7 +25,7 @@ In the current architecture, the canonical Layer 1 system is called:
 
 The Three Pulls are not discarded.
 
-They are preserved as a **Layer 2 Human Register**: a practical translation of The Three Forces into language that is more intuitive, memorable, and usable in ordinary reflection.
+They are preserved as an **Applied Framework Human Register**: a practical translation of The Three Forces into language that is more intuitive, memorable, and usable in ordinary reflection.
 
 Use this register when the goal is practical self-guidance, day planning, parenting reflection, creative work, or everyday sensemaking.
 

@@ -22,8 +22,8 @@ Layer 0 is not yet about psychology, therapy, productivity, relationships, or pr
 It is the abstract structural grammar that later becomes usable through:
 
 - **Layer 1: The Mechanical Layer**
-- **Layer 2: Human Registers**
-- **Expression Formats** such as Markdown files, diagrams, agents, printable PDFs, websites, tables, and physical models
+- **Layer 2: Recursive System Scales**
+- **Applied Framework** materials such as Registers, Bridges, Expression Formats, and Tools
 
 Layer 0 asks:
 
@@ -424,7 +424,7 @@ Layer 1 is the mechanical model.
 
 ## 15. Relationship to Layer 2
 
-Layer 2 translates the framework into Human Registers.
+Layer 2 is Recursive System Scales.
 
 Layer 0 asks:
 
@@ -435,26 +435,28 @@ What is the structure?
 Layer 1 asks:
 
 ```text
-How does the structure work?
+How does the structure work mechanically?
 ```
 
 Layer 2 asks:
 
 ```text
-How can this structure be spoken in a way that is useful to a particular person, domain, audience, or situation?
+At what scale is this structure operating — Agent, Relation, Field, or their relational combinations?
 ```
 
-Examples of Human Registers include:
+The seven Layer 2 scales are:
 
-- **The Three Pulls Register**
-- **The Working Register**
-- **The Embodied Register**
-- **The Kid Register**
-- **Proposed Registers**
+- ○ Agent Scale
+- ○ Relation Scale
+- ○ Field Scale
+- ⟷ Agent–Relation Scale
+- ⟷ Relation–Field Scale
+- ⟷ Agent–Field Scale
+- △ Recursive System Ecology
 
-Layer 2 should remain traceable back to Layer 1 and Layer 0.
+Layer 0 primitives (Quality, Contact, Continuity) operate at every scale. Layer 2 locates *which* scale is relevant to a given situation.
 
-Human Registers are not separate frameworks. They are translation layers of one underlying triadic structure.
+Human-facing translations of the framework belong to the **Applied Framework** as Registers, not to Layer 2.
 
 ---
 
@@ -478,7 +480,7 @@ These terms should not be projected backward onto Layer 0 as if the primitives t
 
 Layer 0 describes structural variation.
 
-Layer 1 and Layer 2 can interpret those variations as practical patterns of stuckness, distortion, or coherent formation.
+Layer 1 can interpret those variations as practical patterns of stuckness, distortion, or coherent formation. Applied Framework Registers translate these into human-facing language for specific domains.
 
 ---
 

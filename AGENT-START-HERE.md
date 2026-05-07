@@ -613,3 +613,24 @@ If the diagnosis is uncertain, say so.
 If a practical next move is available, name it.
 
 If a comparison is being made, state the limits.
+
+---
+
+## 22. Maintainer checklist
+
+Before committing changes to this repository, check:
+
+```text
+1. Does this file treat Layer 2 as Recursive System Scales (not Human Registers)?
+2. Are Registers placed in the Applied Framework, not Layer 2?
+3. Is the Core Framework / Applied Framework distinction preserved?
+   Core Framework = Layers 0, 1, 2
+   Applied Framework = Registers, Bridges, Expression Formats, Tools
+4. Does it distinguish The Three Forces (canonical Layer 1) from The Three Pulls (Applied Framework Register)?
+5. Does it distinguish distortions (Slack, Tight, Misdirected) from Coherent Formation (the well-formed condition)?
+6. Does it distinguish Human Registers from Bridges from Expression Formats from Tools?
+7. Does it avoid overclaiming Peirce, active inference, therapy, spirituality, or science?
+8. Is everything traceable back to Layer 0 and Layer 1?
+9. Are tables valid Markdown?
+10. Is the file status label present and accurate?
+```
