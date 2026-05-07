@@ -380,21 +380,28 @@ A useful constraint:
 
 # Near-Term Work
 
-Near-term v2 work may include:
+## Completed
 
-1. Create `core-framework/README.md`.
-2. Draft `core-framework/layer-2-recursive-system-scales.md`.
-3. Move Human Registers into `applied-framework/registers/`.
-4. Rename `expression-formats/` to `applied-framework/formats/`.
-5. Create `applied-framework/README.md`.
-6. Create simple README files for:
-   - `registers/`
-   - `bridges/`
-   - `formats/`
-   - `tools/`
-7. Decide which v1 files should move into `archive-v1/`.
-8. Create structured JSON files for Layer 0, Layer 1, Layer 2, and diagnostics.
-9. Update `README.md`, `QUICK-REFERENCE.md`, `GLOSSARY.md`, `CONVENTIONS.md`, and `AGENT-START-HERE.md` to reflect the v2 architecture.
+- ✓ Draft `framework/layer-2-recursive-system-scales.md` — done.
+- ✓ Archive `framework/layer-2-human-registers.md` → `archive/` — done.
+- ✓ Create `tools/README.md` stub — done.
+- ✓ Update `README.md`, `QUICK-REFERENCE.md`, `GLOSSARY.md`, `CONVENTIONS.md`, and `AGENT-START-HERE.md` — done.
+
+## Directory structure note
+
+The proposed repository structure in this ROADMAP (using `core-framework/` and `applied-framework/` as parent directories) was deliberately not implemented in this round.
+
+The decision: keep the current flat structure (`framework/`, `registers/`, `bridges/`, `expression-formats/`, `tools/`, `archive/`) rather than nesting everything under `core-framework/` and `applied-framework/`. The Core/Applied distinction is documented throughout the root files and CONVENTIONS without requiring a directory reorganization. This avoids breaking existing paths and keeps the structure navigable.
+
+Revisit the directory reorganization only if the repository grows to a scale where the current structure becomes confusing.
+
+## Still ahead
+
+- Add a `registers/README.md` — stub for the Applied Framework registers directory.
+- Create structured JSON files for Layer 0, Layer 1, Layer 2, and diagnostics (`data/` directory).
+- Develop first real Bridge file (Peirce or Active Inference are strongest candidates).
+- Deepen at least one existing register with worked examples.
+- Build out `tools/` with at least one operational diagnostic tool.
 
 ---
 

@@ -93,13 +93,14 @@ How should an AI agent read and use this material?
 The repository is organized around these major sections:
 
 ```text
-framework/             = the framework itself
-registers/             = Human Registers
-bridges/               = comparative translation documents
-expression-formats/    = ways the framework appears and operates
+framework/             = the Core Framework (Layers 0, 1, 2)
+registers/             = Applied Framework: Human Registers
+bridges/               = Applied Framework: comparative translation documents
+expression-formats/    = Applied Framework: ways the framework appears and operates
+tools/                 = Applied Framework: diagnostic and practical tools
+archive/               = retired or superseded material
 agents/                = future AI-agent materials
 data/                  = future machine-readable canon
-archive/               = old, retired, or experimental material
 ```
 
 Not all future directories need to exist yet.
@@ -119,13 +120,9 @@ Current core files:
 ```text
 framework/layer-0-structural-layer.md
 framework/layer-1-mechanical-layer.md
-framework/layer-2-human-registers.md
-```
-
-Future framework file:
-
-```text
-framework/diagnostic-matrix.md
+framework/layer-1-diagnostic-matrix.md
+framework/layer-2-recursive-system-scales.md
+framework/layer-2-diagnostic-advice-matrix.md
 ```
 
 The framework files should define the structure itself.
@@ -145,7 +142,9 @@ The framework files are the main reference layer.
 
 ## 6. Register files
 
-The `registers/` directory contains **Layer 2 Human Registers**.
+The `registers/` directory contains **Applied Framework Human Registers**.
+
+Registers are not Layer 2. Layer 2 is Recursive System Scales.
 
 Current working register files:
 
@@ -174,7 +173,6 @@ It should remain traceable back to:
 
 - **Layer 0: The Structural Layer**
 - **Layer 1: The Mechanical Layer**
-- **Layer 2: Human Registers**
 
 ---
 
@@ -295,8 +293,9 @@ would contain actual working prompt material.
 
 Agent files should preserve the core distinctions:
 
-- Layer 0, Layer 1, Layer 2
-- Human Registers vs Bridges vs Expression Formats
+- Layer 0, Layer 1, Layer 2 (Recursive System Scales)
+- Core Framework vs Applied Framework
+- Human Registers vs Bridges vs Expression Formats vs Tools
 - The Three Forces vs The Three Pulls
 - Slack, Tight, Misdirected, and Coherent Formation
 - canonical structure vs register translation
@@ -364,7 +363,7 @@ Preferred:
 ```text
 layer-0-structural-layer.md
 layer-1-mechanical-layer.md
-layer-2-human-registers.md
+layer-2-recursive-system-scales.md
 three-pulls-register.md
 embodied-register.md
 github-markdown.md
@@ -577,7 +576,7 @@ When adding or editing Markdown in this repository, ask:
 What section does this belong in?
 Is this canonical, working draft, experimental, stub, archived, or retired?
 Does this use the current naming conventions?
-Does this preserve the distinction between Framework, Human Registers, Bridges, and Expression Formats?
+Does this preserve the distinction between Core Framework, Registers, Bridges, Expression Formats, and Tools?
 Can a human reader follow it?
 Can an AI agent use it?
 Does this help the repository become clearer rather than merely bigger?

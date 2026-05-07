@@ -134,7 +134,7 @@ These 21 components form the basis for the Layer 1 diagnostic matrix.
 
 In earlier and more human-facing versions of the framework, Layer 1 System 1 was called **The Three Pulls**, and its emergent formation was called the **Wholesome Triangle**.
 
-In the current architecture, that language belongs to **Layer 2: Human Registers**.
+In the current architecture, that language belongs to the **Applied Framework** as a Human Register — not to Layer 2, which is now Recursive System Scales.
 
 Canonical Layer 1 language uses:
 
@@ -844,21 +844,27 @@ If a practical answer becomes overloaded with symbols, return to plain language.
 
 ## 40. Relationship to Layer 2
 
-Layer 2 translates Layer 1 into Human Registers.
+Layer 2 is Recursive System Scales. It identifies the scale at which Layer 1 mechanics are operating — Agent, Relation, Field, or their relational combinations.
 
-Examples:
+Layer 1 mechanics (Forces, Capacities, Operations, distortions) apply at every scale. Layer 2 locates *which scale* is relevant to a given situation.
 
-| Layer 1 system | Possible Layer 2 translation |
+---
+
+## 40b. Relationship to the Applied Framework
+
+The Applied Framework translates Layer 1 into human-facing language through Registers.
+
+Register translations of Layer 1 include:
+
+| Layer 1 system | Example register vocabulary |
 |---|---|
 | **The Three Forces** | Pulls, Tugs, Demands, Currents, Tensions |
 | **The Three Capacities** | Hold, Room, Bandwidth, Holding, Container |
 | **The Three Operations** | Moves, Adjustments, Revisions, Practices, Inside Moves |
 
-Layer 2 language should remain traceable back to Layer 1.
+Register language should remain traceable back to Layer 1.
 
-Human Registers are allowed to be more intuitive, emotional, practical, poetic, child-friendly, spiritual, or domain-specific.
-
-But they should not override the canonical Layer 1 structure.
+Human Registers are allowed to be more intuitive, emotional, practical, poetic, child-friendly, spiritual, or domain-specific — but they should not override the canonical Layer 1 structure.
 
 ---
 
