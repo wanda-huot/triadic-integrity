@@ -1,18 +1,15 @@
-# Layer 2 Diagnostic Advice Matrix
+# Diagnostic Advice Guide
 
-**Relocated:** This file has moved to `tools/diagnostic-advice-guide.md`.
-
-The "Layer 2" name in this file's title is a v1 artifact — in v1, Layer 2 meant Human Registers and advice translation was Layer 2 work. In v2, Layer 2 is Recursive System Scales. This document is Applied Framework / Tools material, not a Layer 2 structural file.
-
-Please use `tools/diagnostic-advice-guide.md` going forward. This file is kept here temporarily for backwards compatibility.
-
----
+**Status:** Working draft  
+**Category:** Applied Framework / Tools  
+**Framework:** The Triadic Integrity Framework  
+**Author:** Gwendolyn Huot with Wanda
 
 *A practice-oriented translation of the Layer 1 Diagnostic Matrix*
 
-The Layer 2 Diagnostic Advice Matrix translates the 63 rows of the Layer 1 Diagnostic Matrix into human-facing advice families, representative practices, cautions, and register notes.
+This guide translates the 63 rows of the Layer 1 Diagnostic Matrix into human-facing advice families, representative practices, cautions, and register notes.
 
-The Layer 1 Diagnostic Matrix identifies structural distortions in the framework: ∿ Slack, ≡ Tight, and ↯ Misdirected. This Layer 2 matrix asks what kinds of personal development, therapeutic, philosophical, relational, and productivity practices tend to work on those distortions.
+The Layer 1 Diagnostic Matrix identifies structural distortions in the framework: ∿ Slack, ≡ Tight, and ↯ Misdirected. This guide asks what kinds of personal development, therapeutic, philosophical, relational, and productivity practices tend to work on those distortions.
 
 This is not a clinical treatment guide. It is a translation reference: a way of connecting structural diagnosis to practical human advice. In real use, advice should be adapted to context, severity, capacity, timing, and the person or system involved.
 
@@ -22,7 +19,7 @@ This is not a clinical treatment guide. It is a translation reference: a way of 
 2. Read the human-facing stuckness to translate the structural distortion into ordinary experience.
 3. Consider the advice family and representative practices.
 4. Check the caution column before applying the advice.
-5. Adapt the advice through the most relevant Layer 2 register.
+5. Adapt the advice through the most relevant Applied Framework register.
 
 ## Register Note Taxonomy
 
