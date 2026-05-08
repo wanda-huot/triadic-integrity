@@ -1,6 +1,6 @@
 # Layer 2: Recursive System Scales
 
-**Status:** Working draft — v2.0
+**Status:** Stable — v2.1 (stabilized after three worked examples)
 **Author:** Gwendolyn Huot
 
 ---
@@ -77,10 +77,13 @@ Typical questions at this scale:
 
 The interface between relational dynamics and wider structural patterns. Repeated relational exchanges crystallize into roles, norms, organizations, and institutions. This scale attends to how the interpersonal becomes structural.
 
+Crystallized patterns include explicit structures (formal rules, contracts, organizations) and implicit ones — unspoken agreements about what parties owe each other that were never formally negotiated but govern behavior as if they were. These implicit patterns are often harder to revise than any individual decision, because they are held in the structure of the relationship rather than in any single participant's choice.
+
 Typical questions at this scale:
 - What relational patterns are being reproduced at scale?
 - How are group norms, institutional rules, or cultural expectations shaping this relationship?
 - What would it take to change the structural pattern, not just the individual exchange?
+- Is this pattern explicit and negotiable, or implicit and harder to revise?
 
 ---
 
@@ -103,12 +106,15 @@ Typical questions at this scale:
 
 No scale is self-contained. Agents shape relations; relations shape fields; fields shape agents. This scale names the whole recursive dynamic — the ecology of mutual causation across all levels.
 
+Critically, patterns at one scale can sustain or block patterns at another. A structural condition at Field Scale can generate pressure that presents as distortion at Agent Scale. A relational pattern at Relation Scale can crystallize into a structural obligation at Relation–Field Scale that no single participant can revise unilaterally. Recursive System Ecology is where these cross-scale interactions become visible as a system, rather than as isolated problems at separate levels.
+
 At this scale, the framework is less a diagnostic tool and more an orientation: *where is the pattern being held, and at what scale does it need to be addressed?*
 
 Typical questions at this scale:
 - At what scale is this problem most tractable?
 - Is this being addressed at the right level, or is it being addressed at the wrong scale (e.g., treating a field-level problem as an agent-level failure)?
-- What would a coherent formation look like across all three scales simultaneously?
+- How are patterns at different scales reinforcing or blocking each other?
+- What would a coherent formation look like across all relevant scales simultaneously?
 
 ---
 
@@ -139,6 +145,8 @@ Operations: What move can transform or tune the pattern at this scale?
 ```
 
 The Layer 1 diagnostic overlay (Slack, Tight, Misdirected, Coherent Formation) applies at every scale. A pattern that is Tight at Agent Scale may be Slack at Relation–Field Scale. Scale-aware diagnosis requires checking each relevant scale independently.
+
+An important corollary: a diagnostic at Field Scale names a structural condition — a pattern the field itself produces, independent of any individual's choices or failures. Tight at Field Scale means the field's structure reliably generates demand that exceeds capacity. This is not a personal failure of anyone within the field; it is a feature of the field's organization. Misattributing a structural diagnostic to an agent is a specific form of scale mismatch.
 
 ---
 
