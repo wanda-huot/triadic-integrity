@@ -468,20 +468,9 @@ After both examples are written, revisit `framework/layer-2-recursive-system-sca
 
 Do not revise Layer 2 before the examples are done.
 
-### Priority 3 — First Bridge: Active Inference
+### Priority 3 — First Bridge: Active Inference ✓
 
-Active Inference (Friston et al.) before Peirce. Active Inference directly tests agency, prediction, action, world-models, adaptation, and multi-scale systems — more likely to expose whether Layer 2 is genuinely useful or merely elegant.
-
-Keep the first Bridge modest. Use this format:
-- What Active Inference is, briefly
-- Why it is relevant to Triadic Integrity v2
-- Resonances
-- Mismatches
-- Translation table
-- Cautions / non-claims
-- One worked comparison using an existing example
-
-Do not claim equivalence or derivation.
+- ✓ `bridges/active-inference-bridge.md` — complete. Covers: what Active Inference is; why it's relevant to v2; resonances (Contact/prediction error, Continuity/generative model, Layer 2 scales/nested Markov blankets); mismatches (AI is reductive, Quality is not precision, Misdirected has no clean equivalent, relational scales are not natural AI categories); translation table; cautions; worked comparison using the cinema example.
 
 ### Priority 4 — Scale-aware diagnostic extension
 
