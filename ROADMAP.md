@@ -401,6 +401,8 @@ Revisit the directory reorganization only if the repository grows to a scale whe
 - ✓ Worked Example 1: `registers/worked-example-framecraft-vs-cinema.md` — Framecraft vs. the cinema, mapped at Agent Scale, Agent–Field Scale, Relation–Field Scale, Recursive System Ecology.
 - ✓ `layer-2-recursive-system-scales.md`: added "Layer 1 at every scale" and "presentation / sustaining / repair scale" diagnostic rule.
 - ✓ Maintainer checklist added to `AGENT-START-HERE.md`.
+- ✓ Worked Example 2: `registers/worked-example-gwendolyn-wanda.md` — Gwendolyn and Wanda as a human–AI collaboration, mapped at Agent Scale, Relation Scale, Agent–Relation Scale, Recursive System Ecology. Demonstrates Relational Slack and asymmetric entry patterns.
+- ✓ Worked Example 3: `registers/worked-example-cinema-as-field.md` — The cinema as a field, mapped at Field Scale, Relation–Field Scale, Recursive System Ecology. Demonstrates structural Tight as field condition, implicit community contract as Relation–Field pattern.
 
 ---
 
