@@ -462,19 +462,18 @@ Candidates:
 
 Test question: *What pattern is being produced by the field itself, rather than by any single person's choices?*
 
-### Priority 2 — Stabilize Layer 2 after examples
+### Priority 2 — Stabilize Layer 2 after examples ✓
 
-After both examples are written, revisit `framework/layer-2-recursive-system-scales.md` once, lightly. Check whether the presentation/sustaining/repair rule holds, whether the scale descriptions need refinement, and whether any new concepts earned their place.
-
-Do not revise Layer 2 before the examples are done.
+- ✓ `framework/layer-2-recursive-system-scales.md` — v2.1, stable. Added: implicit contract as a named Relation–Field pattern; structural-vs-personal corollary for Field-Scale diagnostics; cross-scale reinforcement named explicitly in Recursive System Ecology.
 
 ### Priority 3 — First Bridge: Active Inference ✓
 
 - ✓ `bridges/active-inference-bridge.md` — complete. Covers: what Active Inference is; why it's relevant to v2; resonances (Contact/prediction error, Continuity/generative model, Layer 2 scales/nested Markov blankets); mismatches (AI is reductive, Quality is not precision, Misdirected has no clean equivalent, relational scales are not natural AI categories); translation table; cautions; worked comparison using the cinema example.
 
-### Priority 4 — Scale-aware diagnostic extension
+### Priority 4 — Scale-aware diagnostic extension ✓
 
-Only after three worked examples exist. Then consider whether the diagnostic matrices need a scale column. Do not build this speculatively.
+- ✓ Added **Relevant scales** column to all 63 rows of `framework/layer-1-diagnostic-matrix.md`. Each row lists scales in order of diagnostic relevance. Most rows are primarily Agent Scale (matrix was written from individual psychology perspective); rows 39, 41, 42 (Capacity Formation) and 56, 57 (Contact–Continuity Operations) are most naturally Field / Relation–Field.
+- ✓ Relocated advice matrix from `framework/layer-2-diagnostic-advice-matrix.md` → `tools/diagnostic-advice-guide.md` and corrected its category to Applied Framework / Tools (the "Layer 2" name was a v1 artifact).
 
 ### Explicitly deferred
 
