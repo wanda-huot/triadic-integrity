@@ -393,6 +393,163 @@ The goal is informed, comparative, playful, emotionally intelligent engagement �
 
 ---
 
+## Synthetic Phenomenology: AI as Phenomenology Synthesizer
+
+*Added May 2026 — "Synthetic Phenomenology" is a phrase worth keeping.*
+
+The real AI opportunity here is not having AI answer phenomenological questions from first principles. It is having AI synthesize the large-scale phenomenology that already exists.
+
+The internet already contains millions of fragments of:
+- testimonials and conversion stories
+- Reddit discussions and backlash posts
+- therapy reflections and burnout posts
+- "this changed my life" posts and regret stories
+- YouTube comments and integration stories
+- blog posts and critical essays
+
+The raw phenomenological data already exists. The challenge is extracting recurring patterns: emotional effects, behavioral effects, identity effects, distortions, typical trajectories, failure modes, demographic and contextual clustering.
+
+This is an excellent AI problem.
+
+The output should not pretend to be objective truth. It should explicitly be framed as:
+
+> *"Based on large-scale discourse and reported experience, people commonly report that this framework tends to…"*
+
+That epistemic humility matters enormously.
+
+---
+
+### Example: Synthetic Phenomenology Profile
+
+**Internal Family Systems (synthetic phenomenology)**
+
+Commonly helps people perceive:
+- internal multiplicity
+- conflicting motivations
+- protective emotional patterns
+- shame as protective rather than evil
+- childhood-derived coping structures
+
+Commonly helps people contact:
+- grief
+- vulnerability
+- compassion toward self
+- emotional nuance
+- embodied emotional states
+
+Commonly helps people sustain:
+- reflective self-observation
+- gentler self-talk
+- emotional curiosity
+- long-term therapeutic work
+
+Common distortions or risks:
+- over-personification of ordinary thoughts
+- excessive inwardness
+- avoidance of material/social causes
+- identity attachment to woundedness
+- therapeutic over-processing
+
+Common avoidances:
+- direct confrontation
+- external structural change
+- decisive action under uncertainty
+
+Commonly associated becoming:
+- softer self-concept
+- increased emotional literacy
+- therapeutic identity formation
+- calmer relational patterns
+
+Reported aftertaste:
+- emotionally clarifying
+- tender
+- psychologically rich
+- occasionally self-absorbing
+- sometimes destabilizing early on
+
+Most resonant for:
+- people recovering from shame-heavy environments
+- reflective/introspective personalities
+- therapy-engaged populations
+
+Common criticism:
+- vague metaphysics
+- insufficient attention to power/material conditions
+- tendency toward endless self-analysis
+
+---
+
+This is a very different object from "Here's what IFS officially claims." It is AI-generated cultural phenomenology.
+
+---
+
+### Design Principles
+
+**1. Separate Official Claims from Reported Effects**
+
+Frameworks say one thing about themselves. Users report another. You want both.
+
+Example — Stoicism:
+- *Official framing:* "Stoicism teaches virtue and emotional resilience."
+- *Reported effects:* emotional steadiness, reduced catastrophizing, increased self-control, occasional emotional suppression, tendency toward detached masculinity-performance online.
+
+Those are different layers. Both matter.
+
+**2. Distinguish Short-Term from Long-Term Effects**
+
+Many frameworks produce exciting short-term effects and concerning long-term effects — or vice versa.
+
+Examples:
+- Productivity systems: immediate clarity → later compulsive optimization
+- Meditation: initial distress → later stabilization
+- Jungian work: initial profundity → later identity theatre
+
+AI could detect these trajectory patterns. That is genuinely useful.
+
+**3. Treat Frameworks Like Psychoactive Substances**
+
+Analytically useful, not just provocative. Every framework has: dose, context sensitivity, contraindications, interaction effects, dependency risk, honeymoon period, integration difficulty, social environment effects.
+
+More honest than pretending frameworks are neutral information objects.
+
+**4. Use Multi-Community Sampling**
+
+Reddit alone would distort results. Synthesis should span: Reddit, therapist writing, critical essays, YouTube, academic critique, enthusiast communities, ex-user backlash communities, casual users, long-term practitioners.
+
+Otherwise you get ideological bubbles.
+
+**5. AI Should Surface Tensions, Not Resolve Them**
+
+The system should not say: "IFS is good." It should say: "Different populations report different effects."
+
+Good outputs include:
+- strongest advocates say…
+- common criticism says…
+- newcomers often report…
+- long-term practitioners often report…
+- skeptics commonly object that…
+
+That structure protects against guru-ification.
+
+**6. The Real Unit Is Probably Not "Truth"**
+
+The unit becomes: experiential tendency, attentional shaping, emotional residue, identity formation, practical effect, discourse pattern, behavioral drift.
+
+AI becomes less like Wikipedia and more like a cross between a cultural anthropologist, a phenomenology archivist, a therapist, a critic, and a recommendation engine.
+
+---
+
+### Connection to the Atlas
+
+The Atlas captures: lineage, domain, territory, register, claimed problem, relationships between systems.
+
+The synthetic phenomenology layer captures: lived reports, phenomenology, aftertaste, identity effects, distortions, practical consequences.
+
+Together, they form something unusually powerful: a map of both what frameworks *say they are* and what they *actually tend to do to people*.
+
+---
+
 ## Intersection Map
 
 This idea sits at the intersection of:
