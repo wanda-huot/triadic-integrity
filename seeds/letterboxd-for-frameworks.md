@@ -309,6 +309,90 @@ This may be one of the most important cultural needs emerging right now, because
 
 ---
 
+## Limits and Risks
+
+*Synthesized from critique and response — added May 2026.*
+
+### The analogy has a hard limit
+
+Frameworks are not just entertainment objects. They are participatory technologies.
+
+A movie can affect you, but it usually does not ask you to reorganize your marriage, reframe your childhood, change your nervous system practices, reinterpret your desires, or distrust your existing habits of thought. Frameworks do.
+
+So the analogy is not:
+
+> frameworks = movies
+
+It is:
+
+> frameworks = playable media / practices / inner technologies with aesthetic, social, and psychological effects
+
+This keeps the Letterboxd energy while adding responsibility. The more precise platform name might be: *a social criticism platform for inner technologies — focused on lived effect, context, and aftertaste.*
+
+The genre taxonomy is still useful as the playful surface. It is not the engine. The deeper engine is:
+
+> *What does this framework help you perceive, contact, sustain, distort, avoid, or become?*
+
+That question is probably the core.
+
+---
+
+### The genre frame can produce shallow engagement
+
+If someone approaches IFS as a "prestige drama they're exploring," do they do the work? The aesthetic frame may give permission to consume without engaging. Some frameworks require genuine vulnerability — somatic experiencing, attachment work, parts work — that the consumer stance undermines. Not all frameworks are safe to engage casually. The cultural maturity of film criticism partly depends on films being safe to approach as entertainment. Not all inner technologies are.
+
+---
+
+### The aftertaste model is where the platform becomes more than cute
+
+What the aftertaste model adds that simple ratings don't: it evaluates the residue, not just the moment of use.
+
+- more grounded / more self-absorbed
+- more compassionate / more suspicious
+- more alive / more grandiose
+- more practical / more performative
+- more regulated / more fragmented
+
+Many frameworks feel compelling during use but produce unhealthy aftereffects. The aftertaste model captures this. It is not "I liked it, 4 stars." It is "here is what it left in me."
+
+---
+
+### TIF as review grammar
+
+The triadic structure offers a disciplined grammar for framework reviews that are personal but not arbitrary.
+
+A review written through TIF might ask:
+
+**★ Quality — What became salient?**
+What did this framework make you notice? What previously invisible patterns, feelings, or structures came into view?
+
+**● Contact — What did it put you in contact with?**
+Emotion? The body? Other people? Practical action? Conflict? Reality you had been avoiding?
+
+**■ Continuity — What continued afterward?**
+A habit, a distortion, a useful phrase, a new identity, a dependency, a calmer nervous system, a more fragmented sense of self?
+
+This makes the Atlas (cartography) and the Letterboxd (travel writing) complementary rather than competing. The Atlas classifies the territory. Reviews describe what it is like to travel there. TIF provides the grammar for a review that is more than taste.
+
+---
+
+### The algorithm concern is serious
+
+A recommendation engine for frameworks would not be recommending shoes or movies. It would be recommending interpretive systems for people's lives. That is identity-shaping power. Whoever trains the system shapes how people relate to their inner life — at scale.
+
+Any platform built on this model would need strong architectural norms:
+
+- No single "best framework"
+- Context before ranking
+- Review the aftereffects, not just the appeal
+- Distinguish casual exploration from clinical or therapeutic use
+- Make risks and contraindications visible
+- Keep pluralism built into the architecture, not an afterthought
+
+The goal is informed, comparative, playful, emotionally intelligent engagement — not a new optimization loop for identity formation.
+
+---
+
 ## Intersection Map
 
 This idea sits at the intersection of:
